@@ -7,9 +7,9 @@ last_dispatch=0
 while true; do
   now=$(date +%s)
   git fetch -q origin main 2>>$LOG
-  last=$(git log -1 --format=%ct origin/main 2>/dev/null || echo 0)
+  last=$(git log -1 --format=%ct origin/main -- data 2>/dev/null || echo 0)
   age=$(( now - last ))
-  if [ $age -gt 840 ] && [ $(( now - last_dispatch )) -gt 600 ]; then
+  if [ $age -gt 1200 ] && [ $(( now - last_dispatch )) -gt 600 ]; then
     if gh workflow run snapshot.yml >>$LOG 2>&1; then
       echo "$(date -Is) age=${age}s dispatched" >>$LOG
     else
