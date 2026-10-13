@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    >
+
+<channel>
+    <title>The Block</title>
+    <link>https://www.theblock.co</link>
+    <atom:link href="https://www.theblock.co/rss.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.theblock.co/rss.xml?paged=2" rel="next" type="application/rss+xml" />
+    <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
+    <description>The Block features breaking Crypto news about Bitcoin, Blockchain, Web3, and DeFi from the web&#039;s most reliable source.</description>
+    <lastBuildDate>Tue, 13 Oct 2026 06:49:48 +0000</lastBuildDate>
+    <language>en-US</language>
+    <copyright>© 2026 THE BLOCK</copyright>
+    <generator>TheBlock</generator>
+    <ttl>5</ttl>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    <image>
+        <url>https://www.tbstat.com/wp/uploads/2024/03/the-block-logo-wordmark-black.png</url>
+        <title>The Block</title>
+        <link>https://www.theblock.co</link>
+    </image>
+        <item>
+        <title><![CDATA[Binance VIP head says hedge funds are actively exploring arbitrage opportunities on crypto venues]]></title>
+        <link>https://www.theblock.co/news/business/2026-10-13-binance-vip-head-hedge-funds-exploring-arbitrage-418389</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/catherine_chen_binance_1920x1080.jpg" type="image/*" medium="image"/>        <guid isPermaLink="false">80e962b6-959f-5ad4-a49a-afa82b605c30</guid>
+        <pubDate>Tue, 13 Oct 2026 05:44:14 +0000</pubDate>
+            <description><![CDATA[The executive cited improved depth, 24/7 trading and weekend price discovery as reasons why the opportunities have become more relevant.]]></description>            <dc:creator><![CDATA[Danny Park]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/companies"><![CDATA[Companies]]></category>
+		<category domain="https://www.theblock.co/category/crypto-ecosystems"><![CDATA[Crypto Ecosystems]]></category>
+		<category domain="https://www.theblock.co/category/defi"><![CDATA[DeFi]]></category>
+		<category domain="https://www.theblock.co/category/exchanges"><![CDATA[Exchanges]]></category>
+		<category domain="https://www.theblock.co/category/markets"><![CDATA[Markets]]></category>
+		<category domain="tag"><![CDATA[Binance]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Bitcoin whale moves $378 million in BTC after six years of dormancy: onchain data]]></title>
+        <link>https://www.theblock.co/news/markets/2026-10-13-bitcoin-whale-moves-378-million-418383</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/09/20250917_Whale_News_2.jpg" type="image/*" medium="image"/>        <guid isPermaLink="false">c036efec-f6c1-5836-99d6-5f4787758a4c</guid>
+        <pubDate>Tue, 13 Oct 2026 04:18:30 +0000</pubDate>
+            <description><![CDATA[The wallet originally received 4,582 BTC in March 2020, when the holdings were worth roughly $40.8 million.]]></description>            <dc:creator><![CDATA[Timmy Shen]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/markets"><![CDATA[Markets]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Bitcoin slides below $82,000 as crypto liquidations surge past $770 million]]></title>
+        <link>https://www.theblock.co/news/markets/2026-10-12-bitcoin-slides-crypto-liquidations-surge-418374</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/bitcoin-market.png" type="image/*" medium="image"/>        <guid isPermaLink="false">03f2415a-197d-581c-a65e-2186f172c02d</guid>
+        <pubDate>Tue, 13 Oct 2026 01:57:49 +0000</pubDate>
+            <description><![CDATA[Crypto liquidations amounted to $771 million over the past 24 hours, including $685.6 million in long positions.]]></description>            <dc:creator><![CDATA[Timmy Shen]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/markets"><![CDATA[Markets]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Blur to shut down frontend next month as NFT trading volume dwindles]]></title>
+        <link>https://www.theblock.co/news/ecosystems/2026-10-12-blur-nft-marketplace-shutting-down-frontend-blend-418363</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2022/11/20221107_Blur3.jpg" type="image/*" medium="image"/>        <guid isPermaLink="false">b83c43e0-46a5-531b-9a79-fd025c1c1587</guid>
+        <pubDate>Mon, 12 Oct 2026 21:49:02 +0000</pubDate>
+            <description><![CDATA[The NFT marketplace's frontend next month while the protocol stays onchain. The BLUR token fell more than 20%.]]></description>            <dc:creator><![CDATA[Jason Shubnell]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/art-and-collectibles"><![CDATA[Art and collectibles]]></category>
+		<category domain="https://www.theblock.co/category/companies"><![CDATA[Companies]]></category>
+		<category domain="https://www.theblock.co/category/corporate-nfts"><![CDATA[Corporate NFTs]]></category>
+		<category domain="https://www.theblock.co/category/crypto-ecosystems"><![CDATA[Crypto Ecosystems]]></category>
+		<category domain="https://www.theblock.co/category/fashion-nfts"><![CDATA[Fashion NFTs]]></category>
+		<category domain="https://www.theblock.co/category/nfts-gaming-and-metaverse"><![CDATA[Metaverse & NFT]]></category>
+		<category domain="https://www.theblock.co/category/nft-brands"><![CDATA[NFT brands]]></category>
+		<category domain="https://www.theblock.co/category/nft-collections"><![CDATA[NFT Collections]]></category>
+		<category domain="https://www.theblock.co/category/nft-marketplaces"><![CDATA[NFT Marketplaces]]></category>
+		<category domain="https://www.theblock.co/category/metaverse-and-nft-people"><![CDATA[People]]></category>
+		<category domain="tag"><![CDATA[NFTs]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[CFTC’s new crypto framework could face 2028 election deadline, says TD Cowen]]></title>
+        <link>https://www.theblock.co/news/regulation/2026-10-12-cftcs-new-crypto-framework-could-face-2028-election-deadline-td-cowen-418358</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2020/06/20200626_CFTC_-Daily.jpg" type="image/*" medium="image"/>        <guid isPermaLink="false">e8495346-9676-50b5-af36-c279c97e25da</guid>
+        <pubDate>Mon, 12 Oct 2026 20:53:54 +0000</pubDate>
+            <description><![CDATA[Newly proposed rules for leveraged and margined crypto trading may be too late as the 2028 election cycle looms, according to TD Cowen.]]></description>            <dc:creator><![CDATA[Sarah Wynn]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/markets"><![CDATA[Markets]]></category>
+		<category domain="https://www.theblock.co/category/policy"><![CDATA[Policy]]></category>
+		<category domain="https://www.theblock.co/category/regulation"><![CDATA[Regulation]]></category>
+		<category domain="tag"><![CDATA[CFTC]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Binance launches AI trading tool after 150,000-user beta]]></title>
+        <link>https://www.theblock.co/news/business/2026-10-12-binance-ai-trading-interface-global-rollout-418349</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/11/20241127_Binance_News_2.jpg" type="image/*" medium="image"/>        <guid isPermaLink="false">88d56fe9-3700-5f73-a036-fbdad35893eb</guid>
+        <pubDate>Mon, 12 Oct 2026 18:44:10 +0000</pubDate>
+            <description><![CDATA[Binance rolled out Binance AI, a free generative-UI trading interface, to all English-language users after a beta with about 150,000 testers.]]></description>            <dc:creator><![CDATA[Jason Shubnell]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/companies"><![CDATA[Companies]]></category>
+		<category domain="https://www.theblock.co/category/crypto-ecosystems"><![CDATA[Crypto Ecosystems]]></category>
+		<category domain="https://www.theblock.co/category/exchanges"><![CDATA[Exchanges]]></category>
+		<category domain="https://www.theblock.co/category/web3"><![CDATA[Web3]]></category>
+		<category domain="tag"><![CDATA[AI]]></category>
+		<category domain="tag"><![CDATA[Binance]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[StoneX raises Securitize price target 50% as tokenized stock platform opens new revenue stream]]></title>
+        <link>https://www.theblock.co/news/markets/2026-10-12-stonex-raises-securitize-price-target-tokenized-stocks-418313</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/10/20251028_Secrutize_News.jpg" type="image/*" medium="image"/>        <guid isPermaLink="false">2a9081ef-bc76-56c7-aec3-6679e5eafe0a</guid>
+        <pubDate>Mon, 12 Oct 2026 17:06:25 +0000</pubDate>
+            <description><![CDATA[StoneX lifts SECZ price target to $18 from $12, citing new revenue from the Securitize Stocks tokenized trading platform on Solana.]]></description>            <dc:creator><![CDATA[Kyle Baird]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/companies"><![CDATA[Companies]]></category>
+		<category domain="https://www.theblock.co/category/crypto-ecosystems"><![CDATA[Crypto Ecosystems]]></category>
+		<category domain="https://www.theblock.co/category/equities"><![CDATA[Equities]]></category>
+		<category domain="https://www.theblock.co/category/markets"><![CDATA[Markets]]></category>
+		<category domain="https://www.theblock.co/category/web3"><![CDATA[Web3]]></category>
+		<category domain="tag"><![CDATA[Analyst Reports]]></category>
+		<category domain="tag"><![CDATA[Tokenization]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[DeFi Development grows SOL holdings 12% as CHAD hits record highs]]></title>
+        <link>https://www.theblock.co/news/business/2026-10-12-defi-development-sol-holdings-2-59-million-chad-418307</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/10/20230810_Solana_News.jpg" type="image/*" medium="image"/>        <guid isPermaLink="false">8958ea7d-1a17-5767-a3fa-7f8c8e671ee8</guid>
+        <pubDate>Mon, 12 Oct 2026 14:53:25 +0000</pubDate>
+            <description><![CDATA[DFDV added 22,070 SOL last week, lifting holdings to 2.59 million SOL, as its CHAD preferred stock hit record highs despite a selloff.]]></description>            <dc:creator><![CDATA[Jason Shubnell]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/companies"><![CDATA[Companies]]></category>
+		<category domain="https://www.theblock.co/category/crypto-ecosystems"><![CDATA[Crypto Ecosystems]]></category>
+		<category domain="https://www.theblock.co/category/layer-1s"><![CDATA[Layer 1s]]></category>
+		<category domain="https://www.theblock.co/category/markets"><![CDATA[Markets]]></category>
+		<category domain="https://www.theblock.co/category/public-equities"><![CDATA[Public Equities]]></category>
+		<category domain="https://www.theblock.co/category/token-projects"><![CDATA[Token Projects]]></category>
+		<category domain="tag"><![CDATA[Crypto Treasuries]]></category>
+		<category domain="tag"><![CDATA[Solana]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Bitmine adds 12,532 ETH as Tom Lee flags potential ‘largest-ever’ crypto bull market]]></title>
+        <link>https://www.theblock.co/news/business/2026-10-12-bitmine-eth-holdings-6-million-ether-treasury-418296</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/05/eth-ethereum-network.jpg" type="image/*" medium="image"/>        <guid isPermaLink="false">c5cf4a71-ca4f-528b-84d1-a3d2a70b3d0b</guid>
+        <pubDate>Mon, 12 Oct 2026 13:43:32 +0000</pubDate>
+            <description><![CDATA[Bitmine (BMNR) added 12,532 ETH last week, lifting its Ethereum treasury to 6.03 million tokens, or 4.9% of supply, with 84% staked.]]></description>            <dc:creator><![CDATA[Brian Danga]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/companies"><![CDATA[Companies]]></category>
+		<category domain="https://www.theblock.co/category/crypto-ecosystems"><![CDATA[Crypto Ecosystems]]></category>
+		<category domain="https://www.theblock.co/category/deals"><![CDATA[Deals]]></category>
+		<category domain="https://www.theblock.co/category/layer-1s"><![CDATA[Layer 1s]]></category>
+		<category domain="https://www.theblock.co/category/markets"><![CDATA[Markets]]></category>
+		<category domain="https://www.theblock.co/category/nfts-gaming-and-metaverse"><![CDATA[Metaverse & NFT]]></category>
+		<category domain="https://www.theblock.co/category/crypto-ecosystems-people"><![CDATA[People]]></category>
+		<category domain="https://www.theblock.co/category/companies-people"><![CDATA[People]]></category>
+		<category domain="https://www.theblock.co/category/markets-people"><![CDATA[People]]></category>
+		<category domain="https://www.theblock.co/category/policy-people"><![CDATA[People]]></category>
+		<category domain="https://www.theblock.co/category/deals-people"><![CDATA[People]]></category>
+		<category domain="https://www.theblock.co/category/metaverse-and-nft-people"><![CDATA[People]]></category>
+		<category domain="https://www.theblock.co/category/policy"><![CDATA[Policy]]></category>
+		<category domain="https://www.theblock.co/category/token-projects"><![CDATA[Token Projects]]></category>
+		<category domain="tag"><![CDATA[Ethereum]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[‘There’s always room for more orange’: Michael Saylor’s Strategy scoops up another 250 bitcoin for $21.5 million as holdings reach 848,250 BTC]]></title>
+        <link>https://www.theblock.co/news/business/2026-10-12-theres-always-room-for-more-orange-michael-saylors-strategy-scoops-up-another-250-bitcoin-for-21-5-million-as-holdings-reach-848250-btc-418275</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/strategy-1.png" type="image/*" medium="image"/>        <guid isPermaLink="false">5b914058-c21d-5073-aee6-a3d3c0b2c7e8</guid>
+        <pubDate>Mon, 12 Oct 2026 12:13:45 +0000</pubDate>
+            <description><![CDATA[Strategy's total holdings account for around 4% of the 21 million bitcoin supply cap — worth roughly $71 billion.]]></description>            <dc:creator><![CDATA[James Hunt]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/companies"><![CDATA[Companies]]></category>
+		<category domain="https://www.theblock.co/category/crypto-ecosystems"><![CDATA[Crypto Ecosystems]]></category>
+		<category domain="https://www.theblock.co/category/layer-1s"><![CDATA[Layer 1s]]></category>
+		<category domain="https://www.theblock.co/category/markets"><![CDATA[Markets]]></category>
+		<category domain="https://www.theblock.co/category/public-equities"><![CDATA[Public Equities]]></category>
+		<category domain="https://www.theblock.co/category/token-projects"><![CDATA[Token Projects]]></category>
+		<category domain="tag"><![CDATA[Bitcoin]]></category>
+		<category domain="tag"><![CDATA[Strategy]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Evernorth names former Coinbase investment exec to steer 473 million XRP treasury ahead of Nasdaq debut]]></title>
+        <link>https://www.theblock.co/news/business/2026-10-12-evernorth-former-coinbase-investment-chief-steer-473-million-xrp-treasury-nasdaq-debut-418225</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/01/20260108_XRP_News_2.jpg" type="image/*" medium="image"/>        <guid isPermaLink="false">2c1adb42-6fb6-5b1f-a8d8-e67b119f0012</guid>
+        <pubDate>Mon, 12 Oct 2026 12:01:02 +0000</pubDate>
+            <description><![CDATA[Evernorth plans to put its XRP holdings to work through lending, liquidity provision and yield strategies.]]></description>            <dc:creator><![CDATA[Kyle Baird]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/companies"><![CDATA[Companies]]></category>
+		<category domain="https://www.theblock.co/category/crypto-ecosystems"><![CDATA[Crypto Ecosystems]]></category>
+		<category domain="https://www.theblock.co/category/markets"><![CDATA[Markets]]></category>
+		<category domain="https://www.theblock.co/category/token-projects"><![CDATA[Token Projects]]></category>
+		<category domain="tag"><![CDATA[XRP]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Morgan Stanley expects to support tokenized equities in Q1 2027, digital asset strategy head says]]></title>
+        <link>https://www.theblock.co/news/markets/2026-10-12-morgan-stanley-tokenized-equities-q1-2027-418256</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/amy_oldenburg_morgan_stanley_1920x1080.jpg" type="image/*" medium="image"/>        <guid isPermaLink="false">6f5bab0d-bb35-53ef-8bd8-54ae28cf04de</guid>
+        <pubDate>Mon, 12 Oct 2026 10:10:13 +0000</pubDate>
+            <description><![CDATA[Morgan Stanley is actively building the necessary infrastructure for tokenized equities while monitoring industry developments.]]></description>            <dc:creator><![CDATA[Danny Park]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/companies"><![CDATA[Companies]]></category>
+		<category domain="https://www.theblock.co/category/markets"><![CDATA[Markets]]></category>
+		<category domain="tag"><![CDATA[exclusive]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Standard Chartered launches custody for Ripple’s RLUSD on XRP Ledger]]></title>
+        <link>https://www.theblock.co/news/business/2026-10-12-standard-chartered-custody-ripple-rlusd-418258</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/standard-chartered.png" type="image/*" medium="image"/>        <guid isPermaLink="false">f8e752d9-8b7d-5e6d-8ceb-475c4467e8d0</guid>
+        <pubDate>Mon, 12 Oct 2026 09:35:21 +0000</pubDate>
+            <description><![CDATA[The bank is working with Ripple and LMAX Group to enable RLUSD as collateral for certain LMAX products under its collateral mirroring model.]]></description>            <dc:creator><![CDATA[Timmy Shen]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/companies"><![CDATA[Companies]]></category>
+		<category domain="https://www.theblock.co/category/crypto-ecosystems"><![CDATA[Crypto Ecosystems]]></category>
+		<category domain="https://www.theblock.co/category/defi"><![CDATA[DeFi]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Former Acting Chair Caroline Pham says CFTC can regulate almost everything except ‘onions and box office receipts’]]></title>
+        <link>https://www.theblock.co/news/regulation/2026-10-12-former-cftc-acting-chair-caroline-pham-onions-418246</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2022/10/20221003_CarolinePham2.jpg" type="image/*" medium="image"/>        <guid isPermaLink="false">c8ff3f91-61aa-56fd-a76f-3a415b456cb2</guid>
+        <pubDate>Mon, 12 Oct 2026 04:33:57 +0000</pubDate>
+            <description><![CDATA[Pham said the CFTC's recent proposals are 'absolutely the kind of protection' needed for crypto retail traders in the United States.]]></description>            <dc:creator><![CDATA[Danny Park]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/policy"><![CDATA[Policy]]></category>
+		<category domain="https://www.theblock.co/category/regulation"><![CDATA[Regulation]]></category>
+		<category domain="tag"><![CDATA[CFTC]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Sui Foundation invests $30 million in DATA Network as AI data protocol migrates to Sui]]></title>
+        <link>https://www.theblock.co/news/ecosystems/2026-10-11-sui-foundation-invests-30-million-data-network-418243</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/11/20241118_Sui_News.jpg" type="image/*" medium="image"/>        <guid isPermaLink="false">60ef4d8a-61f6-5944-8f0b-b87b105a3eaf</guid>
+        <pubDate>Mon, 12 Oct 2026 02:00:00 +0000</pubDate>
+            <description><![CDATA[DATA Network is set to be upgraded to run as a protocol natively on Sui, and its independent chain will be retired.]]></description>            <dc:creator><![CDATA[Timmy Shen]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/companies"><![CDATA[Companies]]></category>
+		<category domain="https://www.theblock.co/category/crypto-ecosystems"><![CDATA[Crypto Ecosystems]]></category>
+		<category domain="https://www.theblock.co/category/defi"><![CDATA[DeFi]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Trader nets $1.28 million on new 1,000x exchange Papertrade by moving Hyperliquid’s ETH prices]]></title>
+        <link>https://www.theblock.co/news/defi/2026-10-11-trader-nets-1-28-million-on-new-1000x-exchange-papertrade-by-moving-hyperliquids-eth-prices-418239</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Copper-fluid-ribbons-frame-papertrade__clean.png" type="image/*" medium="image"/>        <guid isPermaLink="false">92cb055c-7f67-5603-b24f-0528f86676ba</guid>
+        <pubDate>Sun, 11 Oct 2026 22:26:02 +0000</pubDate>
+            <description><![CDATA[The same wallet later lost $450,000 when 30 short positions were liquidated on Saturday night after staying open for more than three hours.]]></description>            <dc:creator><![CDATA[Zack Abrams]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/crypto-ecosystems"><![CDATA[Crypto Ecosystems]]></category>
+		<category domain="https://www.theblock.co/category/defi"><![CDATA[DeFi]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[XRP Ledger patches decade-old bug that could have minted trillions of XRP]]></title>
+        <link>https://www.theblock.co/news/ecosystems/2026-10-11-xrp-ledger-patches-decade-old-bug-that-could-have-minted-trillions-of-xrp-418230</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/XRP-token-over-a-repaired-fissure_clean.png" type="image/*" medium="image"/>        <guid isPermaLink="false">63d03c76-857d-5efb-8abe-e462a1d9eedd</guid>
+        <pubDate>Sun, 11 Oct 2026 18:07:41 +0000</pubDate>
+            <description><![CDATA[An overflow bug in the XRP Ledger's payment engine could have let an attacker mint about 18 trillion spendable XRP in one transaction.]]></description>            <dc:creator><![CDATA[Zack Abrams]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/crypto-ecosystems"><![CDATA[Crypto Ecosystems]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Kalshi is investigating bets on Trump’s press secretary pick placed before announcement: WSJ]]></title>
+        <link>https://www.theblock.co/news/regulation/2026-10-10-kalshi-is-investigating-bets-on-trumps-press-secretary-pick-placed-before-announcement-wsj-418222</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/09/20250917_Kalshi_News_2.jpg" type="image/*" medium="image"/>        <guid isPermaLink="false">4e9b246f-0e52-5130-8c03-1605c2c41702</guid>
+        <pubDate>Sat, 10 Oct 2026 18:35:25 +0000</pubDate>
+            <description><![CDATA[Three bets totaling about $173 were placed before news outlets reported Zacharia's pick and are expected to pay out roughly $9,600 combined.]]></description>            <dc:creator><![CDATA[Zack Abrams]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/crypto-ecosystems"><![CDATA[Crypto Ecosystems]]></category>
+		<category domain="https://www.theblock.co/category/policy"><![CDATA[Policy]]></category>
+		<category domain="https://www.theblock.co/category/regulation"><![CDATA[Regulation]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Ether ETFs extend outflow streak to nine days as Solana funds snap record 14-week inflow run]]></title>
+        <link>https://www.theblock.co/news/markets/2026-10-10-ether-etfs-extend-outflow-streak-to-nine-days-as-solana-funds-snap-record-14-week-inflow-run-418215</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Ethereum-and-Solana-ETF-Divergence1_clean.png" type="image/*" medium="image"/>        <guid isPermaLink="false">8492b586-f7a6-5669-9eb9-ab7e6fea1195</guid>
+        <pubDate>Sat, 10 Oct 2026 15:10:37 +0000</pubDate>
+            <description><![CDATA[Spot bitcoin, solana, and ether ETFs all logged weekly outflows following last week's trading, a notable shift for some of the funds.]]></description>            <dc:creator><![CDATA[Zack Abrams]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/markets"><![CDATA[Markets]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Former FTX COO says Netflix’s ‘Altruists’ trailer ‘made me physically throw up’]]></title>
+        <link>https://www.theblock.co/news/business/2026-10-09-former-ftx-coo-netflix-the-altruists-trailer-418208</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/10/20231003_FTX_3_News.jpg" type="image/*" medium="image"/>        <guid isPermaLink="false">571d7c1f-546e-5212-a63a-b6dcfe24686f</guid>
+        <pubDate>Fri, 09 Oct 2026 18:51:45 +0000</pubDate>
+            <description><![CDATA[Former FTX COO Constance Wang says Netflix's "The Altruists" misrepresents FTX's collapse and turns it into a love story.]]></description>            <dc:creator><![CDATA[Jason Shubnell]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/companies"><![CDATA[Companies]]></category>
+		<category domain="https://www.theblock.co/category/exchanges"><![CDATA[Exchanges]]></category>
+		<category domain="tag"><![CDATA[FTX]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+    </channel>
+</rss>
