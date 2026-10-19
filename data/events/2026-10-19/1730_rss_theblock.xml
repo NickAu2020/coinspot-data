@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    >
+
+<channel>
+    <title>The Block</title>
+    <link>https://www.theblock.co</link>
+    <atom:link href="https://www.theblock.co/rss.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.theblock.co/rss.xml?paged=2" rel="next" type="application/rss+xml" />
+    <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
+    <description>The Block features breaking Crypto news about Bitcoin, Blockchain, Web3, and DeFi from the web&#039;s most reliable source.</description>
+    <lastBuildDate>Mon, 19 Oct 2026 16:27:14 +0000</lastBuildDate>
+    <language>en-US</language>
+    <copyright>© 2026 THE BLOCK</copyright>
+    <generator>TheBlock</generator>
+    <ttl>5</ttl>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    <image>
+        <url>https://www.tbstat.com/wp/uploads/2024/03/the-block-logo-wordmark-black.png</url>
+        <title>The Block</title>
+        <link>https://www.theblock.co</link>
+    </image>
+        <item>
+        <title><![CDATA[Mesh taps Visa to let users spend crypto without a separate card]]></title>
+        <link>https://www.theblock.co/news/business/2026-10-19-mesh-visa-partner-spend-crypto-stablecoins-421058</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/visa.png" type="image/*" medium="image"/>        <guid isPermaLink="false">daa9810d-f7cc-5569-a507-0ccf0e0d0657</guid>
+        <pubDate>Mon, 19 Oct 2026 16:10:02 +0000</pubDate>
+            <description><![CDATA[Mesh and Visa will let users spend crypto and stablecoin balances from wallet apps, with no need to sell or transfer assets first.]]></description>            <dc:creator><![CDATA[Jason Shubnell]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/companies"><![CDATA[Companies]]></category>
+		<category domain="https://www.theblock.co/category/crypto-ecosystems"><![CDATA[Crypto Ecosystems]]></category>
+		<category domain="https://www.theblock.co/category/deals"><![CDATA[Deals]]></category>
+		<category domain="https://www.theblock.co/category/finance-firms"><![CDATA[Finance firms]]></category>
+		<category domain="https://www.theblock.co/category/stablecoins"><![CDATA[Stablecoins]]></category>
+		<category domain="tag"><![CDATA[Payments]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Mastercard unveils Stablecoin Security tool to screen payments for fraud and sanctions risks]]></title>
+        <link>https://www.theblock.co/news/business/2026-10-19-mastercard-unveils-stablecoin-security-tool-to-screen-payments-for-fraud-and-sanctions-risks-420658</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-19-at-12.28.28.png" type="image/*" medium="image"/>        <guid isPermaLink="false">0c4f6bc6-1f8f-5a53-9faa-7415087edb69</guid>
+        <pubDate>Mon, 19 Oct 2026 16:00:00 +0000</pubDate>
+            <description><![CDATA[Mastercard unveiled Stablecoin Security, a risk screening service launching in North America before planned global availability in 2027.]]></description>            <dc:creator><![CDATA[James Hunt]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/companies"><![CDATA[Companies]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Galaxy’s AI data center business is undervalued amid CoreWeave debt concerns, StoneX says]]></title>
+        <link>https://www.theblock.co/news/markets/2026-10-19-galaxy-digital-glxy-stonex-buy-coreweave-helios-ai-data-center-421045</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/07/20240725_Galaxy_News.jpg" type="image/*" medium="image"/>        <guid isPermaLink="false">01437981-f4f8-572a-b7f0-8627f48fecfc</guid>
+        <pubDate>Mon, 19 Oct 2026 15:53:42 +0000</pubDate>
+            <description><![CDATA[StoneX reiterates Buy and $57 target on GLXY, saying the market undervalues its Helios AI data center despite CoreWeave debt worries.]]></description>            <dc:creator><![CDATA[Jason Shubnell]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/companies"><![CDATA[Companies]]></category>
+		<category domain="https://www.theblock.co/category/equities"><![CDATA[Equities]]></category>
+		<category domain="https://www.theblock.co/category/markets"><![CDATA[Markets]]></category>
+		<category domain="tag"><![CDATA[Analyst Reports]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[SkyAI sells off entire Solana treasury as it launches $201 million buyback]]></title>
+        <link>https://www.theblock.co/news/business/2026-10-19-skyai-sells-off-entire-solana-treasury-launches-201-million-buyback-421037</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/10/20230810_Solana_News2.jpg" type="image/*" medium="image"/>        <guid isPermaLink="false">a05f4dd5-ab34-5776-992e-15c028d20569</guid>
+        <pubDate>Mon, 19 Oct 2026 15:28:43 +0000</pubDate>
+            <description><![CDATA[SkyAI holds $223.8 million in cash after selling all its SOL, with its $3 buyback running through Oct. 29.]]></description>            <dc:creator><![CDATA[Kyle Baird]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/companies"><![CDATA[Companies]]></category>
+		<category domain="https://www.theblock.co/category/crypto-ecosystems"><![CDATA[Crypto Ecosystems]]></category>
+		<category domain="https://www.theblock.co/category/layer-1s"><![CDATA[Layer 1s]]></category>
+		<category domain="https://www.theblock.co/category/markets"><![CDATA[Markets]]></category>
+		<category domain="https://www.theblock.co/category/public-equities"><![CDATA[Public Equities]]></category>
+		<category domain="https://www.theblock.co/category/token-projects"><![CDATA[Token Projects]]></category>
+		<category domain="tag"><![CDATA[Crypto Treasuries]]></category>
+		<category domain="tag"><![CDATA[Solana]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[AnchorWatch Trust Company launches bitcoin custody service with up to $370 million in insurance per client]]></title>
+        <link>https://www.theblock.co/news/business/2026-10-19-anchorwatch-bitcoin-custody-insurance-421011</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-19-at-11.02.33.png" type="image/*" medium="image"/>        <guid isPermaLink="false">8e19f5b3-d91b-5618-8fc6-9529841c8605</guid>
+        <pubDate>Mon, 19 Oct 2026 15:00:00 +0000</pubDate>
+            <description><![CDATA[AnchorWatch launched Nevada-chartered bitcoin custody with a $10,000 monthly fee cap and optional insurance of up to $370 million per client.]]></description>            <dc:creator><![CDATA[Brian Danga]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/companies"><![CDATA[Companies]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Strive scoops up another 1,223 bitcoin for $100 million as total holdings reach 36,818 BTC]]></title>
+        <link>https://www.theblock.co/news/business/2026-10-19-strive-scoops-1223-bitcoin-100-million-total-holdings-reach-36818-btc-421020</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-19-at-14.32.12.png" type="image/*" medium="image"/>        <guid isPermaLink="false">2fa4ea7e-7485-5044-a2fe-c852f8337370</guid>
+        <pubDate>Mon, 19 Oct 2026 13:45:41 +0000</pubDate>
+            <description><![CDATA[Strive paid approximately $81,734 on average per bitcoin, adding to the 2,822 BTC it had acquired earlier last week.]]></description>            <dc:creator><![CDATA[James Hunt]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/companies"><![CDATA[Companies]]></category>
+		<category domain="https://www.theblock.co/category/crypto-ecosystems"><![CDATA[Crypto Ecosystems]]></category>
+		<category domain="https://www.theblock.co/category/layer-1s"><![CDATA[Layer 1s]]></category>
+		<category domain="https://www.theblock.co/category/markets"><![CDATA[Markets]]></category>
+		<category domain="https://www.theblock.co/category/public-equities"><![CDATA[Public Equities]]></category>
+		<category domain="https://www.theblock.co/category/token-projects"><![CDATA[Token Projects]]></category>
+		<category domain="tag"><![CDATA[Bitcoin]]></category>
+		<category domain="tag"><![CDATA[Crypto Treasuries]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Bitmine adds 12,535 ETH as treasury reaches 6.04 million tokens]]></title>
+        <link>https://www.theblock.co/news/business/2026-10-19-bitmine-adds-12535-eth-as-treasury-reaches-6-04-million-tokens-421018</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/05/eth-ethereum-network.jpg" type="image/*" medium="image"/>        <guid isPermaLink="false">70bc9623-bf90-5fcb-853d-c0d4f4ded7d0</guid>
+        <pubDate>Mon, 19 Oct 2026 13:36:46 +0000</pubDate>
+            <description><![CDATA[Bitmine bought 12,535 ETH last week, lifting its treasury to 6.04 million tokens and total investment holdings to $15.1 billion.]]></description>            <dc:creator><![CDATA[Brian Danga]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/companies"><![CDATA[Companies]]></category>
+		<category domain="https://www.theblock.co/category/crypto-ecosystems"><![CDATA[Crypto Ecosystems]]></category>
+		<category domain="https://www.theblock.co/category/deals"><![CDATA[Deals]]></category>
+		<category domain="https://www.theblock.co/category/layer-1s"><![CDATA[Layer 1s]]></category>
+		<category domain="https://www.theblock.co/category/markets"><![CDATA[Markets]]></category>
+		<category domain="https://www.theblock.co/category/nfts-gaming-and-metaverse"><![CDATA[Metaverse & NFT]]></category>
+		<category domain="https://www.theblock.co/category/companies-people"><![CDATA[People]]></category>
+		<category domain="https://www.theblock.co/category/markets-people"><![CDATA[People]]></category>
+		<category domain="https://www.theblock.co/category/policy-people"><![CDATA[People]]></category>
+		<category domain="https://www.theblock.co/category/crypto-ecosystems-people"><![CDATA[People]]></category>
+		<category domain="https://www.theblock.co/category/deals-people"><![CDATA[People]]></category>
+		<category domain="https://www.theblock.co/category/metaverse-and-nft-people"><![CDATA[People]]></category>
+		<category domain="https://www.theblock.co/category/policy"><![CDATA[Policy]]></category>
+		<category domain="https://www.theblock.co/category/token-projects"><![CDATA[Token Projects]]></category>
+		<category domain="tag"><![CDATA[Ethereum]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[‘We found room for more orange’: Michael Saylor’s Strategy buys another 267 bitcoin for $22 million]]></title>
+        <link>https://www.theblock.co/news/business/2026-10-19-we-found-room-for-more-orange-michael-saylors-strategy-buys-more-bitcoin-418895</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-19-at-10.10.02.png" type="image/*" medium="image"/>        <guid isPermaLink="false">d633d650-94f9-5d99-92c3-b3e018612842</guid>
+        <pubDate>Mon, 19 Oct 2026 12:10:14 +0000</pubDate>
+            <description><![CDATA[Strategy's BTC holdings account for around 4% of the total bitcoin supply, with $5.9 billion in paper gains.]]></description>            <dc:creator><![CDATA[James Hunt]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/companies"><![CDATA[Companies]]></category>
+		<category domain="https://www.theblock.co/category/crypto-ecosystems"><![CDATA[Crypto Ecosystems]]></category>
+		<category domain="https://www.theblock.co/category/layer-1s"><![CDATA[Layer 1s]]></category>
+		<category domain="https://www.theblock.co/category/markets"><![CDATA[Markets]]></category>
+		<category domain="https://www.theblock.co/category/public-equities"><![CDATA[Public Equities]]></category>
+		<category domain="https://www.theblock.co/category/token-projects"><![CDATA[Token Projects]]></category>
+		<category domain="tag"><![CDATA[Bitcoin]]></category>
+		<category domain="tag"><![CDATA[Strategy]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Revolut secures Gibraltar crypto licence to support international expansion plans]]></title>
+        <link>https://www.theblock.co/news/regulation/2026-10-19-revolut-secures-gibraltar-crypto-licence-to-support-international-expansion-plans-418889</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-19-at-10.09.04.png" type="image/*" medium="image"/>        <guid isPermaLink="false">b48c0ffb-a84e-506a-9a22-1383ffc3d49f</guid>
+        <pubDate>Mon, 19 Oct 2026 10:42:07 +0000</pubDate>
+            <description><![CDATA[Revolut secured a Gibraltar DLT licence for a new entity to support its international crypto expansion strategy.]]></description>            <dc:creator><![CDATA[Brian Danga]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/policy"><![CDATA[Policy]]></category>
+		<category domain="https://www.theblock.co/category/regulation"><![CDATA[Regulation]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[JPMorgan expands ‘JPM Coin’ deposit token to Ethereum for institutional clients]]></title>
+        <link>https://www.theblock.co/news/business/2026-10-19-jpmorgan-jpm-coin-deposit-token-ethereum-418874</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/05/20240501_JPMorgan_News.jpg" type="image/*" medium="image"/>        <guid isPermaLink="false">8f527688-2778-521d-a5d8-c7f012302475</guid>
+        <pubDate>Mon, 19 Oct 2026 08:31:31 +0000</pubDate>
+            <description><![CDATA[The USD-denominated deposit token now supports peer-to-peer transfers within the Ethereum Virtual Machine ecosystem, including Base.]]></description>            <dc:creator><![CDATA[Timmy Shen]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/companies"><![CDATA[Companies]]></category>
+		<category domain="https://www.theblock.co/category/crypto-ecosystems"><![CDATA[Crypto Ecosystems]]></category>
+		<category domain="https://www.theblock.co/category/defi"><![CDATA[DeFi]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[World launches World ID suite for banks, makes Zoom deepfake check generally available]]></title>
+        <link>https://www.theblock.co/news/ecosystems/2026-10-18-world-launches-world-id-suite-banks-418869</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/02/20240220_Wordlcoin_News.jpg" type="image/*" medium="image"/>        <guid isPermaLink="false">2e6ac7c0-afd7-5169-9d87-7c4bc971ce77</guid>
+        <pubDate>Mon, 19 Oct 2026 01:10:00 +0000</pubDate>
+            <description><![CDATA[World ID for Zoom is generally available after a beta that began in April, and is designed to spot deepfaked participants on Zoom calls. ]]></description>            <dc:creator><![CDATA[Zack Abrams]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/crypto-ecosystems"><![CDATA[Crypto Ecosystems]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Crypto.com, Novig sue Missouri over sports event contracts; Kalshi, Polymarket, Robinhood hold off]]></title>
+        <link>https://www.theblock.co/news/regulation/2026-10-18-crypto-com-novig-sue-missouri-over-sports-event-contracts-kalshi-polymarket-robinhood-hold-off-418866</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2022/02/20220208_Crypto_Sports_Funding.jpg" type="image/*" medium="image"/>        <guid isPermaLink="false">b30f6590-bbd7-5725-9f00-dc255e6b3685</guid>
+        <pubDate>Sun, 18 Oct 2026 19:50:28 +0000</pubDate>
+            <description><![CDATA[Kalshi, Polymarket, Robinhood and Underdog, which also received cease-and-desist orders, have not filed suits in Missouri, according to court records.]]></description>            <dc:creator><![CDATA[Zack Abrams]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/policy"><![CDATA[Policy]]></category>
+		<category domain="https://www.theblock.co/category/regulation"><![CDATA[Regulation]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Cysic suspends bridge after attacker mints tokens and moves $727,000 to Ethereum]]></title>
+        <link>https://www.theblock.co/news/defi/2026-10-18-cysic-suspends-bridge-after-attacker-mints-tokens-and-moves-727000-to-ethereum-418863</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2021/09/20210917_Hack_General.jpg" type="image/*" medium="image"/>        <guid isPermaLink="false">ea1c2908-69f5-5f03-b9ce-eea0d0dc686b</guid>
+        <pubDate>Sun, 18 Oct 2026 16:07:43 +0000</pubDate>
+            <description><![CDATA[The attacker, after minting 10 million CYS, managed to bridge about $727,000 in proceeds to Ethereum through Mayan, deBridge and SWFT's Bridgers.]]></description>            <dc:creator><![CDATA[Zack Abrams]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/crypto-ecosystems"><![CDATA[Crypto Ecosystems]]></category>
+		<category domain="https://www.theblock.co/category/defi"><![CDATA[DeFi]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[CoreWeave, Broadcom, Verizon among nine companies objecting to tokenized trading of their shares on OKXICE]]></title>
+        <link>https://www.theblock.co/news/markets/2026-10-17-coreweave-broadcom-verizon-among-nine-companies-objecting-to-tokenized-trading-of-their-shares-on-okxice-418859</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/05/20250514_Tokenization-1200x675-1.jpg" type="image/*" medium="image"/>        <guid isPermaLink="false">8d920f1e-9349-5fac-8414-a80c0059eff4</guid>
+        <pubDate>Sat, 17 Oct 2026 19:56:25 +0000</pubDate>
+            <description><![CDATA[Applied Optoelectronics told the WSJ it objected because it was unsure how tokenization would affect its stock price, liquidity and volatility.]]></description>            <dc:creator><![CDATA[Zack Abrams]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/markets"><![CDATA[Markets]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Turkey confirms Hex founder Richard Heart’s arrest, says police seized $7.15 million and six cold wallets]]></title>
+        <link>https://www.theblock.co/news/regulation/2026-10-17-turkey-confirms-hex-founder-richard-hearts-arrest-says-police-seized-7-15-million-and-six-cold-wallets-418852</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/04/20250424_Law_News.jpg" type="image/*" medium="image"/>        <guid isPermaLink="false">b333e858-b5a0-513a-b6b5-6e85dcbb06e9</guid>
+        <pubDate>Sat, 17 Oct 2026 18:14:43 +0000</pubDate>
+            <description><![CDATA[Police reportedly seized $7.15 million in cash, six cold wallets, seven firearms and 1,400 rounds of ammunition in searches of 15 addresses.]]></description>            <dc:creator><![CDATA[Zack Abrams]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/crypto-ecosystems"><![CDATA[Crypto Ecosystems]]></category>
+		<category domain="https://www.theblock.co/category/policy"><![CDATA[Policy]]></category>
+		<category domain="https://www.theblock.co/category/regulation"><![CDATA[Regulation]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Strive’s bitcoin buying spree earns 27% price target hike from TD Cowen]]></title>
+        <link>https://www.theblock.co/news/markets/2026-10-16-strives-bitcoin-buying-spree-earns-27-price-target-hike-td-cowen-418839</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-13-at-14.28.14.png" type="image/*" medium="image"/>        <guid isPermaLink="false">1e5e398f-2f6a-52e3-acfe-eb55f7d8c696</guid>
+        <pubDate>Fri, 16 Oct 2026 20:22:57 +0000</pubDate>
+            <description><![CDATA[Strive plans fresh funding for bitcoin purchases as TD Cowen sees warrant-related stock pressure easing.]]></description>            <dc:creator><![CDATA[Kyle Baird]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/companies"><![CDATA[Companies]]></category>
+		<category domain="https://www.theblock.co/category/crypto-ecosystems"><![CDATA[Crypto Ecosystems]]></category>
+		<category domain="https://www.theblock.co/category/equities"><![CDATA[Equities]]></category>
+		<category domain="https://www.theblock.co/category/layer-1s"><![CDATA[Layer 1s]]></category>
+		<category domain="https://www.theblock.co/category/markets"><![CDATA[Markets]]></category>
+		<category domain="https://www.theblock.co/category/public-equities"><![CDATA[Public Equities]]></category>
+		<category domain="https://www.theblock.co/category/token-projects"><![CDATA[Token Projects]]></category>
+		<category domain="tag"><![CDATA[Analyst Reports]]></category>
+		<category domain="tag"><![CDATA[Bitcoin]]></category>
+		<category domain="tag"><![CDATA[Crypto Treasuries]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Coinbase to power stablecoin-backed cards for Marqeta customers]]></title>
+        <link>https://www.theblock.co/news/business/2026-10-16-coinbase-to-power-stablecoin-backed-cards-for-marqeta-customers-418833</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/09/img-banner-card-1-1.png" type="image/*" medium="image"/>        <guid isPermaLink="false">1e4b5c5f-a525-58ed-a656-93a61b84cd8b</guid>
+        <pubDate>Fri, 16 Oct 2026 17:21:29 +0000</pubDate>
+            <description><![CDATA[The expanded partnership builds on Marqeta’s work powering Coinbase’s U.S. debit card offering in 2020.]]></description>            <dc:creator><![CDATA[Kyle Baird]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/companies"><![CDATA[Companies]]></category>
+		<category domain="https://www.theblock.co/category/crypto-ecosystems"><![CDATA[Crypto Ecosystems]]></category>
+		<category domain="https://www.theblock.co/category/exchanges"><![CDATA[Exchanges]]></category>
+		<category domain="https://www.theblock.co/category/finance-firms"><![CDATA[Finance firms]]></category>
+		<category domain="https://www.theblock.co/category/markets"><![CDATA[Markets]]></category>
+		<category domain="https://www.theblock.co/category/nfts-gaming-and-metaverse"><![CDATA[Metaverse & NFT]]></category>
+		<category domain="https://www.theblock.co/category/nft-marketplaces"><![CDATA[NFT Marketplaces]]></category>
+		<category domain="https://www.theblock.co/category/public-equities"><![CDATA[Public Equities]]></category>
+		<category domain="https://www.theblock.co/category/stablecoins"><![CDATA[Stablecoins]]></category>
+		<category domain="tag"><![CDATA[Coinbase]]></category>
+		<category domain="tag"><![CDATA[Payments]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Circle details USDC revenue split, says $819 million went to partners and costs in H1 2026]]></title>
+        <link>https://www.theblock.co/news/business/2026-10-16-circle-usdc-revenue-split-partners-418826</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/09/circle-arc.png" type="image/*" medium="image"/>        <guid isPermaLink="false">6e934dba-a8a2-5917-803c-c4cbcbf8c268</guid>
+        <pubDate>Fri, 16 Oct 2026 14:58:29 +0000</pubDate>
+            <description><![CDATA[Circle breaks down its USDC revenue: about $1.4 billion in H1 2026, $819 million to partners and transaction costs, $473 million reinvested.]]></description>            <dc:creator><![CDATA[Jason Shubnell]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/companies"><![CDATA[Companies]]></category>
+		<category domain="https://www.theblock.co/category/crypto-ecosystems"><![CDATA[Crypto Ecosystems]]></category>
+		<category domain="https://www.theblock.co/category/equities"><![CDATA[Equities]]></category>
+		<category domain="https://www.theblock.co/category/markets"><![CDATA[Markets]]></category>
+		<category domain="https://www.theblock.co/category/stablecoins"><![CDATA[Stablecoins]]></category>
+		<category domain="https://www.theblock.co/category/token-projects"><![CDATA[Token Projects]]></category>
+		<category domain="tag"><![CDATA[Earnings]]></category>
+		<category domain="tag"><![CDATA[USDC]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[How Ethereum Works]]></title>
+        <link>https://www.theblock.co/learn/ethereum/how-ethereum-works-418525</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/ethereum201.png" type="image/*" medium="image"/>        <guid isPermaLink="false">138d2452-821c-5a76-a255-190f434fda50</guid>
+        <pubDate>Fri, 16 Oct 2026 13:31:07 +0000</pubDate>
+            <description><![CDATA[The focus is how Ethereum works under the hood: how it tracks and updates state, how transactions flow through the network, how computation is priced through gas, how smart contracts and token standards make Ethereum programmable, and how other Layer 1 blockchains approach the same problems in different ways.]]></description>            <dc:creator><![CDATA[The Block Research]]></dc:creator>
+        <content:encoded/>
+        		<category domain="tag"><![CDATA[201]]></category>
+		<category domain="tag"><![CDATA[campus]]></category>
+		<category domain="tag"><![CDATA[Ethereum]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[OpenAI says research model spent another wallet’s testnet ETH without authorization on coding task]]></title>
+        <link>https://www.theblock.co/news/business/2026-10-16-openai-says-research-model-spent-another-wallets-testnet-eth-without-authorization-on-coding-task-418798</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-16-at-12.27.53.png" type="image/*" medium="image"/>        <guid isPermaLink="false">0be7a174-8f1b-5223-9775-38dbf1f1ad01</guid>
+        <pubDate>Fri, 16 Oct 2026 11:34:54 +0000</pubDate>
+            <description><![CDATA[OpenAI's research model used another wallet's testnet ETH without permission to complete a coding task in June.]]></description>            <dc:creator><![CDATA[Brian Danga]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/companies"><![CDATA[Companies]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+    </channel>
+</rss>
