@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    >
+
+<channel>
+    <title>The Block</title>
+    <link>https://www.theblock.co</link>
+    <atom:link href="https://www.theblock.co/rss.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.theblock.co/rss.xml?paged=2" rel="next" type="application/rss+xml" />
+    <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
+    <description>The Block features breaking Crypto news about Bitcoin, Blockchain, Web3, and DeFi from the web&#039;s most reliable source.</description>
+    <lastBuildDate>Fri, 23 Oct 2026 09:52:44 +0000</lastBuildDate>
+    <language>en-US</language>
+    <copyright>© 2026 THE BLOCK</copyright>
+    <generator>TheBlock</generator>
+    <ttl>5</ttl>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    <image>
+        <url>https://www.tbstat.com/wp/uploads/2024/03/the-block-logo-wordmark-black.png</url>
+        <title>The Block</title>
+        <link>https://www.theblock.co</link>
+    </image>
+        <item>
+        <title><![CDATA[South Korea to amend forex law to regulate stablecoins as payment instruments: report]]></title>
+        <link>https://www.theblock.co/news/regulation/2026-10-23-south-korea-stablecoins-payment-instruments-424028</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/korea.png" type="image/*" medium="image"/>        <guid isPermaLink="false">046df0d1-b752-598f-8310-9187a79b15c0</guid>
+        <pubDate>Fri, 23 Oct 2026 09:52:44 +0000</pubDate>
+            <description><![CDATA[South Korea is currently developing the Digital Asset Basic Act, which seeks to establish a comprehensive framework for crypto.]]></description>            <dc:creator><![CDATA[Danny Park]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/policy"><![CDATA[Policy]]></category>
+		<category domain="https://www.theblock.co/category/regulation"><![CDATA[Regulation]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[HSBC rolls out its first HKD stablecoin RedCoin to retail users]]></title>
+        <link>https://www.theblock.co/news/business/2026-10-23-hsbc-hkd-stablecoin-redcoin-424018</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/hsbc-redcoin.png" type="image/*" medium="image"/>        <guid isPermaLink="false">ba3fb62f-d7f3-52b4-9399-beaa56b9e158</guid>
+        <pubDate>Fri, 23 Oct 2026 04:03:09 +0000</pubDate>
+            <description><![CDATA[PayMe users will be able to activate a stablecoin wallet in-app in the coming days for peer-to-peer and peer-to-merchant payments.]]></description>            <dc:creator><![CDATA[Timmy Shen]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/companies"><![CDATA[Companies]]></category>
+		<category domain="https://www.theblock.co/category/crypto-ecosystems"><![CDATA[Crypto Ecosystems]]></category>
+		<category domain="https://www.theblock.co/category/defi"><![CDATA[DeFi]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Chainlink partners with LG CNS to drive Korean won stablecoin expansion]]></title>
+        <link>https://www.theblock.co/news/business/2026-10-22-chainlink-partners-with-lg-cns-423993</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/chainlink_lgcns_won_stablecoin_1920x1080.jpg" type="image/*" medium="image"/>        <guid isPermaLink="false">a33e3f97-c777-5b75-9b04-0c8cd056e4bc</guid>
+        <pubDate>Fri, 23 Oct 2026 02:48:13 +0000</pubDate>
+            <description><![CDATA[LG CNS is set to integrate Chainlink's cross-chain, data, and orchestration infrastructure into its digital asset platform.]]></description>            <dc:creator><![CDATA[Danny Park]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/companies"><![CDATA[Companies]]></category>
+		<category domain="https://www.theblock.co/category/markets"><![CDATA[Markets]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Bitcoin slides below $81,500 as tech stock sell-off spreads to Asian equities]]></title>
+        <link>https://www.theblock.co/news/markets/2026-10-22-bitcoin-slides-tech-stock-sell-off-423990</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/bitcoin-market.png" type="image/*" medium="image"/>        <guid isPermaLink="false">0e885811-9579-5f84-92ac-e3c1b328e510</guid>
+        <pubDate>Fri, 23 Oct 2026 02:21:30 +0000</pubDate>
+            <description><![CDATA[The Wall Street sell-off extended to Asian equities on Friday morning, with South Korea's Kospi down 2.3% and Japan's Nikkei 225 down 1.6%.]]></description>            <dc:creator><![CDATA[Timmy Shen]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/companies"><![CDATA[Companies]]></category>
+		<category domain="https://www.theblock.co/category/crypto-ecosystems"><![CDATA[Crypto Ecosystems]]></category>
+		<category domain="https://www.theblock.co/category/deals"><![CDATA[Deals]]></category>
+		<category domain="https://www.theblock.co/category/layer-1s"><![CDATA[Layer 1s]]></category>
+		<category domain="https://www.theblock.co/category/markets"><![CDATA[Markets]]></category>
+		<category domain="https://www.theblock.co/category/nfts-gaming-and-metaverse"><![CDATA[Metaverse & NFT]]></category>
+		<category domain="https://www.theblock.co/category/crypto-ecosystems-people"><![CDATA[People]]></category>
+		<category domain="https://www.theblock.co/category/companies-people"><![CDATA[People]]></category>
+		<category domain="https://www.theblock.co/category/markets-people"><![CDATA[People]]></category>
+		<category domain="https://www.theblock.co/category/policy-people"><![CDATA[People]]></category>
+		<category domain="https://www.theblock.co/category/deals-people"><![CDATA[People]]></category>
+		<category domain="https://www.theblock.co/category/metaverse-and-nft-people"><![CDATA[People]]></category>
+		<category domain="https://www.theblock.co/category/policy"><![CDATA[Policy]]></category>
+		<category domain="https://www.theblock.co/category/token-projects"><![CDATA[Token Projects]]></category>
+		<category domain="tag"><![CDATA[Bitcoin]]></category>
+		<category domain="tag"><![CDATA[Ethereum]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[JPMorgan says crypto regulatory moves partly offset Clarity Act failure, but risks remain]]></title>
+        <link>https://www.theblock.co/news/regulation/2026-10-22-jpmorgan-crypto-regulatory-moves-clarity-act-failure-risks-423473</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2019/02/jpmorgan.jpg" type="image/*" medium="image"/>        <guid isPermaLink="false">6f9e177d-861a-5fdb-bb55-05823b2232ae</guid>
+        <pubDate>Thu, 22 Oct 2026 19:14:21 +0000</pubDate>
+            <description><![CDATA[JPMorgan said actions by U.S. regulators partly offset the Clarity Act setback, but longer-lasting rules are still needed.]]></description>            <dc:creator><![CDATA[Yogita Khatri]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/companies"><![CDATA[Companies]]></category>
+		<category domain="https://www.theblock.co/category/congress"><![CDATA[Congress]]></category>
+		<category domain="https://www.theblock.co/category/finance-firms"><![CDATA[Finance firms]]></category>
+		<category domain="https://www.theblock.co/category/markets"><![CDATA[Markets]]></category>
+		<category domain="https://www.theblock.co/category/policy-people"><![CDATA[People]]></category>
+		<category domain="https://www.theblock.co/category/policy"><![CDATA[Policy]]></category>
+		<category domain="https://www.theblock.co/category/regulation"><![CDATA[Regulation]]></category>
+		<category domain="tag"><![CDATA[Clarity Act]]></category>
+		<category domain="tag"><![CDATA[exclusive]]></category>
+		<category domain="tag"><![CDATA[JPMorgan]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Blockchain Association pushes for crypto tax clarity as broader bill stalls]]></title>
+        <link>https://www.theblock.co/news/regulation/2026-10-22-blockchain-association-pushes-crypto-tax-clarity-broader-bill-stalls-423475</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2022/01/20210120_Capitol_Generic.jpg" type="image/*" medium="image"/>        <guid isPermaLink="false">bb6826f5-05d5-5295-8b95-adcde2c997c2</guid>
+        <pubDate>Thu, 22 Oct 2026 18:59:25 +0000</pubDate>
+            <description><![CDATA[As progress stalls on a crypto bill, the Blockchain Association is urging Congress to pass legislation to resolve uncertainty around taxes.]]></description>            <dc:creator><![CDATA[Sarah Wynn]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/policy"><![CDATA[Policy]]></category>
+		<category domain="https://www.theblock.co/category/regulation"><![CDATA[Regulation]]></category>
+		<category domain="https://www.theblock.co/category/tax"><![CDATA[Tax]]></category>
+		<category domain="tag"><![CDATA[IRS]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Coinbase Ireland fined $3.6 million over customer fund segregation, oversight failures]]></title>
+        <link>https://www.theblock.co/news/regulation/2026-10-22-coinbase-ireland-fined-3-6-million-over-customer-fund-segregation-oversight-failures-421943</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/06/20260612_Coinbase_News.jpg" type="image/*" medium="image"/>        <guid isPermaLink="false">802cba2a-ebb2-52e3-b95b-8944c024a45b</guid>
+        <pubDate>Thu, 22 Oct 2026 14:03:40 +0000</pubDate>
+            <description><![CDATA[Coinbase Ireland fined $3.6 million for safeguarding breaches that left customer funds underfunded and mixed with group accounts.]]></description>            <dc:creator><![CDATA[Brian Danga]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/companies"><![CDATA[Companies]]></category>
+		<category domain="https://www.theblock.co/category/exchanges"><![CDATA[Exchanges]]></category>
+		<category domain="https://www.theblock.co/category/international-policymaking"><![CDATA[International Policymaking]]></category>
+		<category domain="https://www.theblock.co/category/markets"><![CDATA[Markets]]></category>
+		<category domain="https://www.theblock.co/category/nfts-gaming-and-metaverse"><![CDATA[Metaverse & NFT]]></category>
+		<category domain="https://www.theblock.co/category/nft-marketplaces"><![CDATA[NFT Marketplaces]]></category>
+		<category domain="https://www.theblock.co/category/policy-people"><![CDATA[People]]></category>
+		<category domain="https://www.theblock.co/category/policy"><![CDATA[Policy]]></category>
+		<category domain="https://www.theblock.co/category/public-equities"><![CDATA[Public Equities]]></category>
+		<category domain="https://www.theblock.co/category/regulation"><![CDATA[Regulation]]></category>
+		<category domain="tag"><![CDATA[Coinbase]]></category>
+		<category domain="tag"><![CDATA[Eurozone Regulation]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Uniswap’s aggregator hooks go live on Ethereum, Base and Robinhood Chain]]></title>
+        <link>https://www.theblock.co/news/defi/2026-10-22-uniswaps-aggregator-hooks-go-live-ethereum-base-robinhood-chain-421932</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2021/03/20210323_Uniswap_V3.jpg" type="image/*" medium="image"/>        <guid isPermaLink="false">f33bf86a-603c-5a7f-aa33-83724a837c25</guid>
+        <pubDate>Thu, 22 Oct 2026 13:55:03 +0000</pubDate>
+            <description><![CDATA[Uniswap Labs has launched aggregator hooks, allowing Uniswap v4 to route trades through liquidity held on external platforms.]]></description>            <dc:creator><![CDATA[Yogita Khatri]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/crypto-ecosystems"><![CDATA[Crypto Ecosystems]]></category>
+		<category domain="https://www.theblock.co/category/defi"><![CDATA[DeFi]]></category>
+		<category domain="tag"><![CDATA[DEXs]]></category>
+		<category domain="tag"><![CDATA[exclusive]]></category>
+		<category domain="tag"><![CDATA[Uniswap]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Fireblocks denies report of $2.5 billion acquisition talks with Visa]]></title>
+        <link>https://www.theblock.co/news/deals/2026-10-22-visa-in-talks-acquire-crypto-custody-firm-fireblocks-around-2-5-billion-axios-421926</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-22-at-14.15.53.png" type="image/*" medium="image"/>        <guid isPermaLink="false">811f3799-94c6-5fee-a07c-2d3e82de93fa</guid>
+        <pubDate>Thu, 22 Oct 2026 13:27:54 +0000</pubDate>
+            <description><![CDATA[Fireblocks denied an Axios report that Visa is in talks to acquire the crypto custody firm for around $2.5 billion.]]></description>            <dc:creator><![CDATA[James Hunt]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/companies"><![CDATA[Companies]]></category>
+		<category domain="https://www.theblock.co/category/crypto-ecosystems"><![CDATA[Crypto Ecosystems]]></category>
+		<category domain="https://www.theblock.co/category/deals"><![CDATA[Deals]]></category>
+		<category domain="https://www.theblock.co/category/finance-firms"><![CDATA[Finance firms]]></category>
+		<category domain="https://www.theblock.co/category/stablecoins"><![CDATA[Stablecoins]]></category>
+		<category domain="tag"><![CDATA[Payments]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Dune launches onchain trading data feeds as tokenized markets expand]]></title>
+        <link>https://www.theblock.co/news/business/2026-10-22-dune-onchain-trading-data-feeds-421889</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-22-at-11.20.33.png" type="image/*" medium="image"/>        <guid isPermaLink="false">b3d96612-0d8b-5eb6-a10f-d30344c082c9</guid>
+        <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
+            <description><![CDATA[The new real-time market feeds will cover trade data from over 200 onchain venues across 12 blockchain networks.]]></description>            <dc:creator><![CDATA[Timmy Shen]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/companies"><![CDATA[Companies]]></category>
+		<category domain="https://www.theblock.co/category/crypto-ecosystems"><![CDATA[Crypto Ecosystems]]></category>
+		<category domain="https://www.theblock.co/category/defi"><![CDATA[DeFi]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[SoFi launches interest-bearing, FDIC-insured tokenized deposit for crypto users]]></title>
+        <link>https://www.theblock.co/news/business/2026-10-22-sofi-fdic-insured-tokenized-deposit-421916</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-21-at-18.43.15.png" type="image/*" medium="image"/>        <guid isPermaLink="false">3964eeac-cc20-5ad6-8b42-57ab3e1ed8b9</guid>
+        <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
+            <description><![CDATA[SoFi has launched SOFIE, a tokenized deposit offering 4.4% APY and FDIC insurance, with the option to convert to SoFiUSD.]]></description>            <dc:creator><![CDATA[James Hunt]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/companies"><![CDATA[Companies]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Bitcoin ETFs draw $528 million as ether funds snap five-day outflow streak]]></title>
+        <link>https://www.theblock.co/news/markets/2026-10-22-bitcoin-etfs-draw-528-million-as-ether-funds-snap-five-day-outflow-streak-421904</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-22-at-10.45.33.png" type="image/*" medium="image"/>        <guid isPermaLink="false">e4bd5b91-0e43-5a4f-9f1a-fc959a94cf8b</guid>
+        <pubDate>Thu, 22 Oct 2026 09:56:16 +0000</pubDate>
+            <description><![CDATA[Spot bitcoin ETFs attracted $528 million on Wednesday as BlackRock and Fidelity led a recovery in institutional demand.]]></description>            <dc:creator><![CDATA[Brian Danga]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/crypto-ecosystems"><![CDATA[Crypto Ecosystems]]></category>
+		<category domain="https://www.theblock.co/category/funds"><![CDATA[Funds]]></category>
+		<category domain="https://www.theblock.co/category/layer-1s"><![CDATA[Layer 1s]]></category>
+		<category domain="https://www.theblock.co/category/markets"><![CDATA[Markets]]></category>
+		<category domain="https://www.theblock.co/category/token-projects"><![CDATA[Token Projects]]></category>
+		<category domain="tag"><![CDATA[Bitcoin]]></category>
+		<category domain="tag"><![CDATA[Bitcoin ETF]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Starknet community overwhelmingly backs research into becoming an independent post-quantum Layer 1]]></title>
+        <link>https://www.theblock.co/news/ecosystems/2026-10-22-starknet-community-backs-independent-post-quantum-layer-1-421885</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-22-at-09.58.20.png" type="image/*" medium="image"/>        <guid isPermaLink="false">e303d462-bbff-50bd-9d65-6019cd2980a5</guid>
+        <pubDate>Thu, 22 Oct 2026 09:32:00 +0000</pubDate>
+            <description><![CDATA[Starknet's community backed research into becoming an independent post-quantum Layer 1, with a draft whitepaper expected in November.]]></description>            <dc:creator><![CDATA[James Hunt]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/crypto-ecosystems"><![CDATA[Crypto Ecosystems]]></category>
+		<category domain="https://www.theblock.co/category/layer-2s-and-scaling"><![CDATA[Layer 2s and Scaling]]></category>
+		<category domain="tag"><![CDATA[Starknet]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Layer 2 Scaling Solutions]]></title>
+        <link>https://www.theblock.co/learn/campus/layer-2-scaling-solutions-419685</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/cover-16x9-2.png" type="image/*" medium="image"/>        <guid isPermaLink="false">beaefef2-bd45-59d0-84fe-0c8556700cdd</guid>
+        <pubDate>Thu, 22 Oct 2026 09:15:50 +0000</pubDate>
+            <description><![CDATA[Layer 2 scaling solutions help blockchains like Ethereum process more activity without forcing every transaction to happen directly on the base chain.
+Ethereum’s main network is secure and decentralized, but blockspace is limited. When demand rises, fees increase and users can get priced out. Layer 2s address this by moving transaction activity to scaling systems that sit around Ethereum while still using it for settlement, security, data posting, or verification.
+The most important Layer 2 designs today are rollups. Rollups process transactions off-chain, bundle them together, and post data or proofs back to Ethereum. This makes transactions cheaper and faster while keeping a connection to Ethereum’s trust foundation.]]></description>            <dc:creator><![CDATA[The Block Research]]></dc:creator>
+        <content:encoded/>
+        		<category domain="tag"><![CDATA[201]]></category>
+		<category domain="tag"><![CDATA[campus]]></category>
+		<category domain="tag"><![CDATA[Ethereum]]></category>
+		<category domain="tag"><![CDATA[layer 2 scaling]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[South Korea’s crypto bill nears completion while tax debate intensifies: reports]]></title>
+        <link>https://www.theblock.co/news/regulation/2026-10-22-south-koreas-crypto-bill-nears-completion-421880</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-22-at-10.14.49.png" type="image/*" medium="image"/>        <guid isPermaLink="false">653f94a6-4e77-5bc7-9acc-c186edcd7f17</guid>
+        <pubDate>Thu, 22 Oct 2026 09:11:57 +0000</pubDate>
+            <description><![CDATA[The bill seeks to establish a framework for digital assets, including licensing regimes for exchanges and rules for stablecoin issuance.]]></description>            <dc:creator><![CDATA[Timmy Shen]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/policy"><![CDATA[Policy]]></category>
+		<category domain="https://www.theblock.co/category/regulation"><![CDATA[Regulation]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Aerodrome and Velodrome merge to launch Aero across seven blockchain networks]]></title>
+        <link>https://www.theblock.co/news/defi/2026-10-21-aerodrome-velodrome-merge-aero-421514</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-21-at-11.05.40.png" type="image/*" medium="image"/>        <guid isPermaLink="false">6c9943e8-9bf8-5930-aced-747c9e6b54dc</guid>
+        <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+            <description><![CDATA[Aerodrome and Velodrome have merged to launch Aero across Ethereum mainnet, Base, Robinhood Chain, Ink, OP Mainnet, Arc, and Arbitrum.]]></description>            <dc:creator><![CDATA[Timmy Shen]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/crypto-ecosystems"><![CDATA[Crypto Ecosystems]]></category>
+		<category domain="https://www.theblock.co/category/defi"><![CDATA[DeFi]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Robinhood single-stock perps could be a ‘strong positive’ for HOOD shares, Mizuho says]]></title>
+        <link>https://www.theblock.co/news/business/2026-10-21-robinhood-single-stock-perpetual-futures-mizuho-survey-421639</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/12/20251208_Robinhood_News_3.jpg" type="image/*" medium="image"/>        <guid isPermaLink="false">303a4af7-02aa-5fff-a171-6d325b1d1899</guid>
+        <pubDate>Wed, 21 Oct 2026 18:54:36 +0000</pubDate>
+            <description><![CDATA[A Mizuho survey of 600+ Robinhood users finds 94% would trade single-stock perpetual futures, mostly with new money.]]></description>            <dc:creator><![CDATA[Jason Shubnell]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/companies"><![CDATA[Companies]]></category>
+		<category domain="https://www.theblock.co/category/crypto-ecosystems"><![CDATA[Crypto Ecosystems]]></category>
+		<category domain="https://www.theblock.co/category/defi"><![CDATA[DeFi]]></category>
+		<category domain="https://www.theblock.co/category/exchanges"><![CDATA[Exchanges]]></category>
+		<category domain="https://www.theblock.co/category/markets"><![CDATA[Markets]]></category>
+		<category domain="https://www.theblock.co/category/public-equities"><![CDATA[Public Equities]]></category>
+		<category domain="tag"><![CDATA[Perpetuals]]></category>
+		<category domain="tag"><![CDATA[Robinhood]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[American Bankers Association accuses OCC of undermining Congress with final stablecoin rewards rule]]></title>
+        <link>https://www.theblock.co/news/regulation/2026-10-21-american-bankers-association-accuses-occ-undermining-congress-stablecoin-rewards-rule-421629</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2019/07/congress-outside-alt-e1576830696475.jpg" type="image/*" medium="image"/>        <guid isPermaLink="false">2844a58e-d7c2-55e3-a03e-84cc711cfa2e</guid>
+        <pubDate>Wed, 21 Oct 2026 17:59:36 +0000</pubDate>
+            <description><![CDATA[The fight between banks and crypto has reignited after a top banking regulator declined to weigh in on third-party stablecoin rewards.]]></description>            <dc:creator><![CDATA[Sarah Wynn]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/crypto-ecosystems"><![CDATA[Crypto Ecosystems]]></category>
+		<category domain="https://www.theblock.co/category/policy"><![CDATA[Policy]]></category>
+		<category domain="https://www.theblock.co/category/regulation"><![CDATA[Regulation]]></category>
+		<category domain="https://www.theblock.co/category/stablecoins"><![CDATA[Stablecoins]]></category>
+		<category domain="https://www.theblock.co/category/us-policymaking"><![CDATA[U.S. Policymaking]]></category>
+		<category domain="tag"><![CDATA[OCC]]></category>
+		<category domain="tag"><![CDATA[Senate Agriculture Committee]]></category>
+		<category domain="tag"><![CDATA[Senate Banking Committee]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Dataline raises $10.6 million for decentralized data network for AI agents, plans ICO]]></title>
+        <link>https://www.theblock.co/news/deals/2026-10-21-dataline-decentralized-data-network-ai-agents-funding-ico-421596</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/04/20250411_Funding_News_3.jpg" type="image/*" medium="image"/>        <guid isPermaLink="false">0e3d8aaa-99f1-5635-8e60-ac0b4ed18547</guid>
+        <pubDate>Wed, 21 Oct 2026 16:44:01 +0000</pubDate>
+            <description><![CDATA[The startup also plans to hold a public token sale through Uniswap's auction platform, with details expected next week.]]></description>            <dc:creator><![CDATA[Yogita Khatri]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/companies"><![CDATA[Companies]]></category>
+		<category domain="https://www.theblock.co/category/crypto-ecosystems"><![CDATA[Crypto Ecosystems]]></category>
+		<category domain="https://www.theblock.co/category/deals"><![CDATA[Deals]]></category>
+		<category domain="https://www.theblock.co/category/defi"><![CDATA[DeFi]]></category>
+		<category domain="https://www.theblock.co/category/lobbying"><![CDATA[Lobbying]]></category>
+		<category domain="https://www.theblock.co/category/policy"><![CDATA[Policy]]></category>
+		<category domain="https://www.theblock.co/category/web3"><![CDATA[Web3]]></category>
+		<category domain="tag"><![CDATA[AI]]></category>
+		<category domain="tag"><![CDATA[exclusive]]></category>
+		<category domain="tag"><![CDATA[Fundraising]]></category>
+		<category domain="tag"><![CDATA[Uniswap]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Grayscale expands in-kind subscriptions to 10 crypto ETFs and trusts]]></title>
+        <link>https://www.theblock.co/news/markets/2026-10-21-grayscale-expands-in-kind-subscriptions-10-crypto-etfs-421559</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/03/20230317_Grayscale.jpg" type="image/*" medium="image"/>        <guid isPermaLink="false">b8146a7d-365a-52f3-a6ef-0f3cfc2c88de</guid>
+        <pubDate>Wed, 21 Oct 2026 15:12:00 +0000</pubDate>
+            <description><![CDATA[Grayscale expands in-kind subscriptions to 10 crypto funds, letting eligible investors swap tokens for shares without selling for cash.]]></description>            <dc:creator><![CDATA[Jason Shubnell]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/companies"><![CDATA[Companies]]></category>
+		<category domain="https://www.theblock.co/category/funds"><![CDATA[Funds]]></category>
+		<category domain="https://www.theblock.co/category/markets"><![CDATA[Markets]]></category>
+		<category domain="tag"><![CDATA[Bitcoin ETF]]></category>
+		<category domain="tag"><![CDATA[Dogecoin ETF]]></category>
+		<category domain="tag"><![CDATA[Solana ETF]]></category>
+		<category domain="tag"><![CDATA[XRP ETF]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+    </channel>
+</rss>
