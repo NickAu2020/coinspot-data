@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
+    <link>https://www.coindesk.com/</link>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
+    <atom:link rel="hub" href="true"/>
+    <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
+    <lastBuildDate>Fri, 23 Oct 2026 06:58:58 +0000</lastBuildDate>
+    <language>en-US</language>
+    <copyright>© 2026 CoinDesk, Inc.</copyright>
+    <generator>CoinDesk</generator>
+    <ttl>5</ttl>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    <image>
+      <url>https://downloads.coindesk.com/arc/failsafe/feeds/coindesk-feed-logo.png</url>
+      <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
+      <link>https://www.coindesk.com/</link>
+    </image>
+    <item>
+      <title><![CDATA[Polymarket has reportedly fired its marketing chief, also a close friend of the CEO]]></title>
+      <link>https://www.coindesk.com/markets/2026/10/23/polymarket-has-reportedly-fired-its-marketing-chief-also-a-close-friend-of-the-ceo</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/8244f5db1e6b709627e3a0daa0d726294d50e8c1-8390x5593.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">10e6a08a-af70-4d41-abc7-ac1b3699fe74</guid>
+      <pubDate>Fri, 23 Oct 2026 05:01:19 +0000</pubDate>
+      <description><![CDATA[Matthew Modabber was reportedly ousted after an internal probe of several instances of misconduct, according to the New York Post.]]></description>
+      <dc:creator>Omkar Godbole</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
+      <category domain="tag"><![CDATA[Polymarket]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[Ethereum delays Glamsterdam test after security devs flag risk to existing contracts]]></title>
+      <link>https://www.coindesk.com/tech/2026/10/23/ethereum-delays-glamsterdam-test-after-security-devs-flag-risk-to-existing-contracts</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/c357579ddef2051b405b9e89f8525dd02709081d-5760x3240.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">de8ed67a-3022-4e49-9b97-1b109d75cd9a</guid>
+      <pubDate>Fri, 23 Oct 2026 04:59:34 +0000</pubDate>
+      <description><![CDATA[Developers canceled Monday's Hoodi activation after researchers showed how new gas rules could let smart contracts permanently record failed operations.]]></description>
+      <dc:creator>Shaurya Malwa</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/tech"><![CDATA[Tech]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[Cardano holders are being asked to bet $5 million on copper hitting a new record]]></title>
+      <link>https://www.coindesk.com/markets/2026/10/23/cardano-holders-are-being-asked-to-bet-usd5-million-on-copper-hitting-a-new-record</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/d015970fe04575c3819700e01e757b872ee9ad32-1500x1000.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">c7322fc3-5d34-44b5-81a7-495a994ada3f</guid>
+      <pubDate>Fri, 23 Oct 2026 04:36:51 +0000</pubDate>
+      <description><![CDATA[Toto Finance wants 22 million ADA from Cardano’s treasury to buy tokenized copper, and the metal would have to trade well above its all-time high for holders to get their money back.]]></description>
+      <dc:creator>Shaurya Malwa</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[Bitcoin, gold trim early losses as yen gives up gains. Oil stays near $100]]></title>
+      <link>https://www.coindesk.com/markets/2026/10/23/bitcoin-gold-trim-early-losses-as-yen-gives-up-gains-oil-stays-near-usd100</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/d45f74af3bf643e7376c8cc581b322b4ae39f779-2220x1267.png?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">b4edccbf-9c47-4739-b8ca-958f94149b0d</guid>
+      <pubDate>Fri, 23 Oct 2026 03:13:01 +0000</pubDate>
+      <description><![CDATA[Bitcoin and gold pared early losses as the yen gave up gains and Asian stocks rebounded, though oil near $100 keeps inflation risks in focus.]]></description>
+      <dc:creator>Omkar Godbole</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
+      <category domain="tag"><![CDATA[Bitcoin News]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[Senate's top Democratic investigator looking into Tether payments to Bo Hines' firm]]></title>
+      <link>https://www.coindesk.com/policy/2026/10/22/senate-s-top-democratic-investigator-looking-into-tether-payments-to-bo-hines-firm</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/99dc294f833b46c672b0cdc7f4decad2cdcd8126-4030x2267.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">03a2b707-4827-4df8-b111-ec51f7d7b7dd</guid>
+      <pubDate>Thu, 22 Oct 2026 22:43:36 +0000</pubDate>
+      <description><![CDATA[Senator Richard Blumenthal, the ranking Democrat on the investigations subcommittee, added a probe of the ex-White House crypto adviser to his list of crypto interests.]]></description>
+      <dc:creator>Jesse Hamilton</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/policy"><![CDATA[Policy]]></category>
+      <category domain="tag"><![CDATA[Tether]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[A16z is the latest VC giant to widen bets beyond crypto and into AI and emerging tech]]></title>
+      <link>https://www.coindesk.com/business/2026/10/22/a16z-is-the-latest-vc-giant-to-widen-bets-beyond-crypto-and-into-ai-and-emerging-tech</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/941dba842a1a32a077b3b9c26476efac090f9415-7081x3983.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">40594750-9fff-4c83-8d16-9de9338b5229</guid>
+      <pubDate>Thu, 22 Oct 2026 18:30:57 +0000</pubDate>
+      <description><![CDATA[The venture investor behind early bets on Coinbase, Solana and Uniswap said is broadening its focus, joining other crypto investment firms looking beyond blockchain to artificial intelligence and tech themes.]]></description>
+      <dc:creator>Krisztian Sandor</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
+      <category domain="tag"><![CDATA[Institutional Investors]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[Irish central bank fines Coinbase Ireland $3.6 million over fund safeguarding failures]]></title>
+      <link>https://www.coindesk.com/policy/2026/10/22/irish-central-bank-fines-coinbase-ireland-usd3-6-million-over-fund-safeguarding-failures</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/868ae20c7c05b3aab1825f55f45b74a9484fd851-1920x1280.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">fea36b3d-f3da-4ee7-a3fd-81bd01806655</guid>
+      <pubDate>Thu, 22 Oct 2026 15:40:25 +0000</pubDate>
+      <description><![CDATA[When Silvergate was on the verge of collapse in 2023, Coinbase instructed 30 customers to deposit funds into an alternate account held by Coinbase at another U.S. bank.]]></description>
+      <dc:creator>Jamie Crawley</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/policy"><![CDATA[Policy]]></category>
+      <category domain="tag"><![CDATA[Coinbase]]></category>
+      <category domain="tag"><![CDATA[Regulation]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[Crypto for Advisors: Stablecoins are ready for prime time]]></title>
+      <link>https://www.coindesk.com/coindesk-indices/2026/10/22/crypto-for-advisors-stablecoins-are-ready-for-prime-time</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/262d7f344b93e8caa3b475afeda247c8ef340958-1920x1080.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">1916f50b-b8b6-403e-af6f-9375ab55ae6b</guid>
+      <pubDate>Thu, 22 Oct 2026 14:58:31 +0000</pubDate>
+      <description/>
+      <dc:creator>Prashant Kher</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/coindesk-indices"><![CDATA[CoinDesk Indices]]></category>
+      <category domain="tag"><![CDATA[Crypto for Advisors]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[Crypto custody specialist Fireblocks denies it's in talks to be acquired by Visa ]]></title>
+      <link>https://www.coindesk.com/business/2026/10/22/crypto-custody-specialist-fireblocks-denies-its-in-talks-to-be-acquired-by-visa</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/e1c5ad64ecc191986642a138abca262584dd0195-1500x844.png?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">a02a4fb4-ad07-4c1a-ab58-ac89a879d717</guid>
+      <pubDate>Thu, 22 Oct 2026 14:37:12 +0000</pubDate>
+      <description><![CDATA[The company is in talks with Visa over a potential $2.5 billion acquisition, Axios reported.
+]]></description>
+      <dc:creator>Ian Allison</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
+      <category domain="tag"><![CDATA[mergers and acquisitions]]></category>
+      <category domain="tag"><![CDATA[Custody]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[Crypto is making a splash in U.S. elections — but chiefly in jabs about industry influence]]></title>
+      <link>https://www.coindesk.com/news-analysis/2026/10/21/crypto-is-making-a-splash-in-u-s-elections-but-chiefly-in-jabs-about-industry-influence</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/298fa0a6c5e0d3bff5bd629adb7e45ce1f1bc968-2618x1440.png?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">d145e662-2338-4e76-b210-941641a6796b</guid>
+      <pubDate>Thu, 22 Oct 2026 13:00:00 +0000</pubDate>
+      <description><![CDATA[Boosters often say crypto voters can swing elections, but Democrats are seeking mileage out of tying crypto to Trump, corruption and attempts to buy seats in Congress. ]]></description>
+      <dc:creator>Jesse Hamilton</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/news-analysis"><![CDATA[News Analysis]]></category>
+      <category domain="tag"><![CDATA[Election 2026]]></category>
+      <category domain="tag"><![CDATA[Donald Trump]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[Ethereum’s four-minute settlement plan could lower the cost of moving crypto]]></title>
+      <link>https://www.coindesk.com/tech/2026/10/22/ethereum-s-four-minute-settlement-plan-could-lower-the-cost-of-moving-crypto</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/c357579ddef2051b405b9e89f8525dd02709081d-5760x3240.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">c0c3cb1b-1c48-4937-8aea-4ac17b0f9b57</guid>
+      <pubDate>Thu, 22 Oct 2026 12:14:29 +0000</pubDate>
+      <description><![CDATA[A new draft targets a fourfold cut in the time it takes Ethereum transactions to become final, which could free up money transfer services tie up while customers’ payments clear.]]></description>
+      <dc:creator>Shaurya Malwa</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/tech"><![CDATA[Tech]]></category>
+      <category domain="tag"><![CDATA[Ethereum News]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[Crypto traders seek shelter in bitcoin as altcoins slide and ETF flows wobble]]></title>
+      <link>https://www.coindesk.com/daybook-us/2026/10/22/crypto-traders-seek-shelter-in-bitcoin-as-altcoins-slide-and-etf-flows-wobble</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/f6e1819745339cda15d7d57fba10abc701690144-3268x1838.png?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">7d51da94-a874-4a73-b914-09a352b0c2a7</guid>
+      <pubDate>Thu, 22 Oct 2026 11:20:04 +0000</pubDate>
+      <description><![CDATA[Your day-ahead look for Oct. 21, 2026]]></description>
+      <dc:creator>Omkar Godbole</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/daybook-us"><![CDATA[Crypto Daybook Americas]]></category>
+      <category domain="tag"><![CDATA[Crypto Daybook Americas]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[Bitcoin slides below $82,000 as AI doubts return, with DeFi tokens leading declines]]></title>
+      <link>https://www.coindesk.com/markets/2026/10/22/bitcoin-slides-below-usd82-000-as-ai-doubts-return-with-defi-tokens-leading-declines</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/33df524da73a71dffe5032199c51d40709a67399-1920x1080.png?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">257cb190-e6c8-434d-85aa-978e3bc02910</guid>
+      <pubDate>Thu, 22 Oct 2026 10:50:04 +0000</pubDate>
+      <description><![CDATA[Bitcoin as much as 2.9% to around $81,600 as Nasdaq futures dropped, while the CoinDesk 80 lost 3.5% and DeFi index slid 6%.]]></description>
+      <dc:creator>Oliver Knight</dc:creator>
+      <dc:creator>Omkar Godbole</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
+      <category domain="tag"><![CDATA[Crypto Markets Today]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[Crypto traders price India telecoms company Reliance Jio's IPO at about $110 billion]]></title>
+      <link>https://www.coindesk.com/markets/2026/10/22/crypto-traders-price-india-telecoms-company-reliance-jio-s-ipo-at-about-usd110-billion</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/2180f062d339af02b2052281b305e8f75b13fdef-1920x1281.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">119c40a1-10e7-4adb-8c73-9ca3875a99f3</guid>
+      <pubDate>Thu, 22 Oct 2026 10:18:28 +0000</pubDate>
+      <description><![CDATA[The pre-IPO Jio contract on Bitget is trading near $12, a roughly 4% premium on the top price band, as India’s largest public offering remains open for subscription.]]></description>
+      <dc:creator>Omkar Godbole</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
+      <category domain="tag"><![CDATA[IPOs]]></category>
+      <category domain="tag"><![CDATA[India]]></category>
+      <category domain="tag"><![CDATA[Predictions]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[Live updates: Bitcoin falls back to $81,000, with interest rates tumbling as stocks crack]]></title>
+      <link>https://www.coindesk.com/business/2026/10/22/live-updates-bitcoin-s-round-trip-to-usd85-000-burns-traders-on-both-sides</link>
+      <guid isPermaLink="false">60a7e30b-ae1a-4b9f-9484-93abb2e9a707</guid>
+      <pubDate>Thu, 22 Oct 2026 09:54:26 +0000</pubDate>
+      <description><![CDATA[The Nasdaq is down more than 2% as the AI bull market trade continues to unwind. U.S. interest rates are plunging even as oil surges.]]></description>
+      <dc:creator>Shaurya Malwa</dc:creator>
+      <dc:creator>James Van Straten</dc:creator>
+      <dc:creator>Omkar Godbole</dc:creator>
+      <dc:creator>Stephen Alpher</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
+      <category domain="tag"><![CDATA[Live News]]></category>
+      <category domain="https://www.coindesk.com/">live_news</category>
+    </item>
+    <item>
+      <title><![CDATA[Asian stocks tumble, bitcoin retreats as China enters bear market ]]></title>
+      <link>https://www.coindesk.com/markets/2026/10/22/asian-stocks-tumble-bitcoin-retreats-as-china-enters-bear-market</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/b39a2378ae8abada053d644590080bf32ac111dd-2268x1736.png?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">aee8b62d-68ee-4541-b938-8213a95a103c</guid>
+      <pubDate>Thu, 22 Oct 2026 08:49:08 +0000</pubDate>
+      <description><![CDATA[Technology shares led regional losses as mixed U.S. earnings unsettled investors and Brent crude climbed above $112 a barrel.]]></description>
+      <dc:creator>James Van Straten</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
+      <category domain="tag"><![CDATA[Bitcoin News]]></category>
+      <category domain="tag"><![CDATA[Markets]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[China seeks to seize 61,800 BTC tied to $5.7 billion fraud scheme]]></title>
+      <link>https://www.coindesk.com/markets/2026/10/22/china-seeks-to-seize-61-800-btc-tied-to-usd5-7-billion-fraud-scheme</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/8b075d099e598ae6a929e4d56c9a2336b815d242-4709x3143.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">79074664-3fa4-41f1-a84a-42c3c8b1075d</guid>
+      <pubDate>Thu, 22 Oct 2026 06:24:10 +0000</pubDate>
+      <description><![CDATA[Chinese prosecutors are seeking to confiscate more than 61,800 Bitcoin tied to a $5.7 billion fraud scheme, days after a U.K. court ruled Chinese law governs victims’ claims to the coins.]]></description>
+      <dc:creator>Omkar Godbole</dc:creator>
+      <dc:creator>AI Boost</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[Solana’s biggest network change since 2020 is live. Here’s how users benefit]]></title>
+      <link>https://www.coindesk.com/tech/2026/10/22/solana-completes-alpenglow-upgrade-here-s-what-it-means-for-users</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/54c0f3b41e62df4cdf774aab4c7d68c64e5e976c-1920x1080.png?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">a9c94dd4-9dfd-4df7-a12e-8b431ac07078</guid>
+      <pubDate>Thu, 22 Oct 2026 05:24:58 +0000</pubDate>
+      <description><![CDATA[The new voting system targets settlement in about 150 milliseconds, potentially shortening waits for payments and deposits. Users can keep their existing wallets.]]></description>
+      <dc:creator>Shaurya Malwa</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/tech"><![CDATA[Tech]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[Bitcoin ETFs attract $1.08 billion in 3 days but it may not be enough for a steep rally]]></title>
+      <link>https://www.coindesk.com/markets/2026/10/22/bitcoin-etfs-attract-usd1-08-billion-in-3-days-but-it-may-not-be-enough-for-a-steep-rally</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/e0742713d55788f217ee9802b43c2a1cf22f5434-1600x900.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">921575eb-f92a-4d58-80ef-7a98bd503720</guid>
+      <pubDate>Thu, 22 Oct 2026 04:41:59 +0000</pubDate>
+      <description><![CDATA[Past steep rallies ran on about $235 million a day of net inflows into ETFs. The funds are yet to match that pace, according to data analyzed by CoinDesk.]]></description>
+      <dc:creator>Omkar Godbole</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
+      <category domain="tag"><![CDATA[Bitcoin News]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[XRP Ledger bug fix moved to November after validator support dipped for two hours]]></title>
+      <link>https://www.coindesk.com/tech/2026/10/22/xrp-ledger-bug-fix-moved-to-november-after-validator-support-dipped-for-two-hours</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/b1652fc6b3b74f0a93f6349c9b655b6a575d3cf5-1260x840.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">1741cbc6-5f57-43a6-afa0-10b4891a54d4</guid>
+      <pubDate>Thu, 22 Oct 2026 04:36:20 +0000</pubDate>
+      <description><![CDATA[The fix lost its two-week countdown less than two days from the finish after support slipped to 26 of 35 validators. It’s now back at 31.]]></description>
+      <dc:creator>Shaurya Malwa</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/tech"><![CDATA[Tech]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[Bitcoin gives back its run at $85,000 as Tesla and Meta fail to calm AI nerves]]></title>
+      <link>https://www.coindesk.com/markets/2026/10/22/bitcoin-gives-back-its-run-at-usd85-000-as-tesla-and-meta-fail-to-calm-ai-nerves</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/68305194f847e3aa29c580f21b6d32ae104f745f-1520x854.png?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">025972e1-a400-49fd-9d68-02bc4ba4c5e0</guid>
+      <pubDate>Thu, 22 Oct 2026 03:51:34 +0000</pubDate>
+      <description><![CDATA[BTC broke through its $84,000 ceiling late Wednesday, then slid back to the $82,500 support analysts are watching as tech futures fell.]]></description>
+      <dc:creator>Shaurya Malwa</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[Trump to throw spotlight on overseas crypto abuses at White House event]]></title>
+      <link>https://www.coindesk.com/policy/2026/10/21/trump-to-throw-spotlight-on-overseas-crypto-abuses-in-white-house-event</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/6e4532d237786704984596878a883a023b94ba32-4540x2554.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">1f4749ee-8df5-4c6f-b5eb-0c42b70ee943</guid>
+      <pubDate>Wed, 21 Oct 2026 16:23:44 +0000</pubDate>
+      <description><![CDATA[The president is hosting a cybercrime event that will highlight U.S. authorities' efforts to crack down on crypto scams run by foreign criminal organizations.]]></description>
+      <dc:creator>Jesse Hamilton</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/policy"><![CDATA[Policy]]></category>
+      <category domain="tag"><![CDATA[Donald Trump]]></category>
+      <category domain="tag"><![CDATA[Fraud]]></category>
+      <category domain="tag"><![CDATA[Crime]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[How a16z-backed DATA is rethinking its blockchain strategy after $30 million Sui deal]]></title>
+      <link>https://www.coindesk.com/business/2026/10/21/how-a16z-backed-data-is-rethinking-its-blockchain-strategy-after-usd30-million-sui-deal</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/cfdbc777f06832152972c765b454bf87e82c11eb-2940x1650.png?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">ab93d7bd-c62a-439b-bf32-13f24cf88aef</guid>
+      <pubDate>Wed, 21 Oct 2026 15:22:46 +0000</pubDate>
+      <description><![CDATA[The startup is retiring its own blockchain and moving to Sui with a $30 million investment as it narrows its focus to AI training data.]]></description>
+      <dc:creator>Helene Braun</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
+      <category domain="tag"><![CDATA[Exclusive]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[Bybit will look for big broker partnerships to take on Robinhood in the U.S.]]></title>
+      <link>https://www.coindesk.com/business/2026/10/16/bybit-will-look-for-big-broker-partnerships-to-take-on-robinhood-in-the-u-s</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/0c8a0c389c4df381e479498f22f5b4aaf46b6e1e-5184x2916.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">219ae876-1e47-4502-ab89-2ab5237a14d5</guid>
+      <pubDate>Wed, 21 Oct 2026 15:09:22 +0000</pubDate>
+      <description><![CDATA[When it comes to the U.S., Bybit will look to work with with someone like Interactive Brokers (IB), for example, said CEO Ben Zhou.]]></description>
+      <dc:creator>Ian Allison</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
+      <category domain="tag"><![CDATA[Exclusive]]></category>
+      <category domain="tag"><![CDATA[UK]]></category>
+      <category domain="tag"><![CDATA[Regulation]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[Crypto Long & Short: Why real-world assets need fixed-rate loans onchain]]></title>
+      <link>https://www.coindesk.com/coindesk-indices/2026/10/21/crypto-long-and-short-why-real-world-assets-need-fixed-rate-loans-onchain</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/2d7168e1ad119fe6bd69df2bdbad13b8b4d86c7e-7000x4500.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">14935b4e-306e-4d60-826c-b2ee65fc1a20</guid>
+      <pubDate>Wed, 21 Oct 2026 15:00:53 +0000</pubDate>
+      <description><![CDATA[Real-world assets already back the largest stablecoins, yet borrowing against them onchain still runs through variable-rate pools. Peter Gaffney of O2O Capital Partners explains why fixed-rate, fixed-term lending is the missing piece, and how a 5% shift in Sky and Ethena reserves could create $1.8 billion of demand for real-world assets.]]></description>
+      <dc:creator>Peter Gaffney</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/coindesk-indices"><![CDATA[CoinDesk Indices]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+  </channel>
+</rss>
