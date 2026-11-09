@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
+    <link>https://www.coindesk.com/</link>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
+    <atom:link rel="hub" href="true"/>
+    <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
+    <lastBuildDate>Mon, 09 Nov 2026 16:23:43 +0000</lastBuildDate>
+    <language>en-US</language>
+    <copyright>© 2026 CoinDesk, Inc.</copyright>
+    <generator>CoinDesk</generator>
+    <ttl>5</ttl>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    <image>
+      <url>https://downloads.coindesk.com/arc/failsafe/feeds/coindesk-feed-logo.png</url>
+      <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
+      <link>https://www.coindesk.com/</link>
+    </image>
+    <item>
+      <title><![CDATA[A Bitcoin block just neared a 2015 transaction record, but paid only $180 in fees]]></title>
+      <link>https://www.coindesk.com/tech/2026/11/09/a-bitcoin-block-just-neared-a-2015-transaction-record-but-paid-only-usd180-in-fees</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/6bc97519d5345c3c5216389198cb36d38f7f90b3-3924x3024.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">48756fa3-0649-4751-8054-dcd7834ee2d2</guid>
+      <pubDate>Mon, 09 Nov 2026 16:19:45 +0000</pubDate>
+      <description><![CDATA[The AntPool block came within 984 transactions of Bitcoin’s 2015 record, even as fees made up less than 0.1% of the miner’s payout.]]></description>
+      <dc:creator>Shaurya Malwa</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/tech"><![CDATA[Tech]]></category>
+      <category domain="tag"><![CDATA[Bitcoin News]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[Google’s AI chip push adds more pressure on Nvidia]]></title>
+      <link>https://www.coindesk.com/markets/2026/11/09/google-s-ai-chip-push-adds-more-pressure-on-nvidia</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/90f39fc46356434c7e4ffade0abab7f574c575c3-1719x864.png?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">4d8d0534-ca8d-4bde-b066-66fec76ca474</guid>
+      <pubDate>Mon, 09 Nov 2026 15:20:05 +0000</pubDate>
+      <description><![CDATA[Google’s specialised AI chips threaten greater competition as Nvidia faces a leadership investigation.]]></description>
+      <dc:creator>James Van Straten</dc:creator>
+      <dc:creator>AI Boost</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
+      <category domain="tag"><![CDATA[Artificial Intelligence]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[North Korean hackers are creating memecoins to wash loot from $6.3 billion Binance hack]]></title>
+      <link>https://www.coindesk.com/business/2026/11/09/north-korean-hackers-are-creating-memecoins-to-wash-loot-from-usd6-3-billion-binance-hack</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/c18c9af8ef94bcbc9a17fac89a01b83bfc76fd8f-5472x3648.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">d9fe6660-302e-4d75-b2a1-ba278bba6244</guid>
+      <pubDate>Mon, 09 Nov 2026 15:00:44 +0000</pubDate>
+      <description><![CDATA[North Korean hackers used six homemade memecoins to launder 117,000 NEAR, worth about $430,000, from the $6.3 billion Binance hack, Elliptic says.
+]]></description>
+      <dc:creator>Francisco Rodrigues</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
+      <category domain="tag"><![CDATA[Binance]]></category>
+      <category domain="tag"><![CDATA[North Korea]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[NYSE picks Avalanche to settle tokenized stocks amid Wall Street's blockchain race]]></title>
+      <link>https://www.coindesk.com/business/2026/11/09/nyse-picks-avalanche-to-settle-tokenized-stocks-amid-wall-street-s-blockchain-race</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/e5010be687a255fbd4ca9b45cb952c3ec72fe13a-6302x3545.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">10721083-51f9-4644-9d25-59797a4da822</guid>
+      <pubDate>Mon, 09 Nov 2026 13:40:06 +0000</pubDate>
+      <description><![CDATA[Avalanche will serve as the core settlement ledger for the exchange's planned blockchain stock market]]></description>
+      <dc:creator>Krisztian Sandor</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
+      <category domain="tag"><![CDATA[Tokenization]]></category>
+      <category domain="tag"><![CDATA[Tokenized Equities]]></category>
+      <category domain="tag"><![CDATA[NYSE]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[Solana set for its first tokenized stock venue under SEC framework, listing Galaxy]]></title>
+      <link>https://www.coindesk.com/business/2026/11/06/solana-lset-for-its-first-tokenized-stock-venue-under-sec-framework-listing-galaxy</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/2e14ef9e0ece47068da06c0d0405ba1e13c15bd8-3904x2196.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">d5a5d4b9-0c72-4566-adaa-f0773c5701b4</guid>
+      <pubDate>Mon, 09 Nov 2026 12:41:35 +0000</pubDate>
+      <description><![CDATA[Formation Securities plans to launch in early 2027 with Galaxy, Exodus and Forward Industries shares, expanding the U.S. regulator's experiment in blockchain-based stock trading.]]></description>
+      <dc:creator>Krisztian Sandor</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
+      <category domain="tag"><![CDATA[Tokenization]]></category>
+      <category domain="tag"><![CDATA[Tokenized Equities]]></category>
+      <category domain="tag"><![CDATA[Solana News]]></category>
+      <category domain="tag"><![CDATA[SEC]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[Trump says he knows ‘nothing’ about World Liberty’s UAE ties as Justin Sun challenges filings]]></title>
+      <link>https://www.coindesk.com/business/2026/11/09/trump-says-he-knows-nothing-about-world-liberty-s-uae-ties-as-justin-sun-challenges-filings</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/13cd4f14be950fbfb70e6dc6ab16bf0fdc1d8647-4533x2550.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">06c6b1d7-5fea-4fb4-bd3c-0a0826b9eb2c</guid>
+      <pubDate>Mon, 09 Nov 2026 12:37:13 +0000</pubDate>
+      <description><![CDATA[Trump confirmed he co-owns World Liberty, whose UAE ownership could derail Justin Sun’s federal lawsuit over frozen WLFI tokens]]></description>
+      <dc:creator>Francisco Rodrigues</dc:creator>
+      <dc:creator>AI Boost</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
+      <category domain="tag"><![CDATA[Donald Trump]]></category>
+      <category domain="tag"><![CDATA[World Liberty Financial]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[Bitcoin bulls can't rely on ETF flows]]></title>
+      <link>https://www.coindesk.com/daybook-us/2026/11/09/bitcoin-bulls-can-t-rely-on-etf-flows</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/fdc01a046b1cc2d4ab2bfa14f68d55fb0077e72e-1012x602.png?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">0000bc31-6477-4c8a-b663-e31d3de20e61</guid>
+      <pubDate>Mon, 09 Nov 2026 12:30:00 +0000</pubDate>
+      <description><![CDATA[Your day-ahead look for Nov. 9, 2026]]></description>
+      <dc:creator>Omkar Godbole</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/daybook-us"><![CDATA[Crypto Daybook Americas]]></category>
+      <category domain="tag"><![CDATA[Crypto Daybook Americas]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[Nvidia-led tech selloff weighs on crypto majors]]></title>
+      <link>https://www.coindesk.com/markets/2026/11/09/tech-selloff-weighs-on-crypto-majors</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/2db4e3ac4155cccb53f788ece2b4c9d006f4607e-1920x1080.png?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">8ba3575e-9b46-4a0c-b07d-71e3dfc7a0e4</guid>
+      <pubDate>Mon, 09 Nov 2026 11:42:04 +0000</pubDate>
+      <description><![CDATA[Only five of the top 100 cryptocurrencies by market value are up 1% or more over the past 24 hours. That is the state of the market today.]]></description>
+      <dc:creator>Omkar Godbole</dc:creator>
+      <dc:creator>Oliver Knight</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
+      <category domain="tag"><![CDATA[Crypto Markets Today]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[Zcash developers want 20-second blocks just days after major speed upgrade]]></title>
+      <link>https://www.coindesk.com/tech/2026/11/09/zcash-developers-want-20-second-blocks-just-days-after-major-speed-upgrade</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/ed9521634a0a1d5f03a2fa414456c42344f4bfd4-1398x776.png?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">bfb75c34-6049-4fb2-bc21-930fa11063ee</guid>
+      <pubDate>Mon, 09 Nov 2026 10:52:49 +0000</pubDate>
+      <description><![CDATA[Early data shows Zcash's orphan-block rate holding close to pre-upgrade levels despite blocks arriving three times faster, encouraging developers to push for another reduction.]]></description>
+      <dc:creator>Shaurya Malwa</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/tech"><![CDATA[Tech]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[Live news: Bitcoin narrows loss as Nasdaq surges more than 2%]]></title>
+      <link>https://www.coindesk.com/tech/2026/11/09/live-news-nvidia-slides-on-ceo-allegations-as-bitcoin-hovers-just-above-its-200-day-average</link>
+      <guid isPermaLink="false">f9d64ecc-d077-4b42-8c4c-b306b2a9444c</guid>
+      <pubDate>Mon, 09 Nov 2026 10:51:48 +0000</pubDate>
+      <description><![CDATA[The Nasdaq and S&P 500 are both sharply higher even as Nvidia declines following CEO Jensen Huang's issues.]]></description>
+      <dc:creator>James Van Straten</dc:creator>
+      <dc:creator>Stephen Alpher</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/tech"><![CDATA[Tech]]></category>
+      <category domain="tag"><![CDATA[Live News]]></category>
+      <category domain="https://www.coindesk.com/">live_news</category>
+    </item>
+    <item>
+      <title><![CDATA[Coinbase gets full U.S. trust charter from federal banking regulator]]></title>
+      <link>https://www.coindesk.com/policy/2026/11/09/coinbase-gets-full-u-s-trust-charter-from-federal-banking-regulator</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/73ff5902b975f54122994ceeb39606463e975438-2732x1535.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">ee80f8eb-6d92-4b90-b5b0-d8ccf1de5316</guid>
+      <pubDate>Mon, 09 Nov 2026 10:00:00 +0000</pubDate>
+      <description><![CDATA[The Office of the Comptroller of the Currency elevated the biggest U.S. exchange's trust status from conditional to a full-fledged charter, the company said.]]></description>
+      <dc:creator>Jesse Hamilton</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/policy"><![CDATA[Policy]]></category>
+      <category domain="tag"><![CDATA[Coinbase]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[U.S. inflation, corporate earnings: Crypto Week Ahead]]></title>
+      <link>https://www.coindesk.com/markets/2026/11/09/u-s-inflation-corporate-earnings-crypto-week-ahead</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/86094ea78f944f140cc21b29434392b1d1380382-1920x1080.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">c1547b4c-e84a-4f2b-9927-91dcf24fd00a</guid>
+      <pubDate>Mon, 09 Nov 2026 09:33:27 +0000</pubDate>
+      <description><![CDATA[Your look at what’s coming in the week starting Nov. 9.]]></description>
+      <dc:creator>Francisco Rodrigues</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
+      <category domain="tag"><![CDATA[week ahead]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[SpaceX proposes a $24 billion Texas supercomputer and a gas plant]]></title>
+      <link>https://www.coindesk.com/markets/2026/11/09/spacex-proposes-a-usd24-billion-texas-supercomputer-worth-17-times-its-bitcoin-pile</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/83d0912d3450cbd9352755a8558ea6c425c541a8-3000x2000.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">da73ec1d-f0de-421a-8f0f-cb64f22cc42f</guid>
+      <pubDate>Mon, 09 Nov 2026 06:54:41 +0000</pubDate>
+      <description><![CDATA[The $24 billion project, which includes an AI supercomputer in Texas with its own gas-fired power plant, is about 17 times the value of SpaceX's bitcoin holdings.]]></description>
+      <dc:creator>Omkar Godbole</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
+      <category domain="tag"><![CDATA[SpaceX]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[Solana moves to scrap the transaction feature used in the $270 million Drift hack]]></title>
+      <link>https://www.coindesk.com/tech/2026/11/09/solana-moves-to-scrap-the-transaction-feature-used-in-the-usd270-million-drift-hack</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/54c0f3b41e62df4cdf774aab4c7d68c64e5e976c-1920x1080.png?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">8edf4854-93de-4466-874e-a826a1334e39</guid>
+      <pubDate>Mon, 09 Nov 2026 06:36:45 +0000</pubDate>
+      <description><![CDATA[A draft proposal would end the 'durable nonces' feature no earlier than May 5, 2027, forcing custodians that sign offline to rebuild how they move coins.]]></description>
+      <dc:creator>Shaurya Malwa</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/tech"><![CDATA[Tech]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[Two rival Ethereum proposals aim to stop Glamsterdam breaking old contracts]]></title>
+      <link>https://www.coindesk.com/tech/2026/11/09/two-rival-ethereum-proposals-aim-to-stop-glamsterdam-breaking-old-contracts</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/c357579ddef2051b405b9e89f8525dd02709081d-5760x3240.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">c77c5359-c58c-4570-9fe7-6c3dff7d2e45</guid>
+      <pubDate>Mon, 09 Nov 2026 05:16:54 +0000</pubDate>
+      <description><![CDATA[The proposals aim to keep Ethereum’s planned gas changes from breaking existing contracts, using different approaches to what contracts see and what users pay.]]></description>
+      <dc:creator>Shaurya Malwa</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/tech"><![CDATA[Tech]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[Binance's bitcoin mining pool finds just one block in a week as shutdown nears]]></title>
+      <link>https://www.coindesk.com/tech/2026/11/09/binance-s-bitcoin-mining-pool-finds-just-one-block-in-a-week-as-shutdown-nears</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/54bd04de039305784bf732dce245207bcc75ba21-7008x3942.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">ab783572-50ab-453f-8d81-b2e222ded310</guid>
+      <pubDate>Mon, 09 Nov 2026 04:54:39 +0000</pubDate>
+      <description><![CDATA[The exchange's once significant mining operation has nearly disappeared from Bitcoin's block-production rankings ahead of its November 10 closure.]]></description>
+      <dc:creator>Shaurya Malwa</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/tech"><![CDATA[Tech]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[Bitcoin drops as Nvidia cheating scandal and failed Iran talks trigger volatility]]></title>
+      <link>https://www.coindesk.com/markets/2026/11/09/bitcoin-drops-then-pops-as-nvidia-cheating-scandal-and-failed-iran-talks-trigger-volatility</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/693575c5c547ec149e1c707e4ac159476905398f-600x338.png?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">4c2903d2-4579-4620-a593-d2e2b0f80873</guid>
+      <pubDate>Mon, 09 Nov 2026 03:21:49 +0000</pubDate>
+      <description><![CDATA[Volatile price action has once again liquidated leveraged bullish plays worth millions. ]]></description>
+      <dc:creator>Omkar Godbole</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
+      <category domain="tag"><![CDATA[Bitcoin News]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[What the election results mean for crypto: State of Crypto ]]></title>
+      <link>https://www.coindesk.com/policy/2026/11/08/what-the-election-results-mean-for-crypto-state-of-crypto</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/3d14ee5efae01770bbbc627c6ecb94cb0e826a8d-4027x2265.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">ae76d5a9-224f-4134-a84e-9cb462b590b3</guid>
+      <pubDate>Sun, 08 Nov 2026 19:30:00 +0000</pubDate>
+      <description><![CDATA[Democrats had an astoundingly good night, smashing all expectations. Is that actually bad news for the industry?]]></description>
+      <dc:creator>Nikhilesh De</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/policy"><![CDATA[Policy]]></category>
+      <category domain="tag"><![CDATA[Newsletters]]></category>
+      <category domain="tag"><![CDATA[State of Crypto]]></category>
+      <category domain="tag"><![CDATA[Election 2026]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[Stablecoin growth has stalled. The payments boom hasn't]]></title>
+      <link>https://www.coindesk.com/business/2026/11/08/stablecoin-growth-has-stalled-the-payments-boom-hasn-t</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/2938a6854f6b95a5f0c13955284d00b625510f76-5760x3840.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">b8a24500-3399-43d3-a788-5dc7ab6a032a</guid>
+      <pubDate>Sun, 08 Nov 2026 19:16:42 +0000</pubDate>
+      <description><![CDATA[Stablecoin supply has barely grown this year, even as payments using the tokens surge. Circle's latest earnings offer another example of the divergence between dollars outstanding and activity on blockchain networks.]]></description>
+      <dc:creator>Omkar Godbole</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
+      <category domain="tag"><![CDATA[Exclusive]]></category>
+      <category domain="tag"><![CDATA[Stablecoins]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[These Finland homes get free heat from bitcoin miners (as long as BTC stays above $70,000)]]></title>
+      <link>https://www.coindesk.com/markets/2026/11/08/these-finland-homes-get-free-heat-from-bitcoin-miners-as-long-as-btc-stays-above-usd70-000</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/aee234db418da001bf5ae613c8da62131873c838-1330x998.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">7226ed40-8b46-45e2-a8ad-b6a6c4e27cf4</guid>
+      <pubDate>Sun, 08 Nov 2026 12:55:59 +0000</pubDate>
+      <description><![CDATA[A Finnish startup has 30 bitcoin mining systems working as central heating, and at today’s prices each one earns slightly more than the electricity it burns.]]></description>
+      <dc:creator>Shaurya Malwa</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[Binance users in some European countries told to pull crypto before fees kick in, with accounts closing by year end]]></title>
+      <link>https://www.coindesk.com/business/2026/11/07/binance-users-in-some-european-countries-told-to-pull-crypto-before-fees-kick-in-with-accounts-closing-by-year-end</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/6afa7aee3dd3e7c1e37e3929a4ac24b7cebaccdd-6000x4000.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">89ed2b5b-6c87-4b4b-ada6-ece119f79759</guid>
+      <pubDate>Sat, 07 Nov 2026 19:13:16 +0000</pubDate>
+      <description><![CDATA[Affected accounts are reportedly set to close on Dec. 31. Users in Spain, France, and Poland say they've received similar notices.]]></description>
+      <dc:creator>Francisco Rodrigues</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
+      <category domain="tag"><![CDATA[Binance]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows]]></title>
+      <link>https://www.coindesk.com/business/2026/11/07/u-s-treasury-moves-to-cut-off-crypto-exchange-mexc-over-usd16-billion-in-alleged-illicit-flows</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/9b6c50614a95b8691bb96a1027e2c050c8f9b64c-960x720.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">fca5b3a9-d4b8-4007-ae74-ed8c0b4a93db</guid>
+      <pubDate>Sat, 07 Nov 2026 17:36:46 +0000</pubDate>
+      <description><![CDATA[Treasury billed the move as part of its campaign against Iran, but the order rests on MEXC's alleged role in Russian illicit finance.
+]]></description>
+      <dc:creator>Francisco Rodrigues</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
+      <category domain="tag"><![CDATA[Crypto News]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[Gnosis Pay breach exposes card numbers, home addresses and linked crypto wallets]]></title>
+      <link>https://www.coindesk.com/business/2026/11/07/gnosis-pay-breach-exposes-card-numbers-home-addresses-and-linked-crypto-wallets</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/422bf0c58d3c5d984b8ee7f8a379b85250db7bc2-6016x4016.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">de7a6efe-7d79-42c8-9cc2-09c1e137889e</guid>
+      <pubDate>Sat, 07 Nov 2026 16:51:00 +0000</pubDate>
+      <description><![CDATA[One user said the exposed data tied his home address and card number to every crypto wallet linked to his account, raising the risk of targeted scams.]]></description>
+      <dc:creator>Francisco Rodrigues</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
+      <category domain="tag"><![CDATA[Hack]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[Apple, Meta reject OKX–ICE tokenized stock plans, leaving crypto firms as the ones to watch]]></title>
+      <link>https://www.coindesk.com/policy/2026/11/06/apple-meta-reject-okx-ice-tokenized-stock-plans-leaving-crypto-firms-as-the-ones-to-watch</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/0ce426499b0ff515dc82a647f9da45b765043ee8-7508x5103.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">5dfa2541-3949-4457-90b6-fe54b2dc563c</guid>
+      <pubDate>Fri, 06 Nov 2026 20:09:18 +0000</pubDate>
+      <description><![CDATA[Strategy, Coinbase, Circle and Robinhood are among six companies from the venture’s initial selection with no disclosed objection, after 90% of issuers opted out.]]></description>
+      <dc:creator>Krisztian Sandor</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/policy"><![CDATA[Policy]]></category>
+      <category domain="tag"><![CDATA[Tokenization]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[U.S. prediction markets regulator issues demand that clashes directly with courts]]></title>
+      <link>https://www.coindesk.com/policy/2026/11/06/u-s-prediction-markets-regulator-issues-demand-that-clashes-directly-with-courts</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/b5758412ecdd24d3e01a7d4d410665462a0f2b43-4031x2267.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">6514aaed-3f03-4355-9908-97975a45cb3b</guid>
+      <pubDate>Fri, 06 Nov 2026 17:42:28 +0000</pubDate>
+      <description><![CDATA[The Commodity Futures Trading Commission said regulated exchanges can't cut off customers state-by-state, but firms like Kalshi are under court orders to do so.]]></description>
+      <dc:creator>Jesse Hamilton</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/policy"><![CDATA[Policy]]></category>
+      <category domain="tag"><![CDATA[Kalshi]]></category>
+      <category domain="tag"><![CDATA[Prediction Markets]]></category>
+      <category domain="tag"><![CDATA[Regulation]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+  </channel>
+</rss>
