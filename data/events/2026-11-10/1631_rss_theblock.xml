@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    >
+
+<channel>
+    <title>The Block</title>
+    <link>https://www.theblock.co</link>
+    <atom:link href="https://www.theblock.co/rss.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.theblock.co/rss.xml?paged=2" rel="next" type="application/rss+xml" />
+    <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
+    <description>The Block features breaking Crypto news about Bitcoin, Blockchain, Web3, and DeFi from the web&#039;s most reliable source.</description>
+    <lastBuildDate>Tue, 10 Nov 2026 16:19:16 +0000</lastBuildDate>
+    <language>en-US</language>
+    <copyright>© 2026 THE BLOCK</copyright>
+    <generator>TheBlock</generator>
+    <ttl>5</ttl>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    <image>
+        <url>https://www.tbstat.com/wp/uploads/2024/03/the-block-logo-wordmark-black.png</url>
+        <title>The Block</title>
+        <link>https://www.theblock.co</link>
+    </image>
+        <item>
+        <title><![CDATA[Alta raises $47.5 million Series A to build a blockchain for financial institutions]]></title>
+        <link>https://www.theblock.co/news/business/2026-11-10-alta-raises-80-million-build-blockchain-banks-payment-firms-437244</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/07/20240729_Funding_News_3.jpg" type="image/*" medium="image"/>        <guid isPermaLink="false">4aa133d0-34a2-59c5-90fd-fd666c79ae2e</guid>
+        <pubDate>Tue, 10 Nov 2026 16:19:16 +0000</pubDate>
+            <description><![CDATA[Alta’s blockchain will combine privacy and compliance controls for banks and other financial firms.]]></description>            <dc:creator><![CDATA[Kyle Baird]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/companies"><![CDATA[Companies]]></category>
+		<category domain="https://www.theblock.co/category/crypto-ecosystems"><![CDATA[Crypto Ecosystems]]></category>
+		<category domain="https://www.theblock.co/category/deals"><![CDATA[Deals]]></category>
+		<category domain="https://www.theblock.co/category/lobbying"><![CDATA[Lobbying]]></category>
+		<category domain="https://www.theblock.co/category/policy"><![CDATA[Policy]]></category>
+		<category domain="https://www.theblock.co/category/venture-capital"><![CDATA[Venture Capital]]></category>
+		<category domain="tag"><![CDATA[Fundraising]]></category>
+		<category domain="tag"><![CDATA[Series A]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Canaan’s Q3 revenue plunges 90% to $14.5 million as bitcoin mining hardware sales slump]]></title>
+        <link>https://www.theblock.co/news/business/2026-11-10-canaans-q3-revenue-plunges-90-to-14-5-million-as-bitcoin-mining-hardware-sales-slump-437252</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Screenshot-2026-11-10-at-15.48.03.png" type="image/*" medium="image"/>        <guid isPermaLink="false">8d4dbe42-caed-5b73-bacb-881929451fb9</guid>
+        <pubDate>Tue, 10 Nov 2026 16:02:02 +0000</pubDate>
+            <description><![CDATA[Canaan's Q3 revenue fell 90% to $14.5 million, though cryptocurrency and derivatives gains supported an $8 million profit.]]></description>            <dc:creator><![CDATA[James Hunt]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/companies"><![CDATA[Companies]]></category>
+		<category domain="https://www.theblock.co/category/crypto-ecosystems"><![CDATA[Crypto Ecosystems]]></category>
+		<category domain="https://www.theblock.co/category/crypto-infrastructure"><![CDATA[Crypto Infrastructure]]></category>
+		<category domain="https://www.theblock.co/category/equities"><![CDATA[Equities]]></category>
+		<category domain="https://www.theblock.co/category/infrastructure"><![CDATA[Infrastructure]]></category>
+		<category domain="https://www.theblock.co/category/layer-1s"><![CDATA[Layer 1s]]></category>
+		<category domain="https://www.theblock.co/category/markets"><![CDATA[Markets]]></category>
+		<category domain="https://www.theblock.co/category/token-projects"><![CDATA[Token Projects]]></category>
+		<category domain="tag"><![CDATA[Bitcoin]]></category>
+		<category domain="tag"><![CDATA[Earnings]]></category>
+		<category domain="tag"><![CDATA[Mining]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[MEGA commits $30 million to new products, starting with AI inference]]></title>
+        <link>https://www.theblock.co/news/ecosystems/2026-11-10-megaeth-rebrand-30-million-new-products-ai-inference-437249</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/04/20250411_MegaEth_News.jpg" type="image/*" medium="image"/>        <guid isPermaLink="false">1b4c4fb6-a424-5ac2-8f77-b379eef9185a</guid>
+        <pubDate>Tue, 10 Nov 2026 15:56:02 +0000</pubDate>
+            <description><![CDATA[The MegaETH Foundation has rebranded as MEGA and committed $30 million to new products, starting with AI inference.]]></description>            <dc:creator><![CDATA[Yogita Khatri]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/companies"><![CDATA[Companies]]></category>
+		<category domain="https://www.theblock.co/category/crypto-ecosystems"><![CDATA[Crypto Ecosystems]]></category>
+		<category domain="https://www.theblock.co/category/defi"><![CDATA[DeFi]]></category>
+		<category domain="https://www.theblock.co/category/web3"><![CDATA[Web3]]></category>
+		<category domain="tag"><![CDATA[exclusive]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Moody’s and Chainlink test cross-chain credit ratings distribution]]></title>
+        <link>https://www.theblock.co/news/ecosystems/2026-11-10-moodys-chainlink-ccip-cross-chain-credit-ratings-pilot-437245</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2022/10/20221005_Chainlink.jpg" type="image/*" medium="image"/>        <guid isPermaLink="false">7e696843-17f3-54a7-bde1-2c5c96f63784</guid>
+        <pubDate>Tue, 10 Nov 2026 15:49:59 +0000</pubDate>
+            <description><![CDATA[Moody's Ratings and Chainlink ran a testnet pilot using CCIP to distribute credit ratings data across permissioned and public blockchains.]]></description>            <dc:creator><![CDATA[Jason Shubnell]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/bridges"><![CDATA[Bridges]]></category>
+		<category domain="https://www.theblock.co/category/crypto-ecosystems"><![CDATA[Crypto Ecosystems]]></category>
+		<category domain="https://www.theblock.co/category/defi"><![CDATA[DeFi]]></category>
+		<category domain="https://www.theblock.co/category/web3"><![CDATA[Web3]]></category>
+		<category domain="tag"><![CDATA[Tokenization]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Bitdeer reports record Q3 revenue as net loss widens to $125.5 million]]></title>
+        <link>https://www.theblock.co/news/business/2026-11-10-bitdeer-reports-record-q3-revenue-as-net-loss-widens-to-125-5-million-437217</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Screenshot-2026-11-10-at-14.20.51.png" type="image/*" medium="image"/>        <guid isPermaLink="false">c3b42e74-da57-55bd-95c4-6b2edf61774f</guid>
+        <pubDate>Tue, 10 Nov 2026 14:26:02 +0000</pubDate>
+            <description><![CDATA[Bitdeer reported record third-quarter revenue of $320.7 million as bitcoin production surged 248% to 3,855 BTC.]]></description>            <dc:creator><![CDATA[Brian Danga]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/companies"><![CDATA[Companies]]></category>
+		<category domain="https://www.theblock.co/category/equities"><![CDATA[Equities]]></category>
+		<category domain="https://www.theblock.co/category/markets"><![CDATA[Markets]]></category>
+		<category domain="tag"><![CDATA[Earnings]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Visa adds Monad to stablecoin settlement network options]]></title>
+        <link>https://www.theblock.co/news/ecosystems/2026-11-10-visa-monad-stablecoin-settlement-network-437201</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2019/07/visa-office-e1578983731891.jpg" type="image/*" medium="image"/>        <guid isPermaLink="false">af227634-e4e8-5264-bd82-b35f640600fa</guid>
+        <pubDate>Tue, 10 Nov 2026 14:00:02 +0000</pubDate>
+            <description><![CDATA[Visa has added Monad as a stablecoin settlement option for participating issuers and acquirers, the Monad Foundation said.]]></description>            <dc:creator><![CDATA[Yogita Khatri]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/companies"><![CDATA[Companies]]></category>
+		<category domain="https://www.theblock.co/category/crypto-ecosystems"><![CDATA[Crypto Ecosystems]]></category>
+		<category domain="https://www.theblock.co/category/finance-firms"><![CDATA[Finance firms]]></category>
+		<category domain="https://www.theblock.co/category/layer-1s"><![CDATA[Layer 1s]]></category>
+		<category domain="https://www.theblock.co/category/stablecoins"><![CDATA[Stablecoins]]></category>
+		<category domain="https://www.theblock.co/category/web3"><![CDATA[Web3]]></category>
+		<category domain="tag"><![CDATA[exclusive]]></category>
+		<category domain="tag"><![CDATA[Monad]]></category>
+		<category domain="tag"><![CDATA[Payments]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[eToro’s Q3 profit plunges 74% as weaker crypto trading weighs on earnings]]></title>
+        <link>https://www.theblock.co/news/business/2026-11-10-etoros-q3-profit-plunges-74-as-weaker-crypto-trading-weighs-on-earnings-437192</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Screenshot-2026-11-10-at-13.32.22.png" type="image/*" medium="image"/>        <guid isPermaLink="false">a37f03bb-973c-5edc-9fb1-5428247ed673</guid>
+        <pubDate>Tue, 10 Nov 2026 13:44:35 +0000</pubDate>
+            <description><![CDATA[eToro reported a 74% decline in Q3 profit to $15 million, with weaker crypto activity weighing on earnings.]]></description>            <dc:creator><![CDATA[James Hunt]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/companies"><![CDATA[Companies]]></category>
+		<category domain="https://www.theblock.co/category/crypto-ecosystems"><![CDATA[Crypto Ecosystems]]></category>
+		<category domain="https://www.theblock.co/category/web3"><![CDATA[Web3]]></category>
+		<category domain="tag"><![CDATA[Crypto]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[HIVE reports $79 million quarterly net loss as bitcoin mining revenue falls and AI business grows]]></title>
+        <link>https://www.theblock.co/news/business/2026-11-10-hive-reports-79-million-quarterly-net-loss-as-bitcoin-mining-revenue-falls-and-ai-business-grows-437177</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Screenshot-2026-11-10-at-11.25.48.png" type="image/*" medium="image"/>        <guid isPermaLink="false">72d04582-64b5-57f4-b21f-3207a3859ce2</guid>
+        <pubDate>Tue, 10 Nov 2026 11:52:16 +0000</pubDate>
+            <description><![CDATA[HIVE reported a $78.7 million quarterly net loss and $84.9 million in revenue, including $8.8 million from its AI business.]]></description>            <dc:creator><![CDATA[James Hunt]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/companies"><![CDATA[Companies]]></category>
+		<category domain="https://www.theblock.co/category/crypto-ecosystems"><![CDATA[Crypto Ecosystems]]></category>
+		<category domain="https://www.theblock.co/category/crypto-infrastructure"><![CDATA[Crypto Infrastructure]]></category>
+		<category domain="https://www.theblock.co/category/infrastructure"><![CDATA[Infrastructure]]></category>
+		<category domain="https://www.theblock.co/category/layer-1s"><![CDATA[Layer 1s]]></category>
+		<category domain="https://www.theblock.co/category/markets"><![CDATA[Markets]]></category>
+		<category domain="https://www.theblock.co/category/token-projects"><![CDATA[Token Projects]]></category>
+		<category domain="https://www.theblock.co/category/web3"><![CDATA[Web3]]></category>
+		<category domain="tag"><![CDATA[AI]]></category>
+		<category domain="tag"><![CDATA[Bitcoin]]></category>
+		<category domain="tag"><![CDATA[Mining]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Exodus shares rise 10% ahead of Q3 earnings showing 7% revenue growth, $8.3 million loss]]></title>
+        <link>https://www.theblock.co/news/business/2026-11-10-exodus-shares-rise-10-ahead-of-q3-earnings-showing-7-revenue-growth-8-3-million-loss-437012</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Screenshot-2026-11-10-at-13.35.10.png" type="image/*" medium="image"/>        <guid isPermaLink="false">5d8c3d3e-9e82-5cc6-8821-309c2e217a1c</guid>
+        <pubDate>Tue, 10 Nov 2026 10:53:57 +0000</pubDate>
+            <description><![CDATA[Exodus shares rose 10% as the company reported third-quarter revenue of $32.5 million and a net loss of $8.3 million.]]></description>            <dc:creator><![CDATA[Brian Danga]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/companies"><![CDATA[Companies]]></category>
+		<category domain="https://www.theblock.co/category/crypto-ecosystems"><![CDATA[Crypto Ecosystems]]></category>
+		<category domain="https://www.theblock.co/category/crypto-infrastructure"><![CDATA[Crypto Infrastructure]]></category>
+		<category domain="https://www.theblock.co/category/equities"><![CDATA[Equities]]></category>
+		<category domain="https://www.theblock.co/category/infrastructure"><![CDATA[Infrastructure]]></category>
+		<category domain="https://www.theblock.co/category/markets"><![CDATA[Markets]]></category>
+		<category domain="tag"><![CDATA[Earnings]]></category>
+		<category domain="tag"><![CDATA[Wallets]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Ark Invest trims Block, Bullish and its own bitcoin ETF holdings while buying Nvidia, SoFi]]></title>
+        <link>https://www.theblock.co/news/business/2026-11-10-ark-invest-trims-block-bullish-holdings-437003</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/ark_editorial_1920x1080_2.jpg" type="image/*" medium="image"/>        <guid isPermaLink="false">ff418d7c-7a09-5dcb-aa95-769161cc5f5a</guid>
+        <pubDate>Tue, 10 Nov 2026 10:36:53 +0000</pubDate>
+            <description><![CDATA[Cathie Wood's Ark Invest sold $6.1 million worth of Block shares and $1.13 million worth of Bullish shares through its ETFs on Monday.]]></description>            <dc:creator><![CDATA[Timmy Shen]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/companies"><![CDATA[Companies]]></category>
+		<category domain="https://www.theblock.co/category/markets"><![CDATA[Markets]]></category>
+		<category domain="https://www.theblock.co/category/markets-people"><![CDATA[People]]></category>
+		<category domain="tag"><![CDATA[Cathie Wood]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[NEAR AI says SGLang vulnerability exposed user account details in security breach]]></title>
+        <link>https://www.theblock.co/news/defi/2026-11-10-near-ai-security-breach-437002</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/05/20240508_Security_News_2.jpg" type="image/*" medium="image"/>        <guid isPermaLink="false">9ca5e240-2a54-5939-b8e1-b726631c1d42</guid>
+        <pubDate>Tue, 10 Nov 2026 10:17:13 +0000</pubDate>
+            <description><![CDATA[NEAR AI explained that it found no indication that stored Private Chat conversations or uploaded files were accessed.]]></description>            <dc:creator><![CDATA[Danny Park]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/crypto-ecosystems"><![CDATA[Crypto Ecosystems]]></category>
+		<category domain="https://www.theblock.co/category/defi"><![CDATA[DeFi]]></category>
+		<category domain="https://www.theblock.co/category/web3"><![CDATA[Web3]]></category>
+		<category domain="tag"><![CDATA[AI]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Walt launches standalone crypto trading app following Wallet in Telegram rebrand]]></title>
+        <link>https://www.theblock.co/news/ecosystems/2026-11-10-walt-standalone-crypto-trading-app-436981</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Screenshot-2026-11-10-at-09.56.52.png" type="image/*" medium="image"/>        <guid isPermaLink="false">ced98c88-0a5e-5da2-9327-d8488787815d</guid>
+        <pubDate>Tue, 10 Nov 2026 09:30:00 +0000</pubDate>
+            <description><![CDATA[Walt launched a standalone app, expanding its crypto investment platform beyond Telegram for the first time.]]></description>            <dc:creator><![CDATA[Brian Danga]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/companies"><![CDATA[Companies]]></category>
+		<category domain="https://www.theblock.co/category/crypto-ecosystems"><![CDATA[Crypto Ecosystems]]></category>
+		<category domain="https://www.theblock.co/category/crypto-infrastructure"><![CDATA[Crypto Infrastructure]]></category>
+		<category domain="https://www.theblock.co/category/infrastructure"><![CDATA[Infrastructure]]></category>
+		<category domain="tag"><![CDATA[Wallets]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[BitGo revenue falls 51% in Q3 as trading slows; net income rises on treasury gains]]></title>
+        <link>https://www.theblock.co/news/business/2026-11-10-bitgo-revenue-falls-q3-436986</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/bitgo.png" type="image/*" medium="image"/>        <guid isPermaLink="false">0564f073-d8bf-5933-a861-0d9d3e397574</guid>
+        <pubDate>Tue, 10 Nov 2026 08:20:53 +0000</pubDate>
+            <description><![CDATA[The revenue decline was driven by continued soft crypto trading environment and a higher mix of lower-margin stablecoin transactions.]]></description>            <dc:creator><![CDATA[Danny Park]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/companies"><![CDATA[Companies]]></category>
+		<category domain="https://www.theblock.co/category/crypto-ecosystems"><![CDATA[Crypto Ecosystems]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Coinbase, Kalshi and Payward backs CFTC in lawsuit over single-stock perp futures]]></title>
+        <link>https://www.theblock.co/news/regulation/2026-11-10-coinbase-kalshi-payward-back-cftc-perps-436971</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/coinbase_kalshi_editorial_1920x1080.jpg" type="image/*" medium="image"/>        <guid isPermaLink="false">66f8b866-32d4-5cdb-b9ff-5b94d4b980a7</guid>
+        <pubDate>Tue, 10 Nov 2026 06:19:10 +0000</pubDate>
+            <description><![CDATA[The crypto firms moved for leave to file an amicus brief defending the CFTC's authority to regulate single-stock perpetual futures in the US.]]></description>            <dc:creator><![CDATA[Timmy Shen]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/companies"><![CDATA[Companies]]></category>
+		<category domain="https://www.theblock.co/category/crypto-ecosystems"><![CDATA[Crypto Ecosystems]]></category>
+		<category domain="https://www.theblock.co/category/defi"><![CDATA[DeFi]]></category>
+		<category domain="https://www.theblock.co/category/policy"><![CDATA[Policy]]></category>
+		<category domain="https://www.theblock.co/category/regulation"><![CDATA[Regulation]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Trump Media swings to $410 million profit in Q3, driven by crypto gains]]></title>
+        <link>https://www.theblock.co/news/business/2026-11-09-trump-media-q3-profit-436964</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/trump_media_bitcoin_1920x1080_2.jpg" type="image/*" medium="image"/>        <guid isPermaLink="false">84b76d96-5efd-525d-b4d7-ed91f5cc4448</guid>
+        <pubDate>Tue, 10 Nov 2026 03:36:43 +0000</pubDate>
+            <description><![CDATA[Trump Media and Technology Group reported a net income of $409.7 million in Q3, compared with a net loss of $54.8 million a year earlier.]]></description>            <dc:creator><![CDATA[Timmy Shen]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/companies"><![CDATA[Companies]]></category>
+		<category domain="https://www.theblock.co/category/crypto-ecosystems"><![CDATA[Crypto Ecosystems]]></category>
+		<category domain="https://www.theblock.co/category/defi"><![CDATA[DeFi]]></category>
+		<category domain="https://www.theblock.co/category/markets"><![CDATA[Markets]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Securitize shares surge 12% in after-hours trading on Q3 results and River One acquisition agreement]]></title>
+        <link>https://www.theblock.co/news/business/2026-11-09-securitize-shares-surge-river-one-436955</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/10/20251028_Secrutize_News.jpg" type="image/*" medium="image"/>        <guid isPermaLink="false">fa254d18-3fa5-5946-991b-e4311f1bc140</guid>
+        <pubDate>Tue, 10 Nov 2026 02:13:07 +0000</pubDate>
+            <description><![CDATA[The acquisition is expected to add a new layer of financing to Securitize, enabling the platform to offer asset-backed lending.]]></description>            <dc:creator><![CDATA[Danny Park]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/companies"><![CDATA[Companies]]></category>
+		<category domain="https://www.theblock.co/category/crypto-ecosystems"><![CDATA[Crypto Ecosystems]]></category>
+		<category domain="https://www.theblock.co/category/markets"><![CDATA[Markets]]></category>
+		<category domain="https://www.theblock.co/category/web3"><![CDATA[Web3]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[MARA posts $634 million Q3 net profit on bitcoin gains, sells 13,597 BTC to pay off loans]]></title>
+        <link>https://www.theblock.co/news/business/2026-11-09-mara-q3-earnings-net-profit-bitcoin-sale-ai-pivot-436950</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/04/20260428_Mara_News.jpg" type="image/*" medium="image"/>        <guid isPermaLink="false">5279e981-0b7b-5f05-8226-4de8bc30007d</guid>
+        <pubDate>Mon, 09 Nov 2026 22:07:00 +0000</pubDate>
+            <description><![CDATA[MARA posted a $634.4 million Q3 net profit, then sold 13,597 BTC to repay $750 million in loans as it pivots to AI.]]></description>            <dc:creator><![CDATA[Jason Shubnell]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/companies"><![CDATA[Companies]]></category>
+		<category domain="https://www.theblock.co/category/crypto-ecosystems"><![CDATA[Crypto Ecosystems]]></category>
+		<category domain="https://www.theblock.co/category/crypto-infrastructure"><![CDATA[Crypto Infrastructure]]></category>
+		<category domain="https://www.theblock.co/category/equities"><![CDATA[Equities]]></category>
+		<category domain="https://www.theblock.co/category/infrastructure"><![CDATA[Infrastructure]]></category>
+		<category domain="https://www.theblock.co/category/markets"><![CDATA[Markets]]></category>
+		<category domain="tag"><![CDATA[Earnings]]></category>
+		<category domain="tag"><![CDATA[Mining]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Elizabeth Warren vows scrutiny of prediction markets, Trump family crypto ventures as Senate Banking chair]]></title>
+        <link>https://www.theblock.co/news/regulation/2026-11-09-senate-banking-elizabeth-warren-scrutiny-prediction-markets-trump-crypto-ventures-436898</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2021/09/20210927_Elizabeth_Warren_Generic.jpg" type="image/*" medium="image"/>        <guid isPermaLink="false">daa58ade-169e-5d81-8566-becf7b9a588a</guid>
+        <pubDate>Mon, 09 Nov 2026 20:04:49 +0000</pubDate>
+            <description><![CDATA[Sen. Elizabeth Warren is setting her sights on prediction market oversight and the Trump family's burgeoning crypto businesses.]]></description>            <dc:creator><![CDATA[Sarah Wynn]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/crypto-ecosystems"><![CDATA[Crypto Ecosystems]]></category>
+		<category domain="https://www.theblock.co/category/defi"><![CDATA[DeFi]]></category>
+		<category domain="https://www.theblock.co/category/policy"><![CDATA[Policy]]></category>
+		<category domain="https://www.theblock.co/category/regulation"><![CDATA[Regulation]]></category>
+		<category domain="https://www.theblock.co/category/us-policymaking"><![CDATA[U.S. Policymaking]]></category>
+		<category domain="tag"><![CDATA[Elections 2026]]></category>
+		<category domain="tag"><![CDATA[Prediction Markets]]></category>
+		<category domain="tag"><![CDATA[Senate Banking Committee]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Ethereum Foundation, Vitalik Buterin sued over firing after ‘suicide pledge’ dispute]]></title>
+        <link>https://www.theblock.co/news/regulation/2026-11-09-ethereum-foundation-vitalik-buterin-sued-over-firing-suicide-pledge-dispute-436739</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/10/20241001_Vitalik_News.jpg" type="image/*" medium="image"/>        <guid isPermaLink="false">531cfecb-76b9-5889-924d-d5ec335e2a50</guid>
+        <pubDate>Mon, 09 Nov 2026 18:30:22 +0000</pubDate>
+            <description><![CDATA[Fulton’s complaint cites a recorded Buterin conversation and alleges discrimination and retaliation.]]></description>            <dc:creator><![CDATA[Kyle Baird]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/companies"><![CDATA[Companies]]></category>
+		<category domain="https://www.theblock.co/category/crypto-ecosystems"><![CDATA[Crypto Ecosystems]]></category>
+		<category domain="https://www.theblock.co/category/deals"><![CDATA[Deals]]></category>
+		<category domain="https://www.theblock.co/category/defi"><![CDATA[DeFi]]></category>
+		<category domain="https://www.theblock.co/category/layer-1s"><![CDATA[Layer 1s]]></category>
+		<category domain="https://www.theblock.co/category/legal"><![CDATA[Legal]]></category>
+		<category domain="https://www.theblock.co/category/markets"><![CDATA[Markets]]></category>
+		<category domain="https://www.theblock.co/category/nfts-gaming-and-metaverse"><![CDATA[Metaverse & NFT]]></category>
+		<category domain="https://www.theblock.co/category/metaverse-and-nft-people"><![CDATA[People]]></category>
+		<category domain="https://www.theblock.co/category/deals-people"><![CDATA[People]]></category>
+		<category domain="https://www.theblock.co/category/policy-people"><![CDATA[People]]></category>
+		<category domain="https://www.theblock.co/category/markets-people"><![CDATA[People]]></category>
+		<category domain="https://www.theblock.co/category/companies-people"><![CDATA[People]]></category>
+		<category domain="https://www.theblock.co/category/crypto-ecosystems-people"><![CDATA[People]]></category>
+		<category domain="https://www.theblock.co/category/policy"><![CDATA[Policy]]></category>
+		<category domain="https://www.theblock.co/category/regulation"><![CDATA[Regulation]]></category>
+		<category domain="https://www.theblock.co/category/token-projects"><![CDATA[Token Projects]]></category>
+		<category domain="tag"><![CDATA[Ethereum]]></category>
+		<category domain="tag"><![CDATA[Lawsuits]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[StoneX sees 97% upside for Bullish as $4.2 billion Equiniti deal opens tokenization market]]></title>
+        <link>https://www.theblock.co/news/markets/2026-11-09-stonex-sees-upside-bullish-equiniti-deal-opens-tokenization-market-436464</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Screenshot-2026-11-09-at-18.50.16.png" type="image/*" medium="image"/>        <guid isPermaLink="false">d10d9c84-dee5-523c-83c6-27412593a886</guid>
+        <pubDate>Mon, 09 Nov 2026 16:07:05 +0000</pubDate>
+            <description><![CDATA[StoneX initiated coverage of Bullish with a Buy rating and a $42 price target, implying roughly 97% upside from its current levels.]]></description>            <dc:creator><![CDATA[Brian Danga]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/crypto-ecosystems"><![CDATA[Crypto Ecosystems]]></category>
+		<category domain="https://www.theblock.co/category/deals"><![CDATA[Deals]]></category>
+		<category domain="https://www.theblock.co/category/equities"><![CDATA[Equities]]></category>
+		<category domain="https://www.theblock.co/category/markets"><![CDATA[Markets]]></category>
+		<category domain="https://www.theblock.co/category/mergers-acquisitions"><![CDATA[Mergers & Acquisitions]]></category>
+		<category domain="https://www.theblock.co/category/web3"><![CDATA[Web3]]></category>
+		<category domain="tag"><![CDATA[Analyst Reports]]></category>
+		<category domain="tag"><![CDATA[Public Company Mergers and Acquisitions]]></category>
+		<category domain="tag"><![CDATA[Tokenization]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+    </channel>
+</rss>
