@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
+  <channel>
+    <title>Cointelegraph.com News</title>
+    <link>https://cointelegraph.com</link>
+    <atom:link href="https://cointelegraph.com/rss" rel="self" type="application/rss+xml"/>
+    <description>Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest crypto news and analyses on the future of money.</description>
+    <generator>cointelegraph.com</generator>
+    <lastBuildDate>Tue, 10 Nov 2026 12:22:18 +0000</lastBuildDate>
+    <language>en</language>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    <image>
+      <title>Cointelegraph.com News</title>
+      <link>https://cointelegraph.com</link>
+      <url>https://s3.cointelegraph.com/storage/uploads/view/b9ea15d46738b4df64e6e100ab59b373.png</url>
+      <description>Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest crypto news and analyses on the future of money.</description>
+    </image>
+    <item>
+      <title>Coinbase, Kalshi join lawsuit backing CFTC over US stock perp futures</title>
+      <pubDate>Tue, 10 Nov 2026 11:44:55 +0000</pubDate>
+      <atom:updated>Tue, 10 Nov 2026 11:57:30 +0000</atom:updated>
+      <guid isPermaLink="true">https://cointelegraph.com/news/coinbase-kalshi-cftc-stock-perpetual-futures-lawsuit</guid>
+      <link><![CDATA[https://cointelegraph.com/news/coinbase-kalshi-cftc-stock-perpetual-futures-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]></link>
+      <description><![CDATA[<p style="float:right; margin:0 0 10px 15px; width:240px;"><img src="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M72DGPHCSG70YGY72DZ7EFS4/hinew-us-government-crypto-coinbase.jpg" alt="Coinbase, Kalshi join lawsuit backing CFTC over US stock perp futures" class="type:primaryImage"></p><p>Coinbase, Kalshi and four other companies backed the CFTC in a lawsuit over whether US exchanges can list perpetual futures tied to individual stocks.</p>]]></description>
+      <dc:creator>Cointelegraph by Helen Partz</dc:creator>
+      <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M72DGPHCSG70YGY72DZ7EFS4/hinew-us-government-crypto-coinbase.jpg" fileSize="860360" type="image/jpeg" medium="image" height="966" width="1450">
+        <credit>Cointelegraph</credit>
+        <media:credit role="publishing company">Cointelegraph</media:credit>
+      </media:content>
+      <enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M72DGPHCSG70YGY72DZ7EFS4/hinew-us-government-crypto-coinbase.jpg" length="860360" type="image/jpeg"/>
+      <category>Latest News</category>
+    </item>
+    <item>
+      <title>Binance warns iOS flaw could expose crypto wallet keys</title>
+      <pubDate>Tue, 10 Nov 2026 11:25:57 +0000</pubDate>
+      <atom:updated>Tue, 10 Nov 2026 12:20:22 +0000</atom:updated>
+      <guid isPermaLink="true">https://cointelegraph.com/news/binance-warns-ios-flaw-could-expose-crypto-wallet-keys</guid>
+      <link><![CDATA[https://cointelegraph.com/news/binance-warns-ios-flaw-could-expose-crypto-wallet-keys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]></link>
+      <description><![CDATA[<p style="float:right; margin:0 0 10px 15px; width:240px;"><img src="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M72JTX67XQ0ZM4JSV4NCX5K5/hi-how-a-wrong-number-message-turned-into-a-34m-crypto-scam-1.jpg" alt="Binance warns iOS flaw could expose crypto wallet keys" class="type:primaryImage"></p><p>The exchange urged iPhone users to remove apps installed from untrusted sources, and it is unclear whether Apple’s latest iOS updates fix the flaw.</p>]]></description>
+      <dc:creator>Cointelegraph by Zoltan Vardai</dc:creator>
+      <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M72JTX67XQ0ZM4JSV4NCX5K5/hi-how-a-wrong-number-message-turned-into-a-34m-crypto-scam-1.jpg" fileSize="490043" type="image/jpeg" medium="image" height="966" width="1450">
+        <credit>Cointelegraph</credit>
+        <media:credit role="publishing company">Cointelegraph</media:credit>
+      </media:content>
+      <enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M72JTX67XQ0ZM4JSV4NCX5K5/hi-how-a-wrong-number-message-turned-into-a-34m-crypto-scam-1.jpg" length="490043" type="image/jpeg"/>
+      <category>Latest News</category>
+    </item>
+    <item>
+      <title>Ex-employee sues Ethereum Foundation and Vitalik Buterin over firing</title>
+      <pubDate>Tue, 10 Nov 2026 10:56:51 +0000</pubDate>
+      <atom:updated>Tue, 10 Nov 2026 11:09:01 +0000</atom:updated>
+      <guid isPermaLink="true">https://cointelegraph.com/news/ex-employee-sues-ethereum-foundation-vitalik-buterin-over-firing</guid>
+      <link><![CDATA[https://cointelegraph.com/news/ex-employee-sues-ethereum-foundation-vitalik-buterin-over-firing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]></link>
+      <description><![CDATA[<p style="float:right; margin:0 0 10px 15px; width:240px;"><img src="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M72FWR1NA57RHTK5MYEQ38F1/lawsuit-editorial-illustration.jpeg" alt="Ex-employee sues Ethereum Foundation and Vitalik Buterin over firing" class="type:primaryImage"></p><p>Kayleen Fulton alleges she was fired less than two weeks after disclosing a cancer diagnosis and helping organize a staff letter challenging a requirement to endorse the foundation’s new mandate.</p>]]></description>
+      <dc:creator>Cointelegraph by Bryan O'Shea</dc:creator>
+      <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M72FWR1NA57RHTK5MYEQ38F1/lawsuit-editorial-illustration.jpeg" fileSize="487330" type="image/jpeg" medium="image" height="966" width="1450">
+        <credit>Cointelegraph</credit>
+        <media:credit role="publishing company">Cointelegraph</media:credit>
+      </media:content>
+      <enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M72FWR1NA57RHTK5MYEQ38F1/lawsuit-editorial-illustration.jpeg" length="487330" type="image/jpeg"/>
+      <category>Latest News</category>
+    </item>
+    <item>
+      <title>Bitcoin price eyes $74K as Fed rate-hike bets hit 96% after Waller speech</title>
+      <pubDate>Tue, 10 Nov 2026 10:08:22 +0000</pubDate>
+      <atom:updated>Tue, 10 Nov 2026 10:27:36 +0000</atom:updated>
+      <guid isPermaLink="true">https://cointelegraph.com/markets/bitcoin-price-eyes-74k-fed-rate-hike-expected-after-waller-speech</guid>
+      <link><![CDATA[https://cointelegraph.com/markets/bitcoin-price-eyes-74k-fed-rate-hike-expected-after-waller-speech?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]></link>
+      <description><![CDATA[<p style="float:right; margin:0 0 10px 15px; width:240px;"><img src="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M72E53YB00WRJ8DEC2G296HR/article-covers-210628-fed-governor-tells-peers-defi-isnt-scary-960x640.webp" alt="Bitcoin price eyes $74K as Fed rate-hike bets hit 96% after Waller speech" class="type:primaryImage"></p><p>Bitcoin price action and stock futures trended lower after Fed governor Christopher Waller said that he would vote to raise interest rates by 0.25% at the December FOMC meeting. </p>]]></description>
+      <dc:creator>Cointelegraph by William Suberg</dc:creator>
+      <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M72E53YB00WRJ8DEC2G296HR/article-covers-210628-fed-governor-tells-peers-defi-isnt-scary-960x640.webp" fileSize="85194" type="image/webp" medium="image" height="640" width="960">
+        <credit>Cointelegraph</credit>
+        <media:credit role="publishing company">Cointelegraph</media:credit>
+      </media:content>
+      <enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M72E53YB00WRJ8DEC2G296HR/article-covers-210628-fed-governor-tells-peers-defi-isnt-scary-960x640.webp" length="85194" type="image/webp"/>
+      <category>Markets</category>
+    </item>
+    <item>
+      <title>BitGo Q3 profit nearly doubles on crypto gains as revenue falls 51%</title>
+      <pubDate>Tue, 10 Nov 2026 09:05:16 +0000</pubDate>
+      <atom:updated>Tue, 10 Nov 2026 09:20:45 +0000</atom:updated>
+      <guid isPermaLink="true">https://cointelegraph.com/news/bitgo-q3-2026-earnings-crypto-treasury-gains</guid>
+      <link><![CDATA[https://cointelegraph.com/news/bitgo-q3-2026-earnings-crypto-treasury-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]></link>
+      <description><![CDATA[<p style="float:right; margin:0 0 10px 15px; width:240px;"><img src="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M72A03Z2PT2DV3G2XDQ2KCP2/car-exchange-smartphone-blockchain-bitgo-us.jpg" alt="BitGo Q3 profit nearly doubles on crypto gains as revenue falls 51%" class="type:primaryImage"></p><p>BitGo’s $71 million unrealized gain on its crypto holdings helped nearly double its net income, but revenue and earnings came in below preliminary analyst expectations.</p>]]></description>
+      <dc:creator>Cointelegraph by Zoltan Vardai</dc:creator>
+      <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M72A03Z2PT2DV3G2XDQ2KCP2/car-exchange-smartphone-blockchain-bitgo-us.jpg" fileSize="519962" type="image/jpeg" medium="image" height="966" width="1450">
+        <credit>Cointelegraph</credit>
+        <media:credit role="publishing company">Cointelegraph</media:credit>
+      </media:content>
+      <enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M72A03Z2PT2DV3G2XDQ2KCP2/car-exchange-smartphone-blockchain-bitgo-us.jpg" length="519962" type="image/jpeg"/>
+      <category>Latest News</category>
+    </item>
+    <item>
+      <title>BlackRock Bitcoin ETF outflows hit $1.66B over seven trading sessions</title>
+      <pubDate>Tue, 10 Nov 2026 08:02:05 +0000</pubDate>
+      <atom:updated>Tue, 10 Nov 2026 08:13:05 +0000</atom:updated>
+      <guid isPermaLink="true">https://cointelegraph.com/markets/blackrock-ibit-bitcoin-etf-outflows</guid>
+      <link><![CDATA[https://cointelegraph.com/markets/blackrock-ibit-bitcoin-etf-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]></link>
+      <description><![CDATA[<p style="float:right; margin:0 0 10px 15px; width:240px;"><img src="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7232GA99A62ZXE0BWPQXX71/hi-blackrock-issues-rare-warningis-bitcoins-future-at-risk-from-quantum-tech-1.jpg" alt="BlackRock Bitcoin ETF outflows hit $1.66B over seven trading sessions" class="type:primaryImage"></p><p>US spot Bitcoin ETFs shed $201 million Monday, with seven straight sessions of net withdrawals from BlackRock’s IBIT totaling $1.66 billion.</p>]]></description>
+      <dc:creator>Cointelegraph by Helen Partz</dc:creator>
+      <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7232GA99A62ZXE0BWPQXX71/hi-blackrock-issues-rare-warningis-bitcoins-future-at-risk-from-quantum-tech-1.jpg" fileSize="424248" type="image/jpeg" medium="image" height="966" width="1450">
+        <credit>Cointelegraph</credit>
+        <media:credit role="publishing company">Cointelegraph</media:credit>
+      </media:content>
+      <enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7232GA99A62ZXE0BWPQXX71/hi-blackrock-issues-rare-warningis-bitcoins-future-at-risk-from-quantum-tech-1.jpg" length="424248" type="image/jpeg"/>
+      <category>Markets</category>
+    </item>
+    <item>
+      <title>Securitize agrees to buy River One to expand into asset-backed lending</title>
+      <pubDate>Tue, 10 Nov 2026 07:49:14 +0000</pubDate>
+      <atom:updated>Tue, 10 Nov 2026 07:54:44 +0000</atom:updated>
+      <guid isPermaLink="true">https://cointelegraph.com/news/securitize-river-one-asset-backed-lending</guid>
+      <link><![CDATA[https://cointelegraph.com/news/securitize-river-one-asset-backed-lending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]></link>
+      <description><![CDATA[<p style="float:right; margin:0 0 10px 15px; width:240px;"><img src="https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1HFDYJCKJWQTKRMYKMVPJFP/hi-how-ondo-finance-plans-to-bring-tokenized-us-stocks-to-solana-3.jpg" alt="Securitize agrees to buy River One to expand into asset-backed lending" class="type:primaryImage"></p><p>Securitize agreed to buy River One to bring stablecoin funding to asset-backed lending and expects the deal to close in the fourth quarter of 2026. </p>]]></description>
+      <dc:creator>Cointelegraph by Zoltan Vardai</dc:creator>
+      <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1HFDYJCKJWQTKRMYKMVPJFP/hi-how-ondo-finance-plans-to-bring-tokenized-us-stocks-to-solana-3.jpg" fileSize="373483" type="image/jpeg" medium="image" height="966" width="1450">
+        <credit>Cointelegraph</credit>
+        <media:credit role="publishing company">Cointelegraph</media:credit>
+      </media:content>
+      <enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1HFDYJCKJWQTKRMYKMVPJFP/hi-how-ondo-finance-plans-to-bring-tokenized-us-stocks-to-solana-3.jpg" length="373483" type="image/jpeg"/>
+      <category>Latest News</category>
+    </item>
+    <item>
+      <title>Here’s what happened in crypto today</title>
+      <pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
+      <atom:updated>Tue, 10 Nov 2026 05:27:19 +0000</atom:updated>
+      <guid isPermaLink="true">https://cointelegraph.com/news/what-happened-in-crypto-today</guid>
+      <link><![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]></link>
+      <description><![CDATA[<p style="float:right; margin:0 0 10px 15px; width:240px;"><img src="https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg" alt="Here’s what happened in crypto today" class="type:primaryImage"></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</p>]]></description>
+      <dc:creator>Cointelegraph by Felix Ng</dc:creator>
+      <media:content url="https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg" fileSize="848525" type="image/jpeg" medium="image" height="966" width="1450">
+        <credit>Cointelegraph</credit>
+        <media:credit role="publishing company">Cointelegraph</media:credit>
+      </media:content>
+      <enclosure url="https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg" length="848525" type="image/jpeg"/>
+      <category>Latest News</category>
+    </item>
+    <item>
+      <title>Crypto exchanges need hard dollar caps on hot wallets, CertiK says</title>
+      <pubDate>Tue, 10 Nov 2026 05:05:58 +0000</pubDate>
+      <atom:updated>Tue, 10 Nov 2026 06:28:26 +0000</atom:updated>
+      <guid isPermaLink="true">https://cointelegraph.com/news/crypto-exchanges-need-dollar-caps-on-hot-wallets-certik</guid>
+      <link><![CDATA[https://cointelegraph.com/news/crypto-exchanges-need-dollar-caps-on-hot-wallets-certik?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]></link>
+      <description><![CDATA[<p style="float:right; margin:0 0 10px 15px; width:240px;"><img src="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M71XK0AKCR5VV61ST5J6AGKW/cold-wallet-1.jpg" alt="Crypto exchanges need hard dollar caps on hot wallets, CertiK says" class="type:primaryImage"></p><p>“Cold storage is a useful measure of online exposure, but it is not a standalone security score,” the cybersecurity firm told Cointelegraph. </p>]]></description>
+      <dc:creator>Cointelegraph by Felix Ng</dc:creator>
+      <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M71XK0AKCR5VV61ST5J6AGKW/cold-wallet-1.jpg" fileSize="608360" type="image/jpeg" medium="image" height="966" width="1450">
+        <credit>Cointelegraph</credit>
+        <media:credit role="publishing company">Cointelegraph</media:credit>
+      </media:content>
+      <enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M71XK0AKCR5VV61ST5J6AGKW/cold-wallet-1.jpg" length="608360" type="image/jpeg"/>
+      <category>Latest News</category>
+    </item>
+    <item>
+      <title>OpenAI builds kill switch to stop rogue agents within 35 seconds</title>
+      <pubDate>Tue, 10 Nov 2026 03:04:54 +0000</pubDate>
+      <atom:updated>Tue, 10 Nov 2026 06:30:03 +0000</atom:updated>
+      <guid isPermaLink="true">https://cointelegraph.com/news/openai-builds-kill-switch-stop-rogue-agents</guid>
+      <link><![CDATA[https://cointelegraph.com/news/openai-builds-kill-switch-stop-rogue-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]></link>
+      <description><![CDATA[<p style="float:right; margin:0 0 10px 15px; width:240px;"><img src="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M71N7GC9GWKMNHVENCJ5D0PB/hi-how-to-launch-and-push-prediction-markets-moonpay.jpg" alt="OpenAI builds kill switch to stop rogue agents within 35 seconds" class="type:primaryImage"></p><p>Control Room cuts off model output for internal research jobs when people or automated monitors flag safety or security concerns.</p>]]></description>
+      <dc:creator>Cointelegraph by Felix Ng</dc:creator>
+      <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M71N7GC9GWKMNHVENCJ5D0PB/hi-how-to-launch-and-push-prediction-markets-moonpay.jpg" fileSize="644395" type="image/jpeg" medium="image" height="966" width="1450">
+        <credit>Cointelegraph</credit>
+        <media:credit role="publishing company">Cointelegraph</media:credit>
+      </media:content>
+      <enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M71N7GC9GWKMNHVENCJ5D0PB/hi-how-to-launch-and-push-prediction-markets-moonpay.jpg" length="644395" type="image/jpeg"/>
+      <category>Latest News</category>
+    </item>
+    <item>
+      <title>HIVE, MARA mine more Bitcoin but earn less as crypto prices fall</title>
+      <pubDate>Tue, 10 Nov 2026 00:42:39 +0000</pubDate>
+      <atom:updated>Tue, 10 Nov 2026 07:43:02 +0000</atom:updated>
+      <guid isPermaLink="true">https://cointelegraph.com/markets/hives-bitcoin-output-jumps-49-but-mining-revenue-falls</guid>
+      <link><![CDATA[https://cointelegraph.com/markets/hives-bitcoin-output-jumps-49-but-mining-revenue-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]></link>
+      <description><![CDATA[<p style="float:right; margin:0 0 10px 15px; width:240px;"><img src="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M71EDYRZ1KBPHBPK0G449WJN/bitcoin-miner.jpg" alt="HIVE, MARA mine more Bitcoin but earn less as crypto prices fall" class="type:primaryImage"></p><p>Both miners reported higher Bitcoin production but lower mining revenue and rising electricity costs as they expanded their AI infrastructure businesses.</p>]]></description>
+      <dc:creator>Cointelegraph by Felix Ng</dc:creator>
+      <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M71EDYRZ1KBPHBPK0G449WJN/bitcoin-miner.jpg" fileSize="703339" type="image/jpeg" medium="image" height="966" width="1450">
+        <credit>Cointelegraph</credit>
+        <media:credit role="publishing company">Cointelegraph</media:credit>
+      </media:content>
+      <enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M71EDYRZ1KBPHBPK0G449WJN/bitcoin-miner.jpg" length="703339" type="image/jpeg"/>
+      <category>Markets</category>
+    </item>
+    <item>
+      <title>Should you leave Australia to avoid paying 47% tax on crypto gains?</title>
+      <pubDate>Mon, 09 Nov 2026 21:00:00 +0000</pubDate>
+      <atom:updated>Mon, 09 Nov 2026 00:39:01 +0000</atom:updated>
+      <guid isPermaLink="true">https://cointelegraph.com/magazine/should-you-leave-australia-to-avoid-47-tax-on-crypto-gains</guid>
+      <link><![CDATA[https://cointelegraph.com/magazine/should-you-leave-australia-to-avoid-47-tax-on-crypto-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]></link>
+      <description><![CDATA[<p style="float:right; margin:0 0 10px 15px; width:240px;"><img src="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6PYG369J9CZ9P8D881P56WG/singapore-celebration-full.png" alt="Should you leave Australia to avoid paying 47% tax on crypto gains?" class="type:primaryImage"></p><p>Some Australian crypto investors are moving overseas to avoid the huge CGT increase from July 2027. But there are also less drastic ways you can pay less tax.</p>]]></description>
+      <dc:creator>Cointelegraph by Andrew Fenton</dc:creator>
+      <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6PYG369J9CZ9P8D881P56WG/singapore-celebration-full.png" fileSize="9588706" type="image/png" medium="image" height="1446" width="2570">
+        <credit>Cointelegraph</credit>
+        <media:credit role="publishing company">Cointelegraph</media:credit>
+      </media:content>
+      <enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6PYG369J9CZ9P8D881P56WG/singapore-celebration-full.png" length="9588706" type="image/png"/>
+      <category>Magazine</category>
+    </item>
+    <item>
+      <title>North Korean hackers create memecoins to launder funds from Binance hack: Elliptic</title>
+      <pubDate>Mon, 09 Nov 2026 20:26:34 +0000</pubDate>
+      <atom:updated>Tue, 10 Nov 2026 06:33:47 +0000</atom:updated>
+      <guid isPermaLink="true">https://cointelegraph.com/news/north-korean-hackers-memecoins-launder-binance-hack-elliptic</guid>
+      <link><![CDATA[https://cointelegraph.com/news/north-korean-hackers-memecoins-launder-binance-hack-elliptic?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]></link>
+      <description><![CDATA[<p style="float:right; margin:0 0 10px 15px; width:240px;"><img src="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M70X59B82FS5F3H9N89JXV87/hi-north-korea-hack-3.jpg" alt="North Korean hackers create memecoins to launder funds from Binance hack: Elliptic" class="type:primaryImage"></p><p>The blockchain firm traced stolen funds through six new tokens on NEAR, where hackers used liquidity pools to obscure transfers between wallets.</p>]]></description>
+      <dc:creator>Cointelegraph by Nate Kostar</dc:creator>
+      <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M70X59B82FS5F3H9N89JXV87/hi-north-korea-hack-3.jpg" fileSize="796618" type="image/jpeg" medium="image" height="966" width="1450">
+        <credit>Cointelegraph</credit>
+        <media:credit role="publishing company">Cointelegraph</media:credit>
+      </media:content>
+      <enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M70X59B82FS5F3H9N89JXV87/hi-north-korea-hack-3.jpg" length="796618" type="image/jpeg"/>
+      <category>Latest News</category>
+    </item>
+    <item>
+      <title>Formation Securities plans Solana stock trading venue under SEC exemption</title>
+      <pubDate>Mon, 09 Nov 2026 19:52:34 +0000</pubDate>
+      <atom:updated>Tue, 10 Nov 2026 06:36:17 +0000</atom:updated>
+      <guid isPermaLink="true">https://cointelegraph.com/news/formation-securities-solana-stock-trading-venue-sec-exemption</guid>
+      <link><![CDATA[https://cointelegraph.com/news/formation-securities-solana-stock-trading-venue-sec-exemption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]></link>
+      <description><![CDATA[<p style="float:right; margin:0 0 10px 15px; width:240px;"><img src="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M70VDA13QECV5XSQ4V1SKPEE/hi-crypto-goes-for-nasdaq-solana-1.png" alt="Formation Securities plans Solana stock trading venue under SEC exemption" class="type:primaryImage"></p><p>The proposed venue would offer 24/7 trading of tokenized shares from Galaxy Digital, Exodus and Forward Industries, with a launch planned for early 2027.</p>]]></description>
+      <dc:creator>Cointelegraph by Nate Kostar</dc:creator>
+      <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M70VDA13QECV5XSQ4V1SKPEE/hi-crypto-goes-for-nasdaq-solana-1.png" fileSize="1719795" type="image/png" medium="image" height="848" width="1264">
+        <credit>Cointelegraph</credit>
+        <media:credit role="publishing company">Cointelegraph</media:credit>
+      </media:content>
+      <enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M70VDA13QECV5XSQ4V1SKPEE/hi-crypto-goes-for-nasdaq-solana-1.png" length="1719795" type="image/png"/>
+      <category>Latest News</category>
+    </item>
+    <item>
+      <title>Mercado Bitcoin begins post-hack reopening without a timeline for withdrawals</title>
+      <pubDate>Mon, 09 Nov 2026 18:25:29 +0000</pubDate>
+      <atom:updated>Tue, 10 Nov 2026 06:40:58 +0000</atom:updated>
+      <guid isPermaLink="true">https://cointelegraph.com/news/mercado-bitcoin-reopening-withdrawals-hack-suspended</guid>
+      <link><![CDATA[https://cointelegraph.com/news/mercado-bitcoin-reopening-withdrawals-hack-suspended?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]></link>
+      <description><![CDATA[<p style="float:right; margin:0 0 10px 15px; width:240px;"><img src="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4GS2W4DFN9GTK5VFGEJ9190/cover-b415ec149cce052d.jpg" alt="Mercado Bitcoin begins post-hack reopening without a timeline for withdrawals" class="type:primaryImage"></p><p>Customers can view their pre-hack balances as access returns in phases. The exchange has yet to say when withdrawals will resume.</p>]]></description>
+      <dc:creator>Cointelegraph by Isabelle Castro</dc:creator>
+      <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4GS2W4DFN9GTK5VFGEJ9190/cover-b415ec149cce052d.jpg" fileSize="282208" type="image/jpeg" medium="image" height="966" width="1450">
+        <credit>Cointelegraph</credit>
+        <media:credit role="publishing company">Cointelegraph</media:credit>
+      </media:content>
+      <enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4GS2W4DFN9GTK5VFGEJ9190/cover-b415ec149cce052d.jpg" length="282208" type="image/jpeg"/>
+      <category>Latest News</category>
+    </item>
+    <item>
+      <title>PNC Bank tests turning USDC payments into dollar deposits</title>
+      <pubDate>Mon, 09 Nov 2026 17:48:35 +0000</pubDate>
+      <atom:updated>Mon, 09 Nov 2026 18:00:15 +0000</atom:updated>
+      <guid isPermaLink="true">https://cointelegraph.com/news/pnc-bank-launches-usdc-payment-pilot-coinbase</guid>
+      <link><![CDATA[https://cointelegraph.com/news/pnc-bank-launches-usdc-payment-pilot-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]></link>
+      <description><![CDATA[<p style="float:right; margin:0 0 10px 15px; width:240px;"><img src="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M70HRDZHPXXKF87Y3Z5B9631/hi-a-list-of-most-prominent-fiat-backed-stablecoins-uk-2.png" alt="PNC Bank tests turning USDC payments into dollar deposits" class="type:primaryImage"></p><p>The pilot lets eligible corporate and institutional clients accept USDC on Ethereum, with each token converted to one US dollar before deposit.</p>]]></description>
+      <dc:creator>Cointelegraph by Nate Kostar</dc:creator>
+      <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M70HRDZHPXXKF87Y3Z5B9631/hi-a-list-of-most-prominent-fiat-backed-stablecoins-uk-2.png" fileSize="1871302" type="image/png" medium="image" height="848" width="1264">
+        <credit>Cointelegraph</credit>
+        <media:credit role="publishing company">Cointelegraph</media:credit>
+      </media:content>
+      <enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M70HRDZHPXXKF87Y3Z5B9631/hi-a-list-of-most-prominent-fiat-backed-stablecoins-uk-2.png" length="1871302" type="image/png"/>
+      <category>Latest News</category>
+    </item>
+    <item>
+      <title>Avalanche’s AVAX leads crypto gains following NYSE tokenization deal</title>
+      <pubDate>Mon, 09 Nov 2026 17:41:02 +0000</pubDate>
+      <atom:updated>Mon, 09 Nov 2026 17:53:39 +0000</atom:updated>
+      <guid isPermaLink="true">https://cointelegraph.com/news/avalanche-avax-crypto-nyse-tokenization-deal</guid>
+      <link><![CDATA[https://cointelegraph.com/news/avalanche-avax-crypto-nyse-tokenization-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]></link>
+      <description><![CDATA[<p style="float:right; margin:0 0 10px 15px; width:240px;"><img src="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M70J2ENA2XKCHW53PWMMZG5X/hi-avalanche-avax-ecosystem.png" alt="Avalanche’s AVAX leads crypto gains following NYSE tokenization deal" class="type:primaryImage"></p><p>Avalanche’s AVAX token rose as much as 10% after the NYSE selected its blockchain to support settlement on a planned tokenized stock trading platform.</p>]]></description>
+      <dc:creator>Cointelegraph by Jona Jaupi</dc:creator>
+      <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M70J2ENA2XKCHW53PWMMZG5X/hi-avalanche-avax-ecosystem.png" fileSize="1861163" type="image/png" medium="image" height="848" width="1264">
+        <credit>Cointelegraph</credit>
+        <media:credit role="publishing company">Cointelegraph</media:credit>
+      </media:content>
+      <enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M70J2ENA2XKCHW53PWMMZG5X/hi-avalanche-avax-ecosystem.png" length="1861163" type="image/png"/>
+      <category>Latest News</category>
+    </item>
+    <item>
+      <title>Bitcoin, tech stocks brush off Nvidia nerves as analyst mulls $68K target</title>
+      <pubDate>Mon, 09 Nov 2026 17:13:25 +0000</pubDate>
+      <atom:updated>Mon, 09 Nov 2026 17:33:23 +0000</atom:updated>
+      <guid isPermaLink="true">https://cointelegraph.com/markets/bitcoin-stocks-nvidia-analyst-68k-target</guid>
+      <link><![CDATA[https://cointelegraph.com/markets/bitcoin-stocks-nvidia-analyst-68k-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]></link>
+      <description><![CDATA[<p style="float:right; margin:0 0 10px 15px; width:240px;"><img src="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M70K6JJA96WE7MYD336FM1EF/article-covers-262247-bitcoin-liquidations-top-dollar283m-after-short-squeeze-sends-btc-price-above-do-960x640.webp" alt="Bitcoin, tech stocks brush off Nvidia nerves as analyst mulls $68K target" class="type:primaryImage"></p><p>Bitcoin rebounded from an 11-week low near $73,500 as the Nasdaq Composite rallied despite sell-off in Nvidia shares.</p>]]></description>
+      <dc:creator>Cointelegraph by William Suberg</dc:creator>
+      <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M70K6JJA96WE7MYD336FM1EF/article-covers-262247-bitcoin-liquidations-top-dollar283m-after-short-squeeze-sends-btc-price-above-do-960x640.webp" fileSize="88096" type="image/webp" medium="image" height="640" width="960">
+        <credit>Cointelegraph</credit>
+        <media:credit role="publishing company">Cointelegraph</media:credit>
+      </media:content>
+      <enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M70K6JJA96WE7MYD336FM1EF/article-covers-262247-bitcoin-liquidations-top-dollar283m-after-short-squeeze-sends-btc-price-above-do-960x640.webp" length="88096" type="image/webp"/>
+      <category>Markets</category>
+    </item>
+    <item>
+      <title>Analysts see no broader ‘contagion’ from $6.3B Binance hack</title>
+      <pubDate>Mon, 09 Nov 2026 13:52:46 +0000</pubDate>
+      <atom:updated>Mon, 09 Nov 2026 14:04:17 +0000</atom:updated>
+      <guid isPermaLink="true">https://cointelegraph.com/markets/analysts-no-contagion-effect-63b-binance-hack</guid>
+      <link><![CDATA[https://cointelegraph.com/markets/analysts-no-contagion-effect-63b-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]></link>
+      <description><![CDATA[<p style="float:right; margin:0 0 10px 15px; width:240px;"><img src="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M708577YNJM1YTD403ZVNDXB/hi-volatility2.jpg" alt="Analysts see no broader ‘contagion’ from $6.3B Binance hack" class="type:primaryImage"></p><p>Binance’s pledge to cover all user losses helped contain the fallout from the $6.3 billion hack, analysts said.</p>]]></description>
+      <dc:creator>Cointelegraph by Zoltan Vardai</dc:creator>
+      <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M708577YNJM1YTD403ZVNDXB/hi-volatility2.jpg" fileSize="234450" type="image/jpeg" medium="image" height="966" width="1450">
+        <credit>Cointelegraph</credit>
+        <media:credit role="publishing company">Cointelegraph</media:credit>
+      </media:content>
+      <enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M708577YNJM1YTD403ZVNDXB/hi-volatility2.jpg" length="234450" type="image/jpeg"/>
+      <category>Markets</category>
+    </item>
+    <item>
+      <title>The $2.85B Binance hackers lost shows why the UK needs stablecoin freeze rules </title>
+      <pubDate>Mon, 09 Nov 2026 13:30:00 +0000</pubDate>
+      <atom:updated>Sun, 08 Nov 2026 22:18:35 +0000</atom:updated>
+      <guid isPermaLink="true">https://cointelegraph.com/opinion/285b-binance-hackers-lost-shows-why-uk-needs-stablecoin-freeze-rules</guid>
+      <link><![CDATA[https://cointelegraph.com/opinion/285b-binance-hackers-lost-shows-why-uk-needs-stablecoin-freeze-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]></link>
+      <description><![CDATA[<p style="float:right; margin:0 0 10px 15px; width:240px;"><img src="https://s3-images.ctmedia.io/media/article-covers/2026/09/01M33DXG3A0A4EZ0MK4MVHFSA0/binance.jpg" alt="The $2.85B Binance hackers lost shows why the UK needs stablecoin freeze rules " class="type:primaryImage"></p><p>The Binance hack proved stablecoin freezes work. Now the UK should make clear freeze rules a condition of listing coins.</p>]]></description>
+      <dc:creator>Cointelegraph by Lissele Pratt</dc:creator>
+      <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/09/01M33DXG3A0A4EZ0MK4MVHFSA0/binance.jpg" fileSize="284736" type="image/jpeg" medium="image" height="967" width="1450">
+        <credit>Cointelegraph</credit>
+        <media:credit role="publishing company">Cointelegraph</media:credit>
+      </media:content>
+      <enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/09/01M33DXG3A0A4EZ0MK4MVHFSA0/binance.jpg" length="284736" type="image/jpeg"/>
+      <category>Opinion</category>
+    </item>
+    <item>
+      <title>Strategy buys 1,036 Bitcoin as BTC holdings climb to 850,364</title>
+      <pubDate>Mon, 09 Nov 2026 13:29:47 +0000</pubDate>
+      <atom:updated>Tue, 10 Nov 2026 05:04:25 +0000</atom:updated>
+      <guid isPermaLink="true">https://cointelegraph.com/news/strategy-buy-1036-bitcoin-holdings-850364-btc</guid>
+      <link><![CDATA[https://cointelegraph.com/news/strategy-buy-1036-bitcoin-holdings-850364-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]></link>
+      <description><![CDATA[<p style="float:right; margin:0 0 10px 15px; width:240px;"><img src="https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3KYHA0Z0DAFRPRWE639Z8D7/hi-why-saylors-strategy-keeps-buying-bitcoin-the-long-term-bet-explained-6.jpg" alt="Strategy buys 1,036 Bitcoin as BTC holdings climb to 850,364" class="type:primaryImage"></p><p>Strategy bought $81.9 million in Bitcoin last week while spending $188.3 million repurchasing STRC preferred shares, according to its latest SEC filing.</p>]]></description>
+      <dc:creator>Cointelegraph by Helen Partz</dc:creator>
+      <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3KYHA0Z0DAFRPRWE639Z8D7/hi-why-saylors-strategy-keeps-buying-bitcoin-the-long-term-bet-explained-6.jpg" fileSize="574166" type="image/jpeg" medium="image" height="966" width="1450">
+        <credit>Cointelegraph</credit>
+        <media:credit role="publishing company">Cointelegraph</media:credit>
+      </media:content>
+      <enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3KYHA0Z0DAFRPRWE639Z8D7/hi-why-saylors-strategy-keeps-buying-bitcoin-the-long-term-bet-explained-6.jpg" length="574166" type="image/jpeg"/>
+      <category>Latest News</category>
+    </item>
+    <item>
+      <title>EU taps industry to set standards for tokenized securities</title>
+      <pubDate>Mon, 09 Nov 2026 12:27:06 +0000</pubDate>
+      <atom:updated>Mon, 09 Nov 2026 13:51:23 +0000</atom:updated>
+      <guid isPermaLink="true">https://cointelegraph.com/news/eu-nominations-tokenization-standards-group</guid>
+      <link><![CDATA[https://cointelegraph.com/news/eu-nominations-tokenization-standards-group?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]></link>
+      <description><![CDATA[<p style="float:right; margin:0 0 10px 15px; width:240px;"><img src="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M702QB3WBZE6GCA3TM7M3NJ9/hi-markets-in-crypto-assets-regulation-mica-explained.jpg" alt="EU taps industry to set standards for tokenized securities" class="type:primaryImage"></p><p>Applications close Nov. 27 for an industry group that aims to draft initial standards for holding and settling tokenized securities by early 2028.</p>]]></description>
+      <dc:creator>Cointelegraph by Zoltan Vardai</dc:creator>
+      <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M702QB3WBZE6GCA3TM7M3NJ9/hi-markets-in-crypto-assets-regulation-mica-explained.jpg" fileSize="858391" type="image/jpeg" medium="image" height="1364" width="2048">
+        <credit>Cointelegraph</credit>
+        <media:credit role="publishing company">Cointelegraph</media:credit>
+      </media:content>
+      <enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M702QB3WBZE6GCA3TM7M3NJ9/hi-markets-in-crypto-assets-regulation-mica-explained.jpg" length="858391" type="image/jpeg"/>
+      <category>Latest News</category>
+    </item>
+    <item>
+      <title>Coinbase’s US national trust bank charter takes effect</title>
+      <pubDate>Mon, 09 Nov 2026 11:38:52 +0000</pubDate>
+      <atom:updated>Mon, 09 Nov 2026 11:54:50 +0000</atom:updated>
+      <guid isPermaLink="true">https://cointelegraph.com/news/coinbase-occ-approval-national-trust-bank-charter</guid>
+      <link><![CDATA[https://cointelegraph.com/news/coinbase-occ-approval-national-trust-bank-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]></link>
+      <description><![CDATA[<p style="float:right; margin:0 0 10px 15px; width:240px;"><img src="https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2MT4V83BPCA5X7B3XFWNYE8/hi-crypto-derivatives-are-now-available-how-much-interest-is-there-for-us-coinbase.jpg" alt="Coinbase’s US national trust bank charter takes effect" class="type:primaryImage"></p><p>Coinbase plans to expand its institutional crypto custody business under the federal charter and is exploring digital asset payment products.</p>]]></description>
+      <dc:creator>Cointelegraph by Zoltan Vardai</dc:creator>
+      <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2MT4V83BPCA5X7B3XFWNYE8/hi-crypto-derivatives-are-now-available-how-much-interest-is-there-for-us-coinbase.jpg" fileSize="727854" type="image/jpeg" medium="image" height="966" width="1450">
+        <credit>Cointelegraph</credit>
+        <media:credit role="publishing company">Cointelegraph</media:credit>
+      </media:content>
+      <enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2MT4V83BPCA5X7B3XFWNYE8/hi-crypto-derivatives-are-now-available-how-much-interest-is-there-for-us-coinbase.jpg" length="727854" type="image/jpeg"/>
+      <category>Latest News</category>
+    </item>
+    <item>
+      <title>Robinhood opens access to US IPOs for UK retail investors</title>
+      <pubDate>Mon, 09 Nov 2026 11:14:08 +0000</pubDate>
+      <atom:updated>Mon, 09 Nov 2026 11:19:44 +0000</atom:updated>
+      <guid isPermaLink="true">https://cointelegraph.com/news/robinhood-us-ipo-access-uk-retail-investors</guid>
+      <link><![CDATA[https://cointelegraph.com/news/robinhood-us-ipo-access-uk-retail-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]></link>
+      <description><![CDATA[<p style="float:right; margin:0 0 10px 15px; width:240px;"><img src="https://s3-images.ctmedia.io/media/article-covers/2026/09/01M283JZSQVMT1TPB7GVMGKVNK/robinhood2-2.jpg" alt="Robinhood opens access to US IPOs for UK retail investors" class="type:primaryImage"></p><p>Robinhood’s UK customers can request shares in eligible US initial public offerings at the offer price before the stocks begin trading.</p>]]></description>
+      <dc:creator>Cointelegraph by Helen Partz</dc:creator>
+      <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/09/01M283JZSQVMT1TPB7GVMGKVNK/robinhood2-2.jpg" fileSize="377341" type="image/jpeg" medium="image" height="967" width="1450">
+        <credit>Cointelegraph</credit>
+        <media:credit role="publishing company">Cointelegraph</media:credit>
+      </media:content>
+      <enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/09/01M283JZSQVMT1TPB7GVMGKVNK/robinhood2-2.jpg" length="377341" type="image/jpeg"/>
+      <category>Latest News</category>
+    </item>
+    <item>
+      <title>BTC price eyes $73K amid Nvidia volatility: Three things to know in Bitcoin this week</title>
+      <pubDate>Mon, 09 Nov 2026 10:03:40 +0000</pubDate>
+      <atom:updated>Mon, 09 Nov 2026 11:07:46 +0000</atom:updated>
+      <guid isPermaLink="true">https://cointelegraph.com/markets/btc-price-nvidia-volatility-three-things-bitcoin-this-week</guid>
+      <link><![CDATA[https://cointelegraph.com/markets/btc-price-nvidia-volatility-three-things-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]></link>
+      <description><![CDATA[<p style="float:right; margin:0 0 10px 15px; width:240px;"><img src="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6ZPZ3XN7CEBDWKGJCADW5H6/ai-falling-stock-prices-960x644-960x644.webp" alt="BTC price eyes $73K amid Nvidia volatility: Three things to know in Bitcoin this week" class="type:primaryImage"></p><p>Bitcoin price action fell to its lowest levels since mid-August as Nvidia reports added to sell-side pressure across stock-market futures.</p>]]></description>
+      <dc:creator>Cointelegraph by William Suberg</dc:creator>
+      <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6ZPZ3XN7CEBDWKGJCADW5H6/ai-falling-stock-prices-960x644-960x644.webp" fileSize="93734" type="image/webp" medium="image" height="644" width="960">
+        <credit>Cointelegraph</credit>
+        <media:credit role="publishing company">Cointelegraph</media:credit>
+      </media:content>
+      <enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6ZPZ3XN7CEBDWKGJCADW5H6/ai-falling-stock-prices-960x644-960x644.webp" length="93734" type="image/webp"/>
+      <category>Markets</category>
+    </item>
+    <item>
+      <title>Binance, Tether and Trump crypto firms face Senate records deadline</title>
+      <pubDate>Mon, 09 Nov 2026 09:00:17 +0000</pubDate>
+      <atom:updated>Mon, 09 Nov 2026 10:09:58 +0000</atom:updated>
+      <guid isPermaLink="true">https://cointelegraph.com/news/binance-tether-wlfi-senate-crypto-investigation-records-deadline</guid>
+      <link><![CDATA[https://cointelegraph.com/news/binance-tether-wlfi-senate-crypto-investigation-records-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]></link>
+      <description><![CDATA[<p style="float:right; margin:0 0 10px 15px; width:240px;"><img src="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6ZMS02Q1MEXVDRE9TMMRDPD/hi-the-evolution-of-crypto-regulations-in-2024-what-it-means-for-2026.jpg" alt="Binance, Tether and Trump crypto firms face Senate records deadline" class="type:primaryImage"></p><p>Sen. Richard Blumenthal asked four crypto firms to start sending records by Nov. 30 and warned of further action if they miss the Jan. 4 deadline.</p>]]></description>
+      <dc:creator>Cointelegraph by Ezra Reguerra</dc:creator>
+      <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6ZMS02Q1MEXVDRE9TMMRDPD/hi-the-evolution-of-crypto-regulations-in-2024-what-it-means-for-2026.jpg" fileSize="565495" type="image/jpeg" medium="image" height="966" width="1450">
+        <credit>Cointelegraph</credit>
+        <media:credit role="publishing company">Cointelegraph</media:credit>
+      </media:content>
+      <enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6ZMS02Q1MEXVDRE9TMMRDPD/hi-the-evolution-of-crypto-regulations-in-2024-what-it-means-for-2026.jpg" length="565495" type="image/jpeg"/>
+      <category>Latest News</category>
+    </item>
+    <item>
+      <title>Bitcoin ETFs shed $1.3B in biggest weekly outflow since late June</title>
+      <pubDate>Mon, 09 Nov 2026 08:17:35 +0000</pubDate>
+      <atom:updated>Tue, 10 Nov 2026 03:46:35 +0000</atom:updated>
+      <guid isPermaLink="true">https://cointelegraph.com/markets/bitcoin-etfs-13b-biggest-weekly-outflow-late-june</guid>
+      <link><![CDATA[https://cointelegraph.com/markets/bitcoin-etfs-13b-biggest-weekly-outflow-late-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]></link>
+      <description><![CDATA[<p style="float:right; margin:0 0 10px 15px; width:240px;"><img src="https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2M5WQHM74XV1CTRDCQ9ZXS3/bitcoin-etf-4.jpg" alt="Bitcoin ETFs shed $1.3B in biggest weekly outflow since late June" class="type:primaryImage"></p><p>Investors pulled a net $1.21 billion from BlackRock’s IBIT last week as Bitcoin fell below $76,000 and US technology stocks sold off.</p>]]></description>
+      <dc:creator>Cointelegraph by Helen Partz</dc:creator>
+      <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2M5WQHM74XV1CTRDCQ9ZXS3/bitcoin-etf-4.jpg" fileSize="622570" type="image/jpeg" medium="image" height="966" width="1450">
+        <credit>Cointelegraph</credit>
+        <media:credit role="publishing company">Cointelegraph</media:credit>
+      </media:content>
+      <enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2M5WQHM74XV1CTRDCQ9ZXS3/bitcoin-etf-4.jpg" length="622570" type="image/jpeg"/>
+      <category>Markets</category>
+    </item>
+    <item>
+      <title>Zcash devs propose another block time cut days after NU7 upgrade</title>
+      <pubDate>Mon, 09 Nov 2026 05:36:08 +0000</pubDate>
+      <atom:updated>Mon, 09 Nov 2026 10:09:12 +0000</atom:updated>
+      <guid isPermaLink="true">https://cointelegraph.com/news/zcash-developers-propose-20-second-blocks-nu7-upgrade</guid>
+      <link><![CDATA[https://cointelegraph.com/news/zcash-developers-propose-20-second-blocks-nu7-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]></link>
+      <description><![CDATA[<p style="float:right; margin:0 0 10px 15px; width:240px;"><img src="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6ZCTV693BR2130FJ37YTBT0/hi-bounties-and-do-they-work-zcash-2.jpg" alt="Zcash devs propose another block time cut days after NU7 upgrade" class="type:primaryImage"></p><p>The proposed reduction aims to shorten transaction confirmation times and improve the user experience for point-of-sale payments, exchange deposits and cross-chain swaps.</p>]]></description>
+      <dc:creator>Cointelegraph by Ezra Reguerra</dc:creator>
+      <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6ZCTV693BR2130FJ37YTBT0/hi-bounties-and-do-they-work-zcash-2.jpg" fileSize="270428" type="image/jpeg" medium="image" height="966" width="1450">
+        <credit>Cointelegraph</credit>
+        <media:credit role="publishing company">Cointelegraph</media:credit>
+      </media:content>
+      <enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6ZCTV693BR2130FJ37YTBT0/hi-bounties-and-do-they-work-zcash-2.jpg" length="270428" type="image/jpeg"/>
+      <category>Latest News</category>
+    </item>
+    <item>
+      <title>tBTC bridge partially resumes as $120M Aave reserve remains frozen</title>
+      <pubDate>Mon, 09 Nov 2026 04:03:08 +0000</pubDate>
+      <atom:updated>Mon, 09 Nov 2026 09:59:24 +0000</atom:updated>
+      <guid isPermaLink="true">https://cointelegraph.com/news/tbtc-bridge-resumes-aave-120m-reserve-frozen</guid>
+      <link><![CDATA[https://cointelegraph.com/news/tbtc-bridge-resumes-aave-120m-reserve-frozen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]></link>
+      <description><![CDATA[<p style="float:right; margin:0 0 10px 15px; width:240px;"><img src="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6Z7HEM0J3VD1G6Q7DHXMEMM/bitcoin-bridge-paused.png" alt="tBTC bridge partially resumes as $120M Aave reserve remains frozen" class="type:primaryImage"></p><p>Threshold halted its tBTC bridge on Oct. 30 as operators addressed a critical Linux kernel vulnerability that could allow attackers to execute code on unpatched servers.</p>]]></description>
+      <dc:creator>Cointelegraph by Ezra Reguerra</dc:creator>
+      <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6Z7HEM0J3VD1G6Q7DHXMEMM/bitcoin-bridge-paused.png" fileSize="1832168" type="image/png" medium="image" height="848" width="1264">
+        <credit>Cointelegraph</credit>
+        <media:credit role="publishing company">Cointelegraph</media:credit>
+      </media:content>
+      <enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6Z7HEM0J3VD1G6Q7DHXMEMM/bitcoin-bridge-paused.png" length="1832168" type="image/png"/>
+      <category>Latest News</category>
+    </item>
+    <item>
+      <title>Vitalik ‘pivots’ ETH to store of value, crypto suffers after US midterms: Hodler’s Digest</title>
+      <pubDate>Sun, 08 Nov 2026 22:59:06 +0000</pubDate>
+      <atom:updated>Mon, 09 Nov 2026 06:08:27 +0000</atom:updated>
+      <guid isPermaLink="true">https://cointelegraph.com/magazine/vitaliks-pivots-to-eth-as-a-store-of-value-us-election-weighs-on-crypto-hodlers-digest</guid>
+      <link><![CDATA[https://cointelegraph.com/magazine/vitaliks-pivots-to-eth-as-a-store-of-value-us-election-weighs-on-crypto-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]></link>
+      <description><![CDATA[<p style="float:right; margin:0 0 10px 15px; width:240px;"><img src="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6YMNVH88N4KSXQB6XWMMW2K/screenshot-2026-11-09-093227.jpg" alt="Vitalik ‘pivots’ ETH to store of value, crypto suffers after US midterms: Hodler’s Digest" class="type:primaryImage"></p><p>Vitalik Buterin wants Ethereum to embrace a store of value narrative, upsetting Bitcoin maxis. The crypto industry faces an uncertain future following the US elections.</p>]]></description>
+      <dc:creator>Cointelegraph by Andrew Fenton</dc:creator>
+      <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6YMNVH88N4KSXQB6XWMMW2K/screenshot-2026-11-09-093227.jpg" fileSize="160838" type="image/jpeg" medium="image" height="529" width="784">
+        <credit>Cointelegraph</credit>
+        <media:credit role="publishing company">Cointelegraph</media:credit>
+      </media:content>
+      <enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6YMNVH88N4KSXQB6XWMMW2K/screenshot-2026-11-09-093227.jpg" length="160838" type="image/jpeg"/>
+      <category>Magazine</category>
+    </item>
+  </channel>
+</rss>
