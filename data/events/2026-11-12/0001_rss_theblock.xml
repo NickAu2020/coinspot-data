@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    >
+
+<channel>
+    <title>The Block</title>
+    <link>https://www.theblock.co</link>
+    <atom:link href="https://www.theblock.co/rss.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.theblock.co/rss.xml?paged=2" rel="next" type="application/rss+xml" />
+    <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
+    <description>The Block features breaking Crypto news about Bitcoin, Blockchain, Web3, and DeFi from the web&#039;s most reliable source.</description>
+    <lastBuildDate>Wed, 11 Nov 2026 23:09:23 +0000</lastBuildDate>
+    <language>en-US</language>
+    <copyright>© 2026 THE BLOCK</copyright>
+    <generator>TheBlock</generator>
+    <ttl>5</ttl>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    <image>
+        <url>https://www.tbstat.com/wp/uploads/2024/03/the-block-logo-wordmark-black.png</url>
+        <title>The Block</title>
+        <link>https://www.theblock.co</link>
+    </image>
+        <item>
+        <title><![CDATA[Strategy, Metaplanet lose MSCI index membership in November reshuffle]]></title>
+        <link>https://www.theblock.co/news/markets/2026-11-11-strategy-metaplanet-lose-msci-index-membership-november-reshuffle-438437</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Screenshot-2026-11-09-at-11.15.36.png" type="image/*" medium="image"/>        <guid isPermaLink="false">947c8ffa-d64c-5ab7-9863-e301e85fc720</guid>
+        <pubDate>Wed, 11 Nov 2026 23:09:23 +0000</pubDate>
+            <description><![CDATA[Strategy had opposed MSCI’s rules, arguing exclusion would harm its reputation as a neutral provider.]]></description>            <dc:creator><![CDATA[Kyle Baird]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/companies"><![CDATA[Companies]]></category>
+		<category domain="https://www.theblock.co/category/crypto-ecosystems"><![CDATA[Crypto Ecosystems]]></category>
+		<category domain="https://www.theblock.co/category/markets"><![CDATA[Markets]]></category>
+		<category domain="https://www.theblock.co/category/public-equities"><![CDATA[Public Equities]]></category>
+		<category domain="tag"><![CDATA[Strategy]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[SEC enters fight over who regulates perpetual derivatives on stocks in the US]]></title>
+        <link>https://www.theblock.co/news/regulation/2026-11-11-sec-enters-fight-who-regulates-perpetual-derivatives-stocks-in-us-438427</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/04/20250414_SEC_News.jpg" type="image/*" medium="image"/>        <guid isPermaLink="false">8a16dedc-6e08-5598-bf8a-d9e3d75c83ab</guid>
+        <pubDate>Wed, 11 Nov 2026 22:06:47 +0000</pubDate>
+            <description><![CDATA[The SEC is stepping into the brewing fight over whether its sister agency should have approved perpetual derivatives on individual stocks.]]></description>            <dc:creator><![CDATA[Sarah Wynn]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/companies"><![CDATA[Companies]]></category>
+		<category domain="https://www.theblock.co/category/crypto-ecosystems"><![CDATA[Crypto Ecosystems]]></category>
+		<category domain="https://www.theblock.co/category/defi"><![CDATA[DeFi]]></category>
+		<category domain="https://www.theblock.co/category/markets"><![CDATA[Markets]]></category>
+		<category domain="https://www.theblock.co/category/policy-people"><![CDATA[People]]></category>
+		<category domain="https://www.theblock.co/category/policy"><![CDATA[Policy]]></category>
+		<category domain="https://www.theblock.co/category/regulation"><![CDATA[Regulation]]></category>
+		<category domain="tag"><![CDATA[CFTC]]></category>
+		<category domain="tag"><![CDATA[Perpetuals]]></category>
+		<category domain="tag"><![CDATA[SEC]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[DogeOS ‘very, very close’ to launching DeFi features, app layer for Dogecoin: CEO]]></title>
+        <link>https://www.theblock.co/news/defi/2026-11-11-dogeos-very-very-close-launching-defi-features-app-layer-dogecoin-ceo-438392</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/05/kabosu-doge.png" type="image/*" medium="image"/>        <guid isPermaLink="false">d50c6705-67eb-55de-a76c-178275be913e</guid>
+        <pubDate>Wed, 11 Nov 2026 20:32:19 +0000</pubDate>
+            <description><![CDATA[DogeOS aims to give DOGE holders more ways to use the token through games, apps and financial services.]]></description>            <dc:creator><![CDATA[Kyle Baird]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/crypto-ecosystems"><![CDATA[Crypto Ecosystems]]></category>
+		<category domain="https://www.theblock.co/category/defi"><![CDATA[DeFi]]></category>
+		<category domain="https://www.theblock.co/category/markets"><![CDATA[Markets]]></category>
+		<category domain="https://www.theblock.co/category/token-projects"><![CDATA[Token Projects]]></category>
+		<category domain="https://www.theblock.co/category/web3"><![CDATA[Web3]]></category>
+		<category domain="tag"><![CDATA[Dogecoin]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Sen. Warren, Merkley raise ethics concerns over Trump aide’s prediction market bets]]></title>
+        <link>https://www.theblock.co/news/regulation/2026-11-11-sen-warren-merkley-raise-ethics-concerns-over-trump-aides-prediction-market-bets-438394</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2021/09/20210927_Elizabeth_Warren_Generic.jpg" type="image/*" medium="image"/>        <guid isPermaLink="false">448e0155-3c86-5d07-aba8-a2f077edd1a6</guid>
+        <pubDate>Wed, 11 Nov 2026 19:48:46 +0000</pubDate>
+            <description><![CDATA[Sen. Warren is demanding answers from the White House after its teleprompter operator was accused of using advance information to bet.]]></description>            <dc:creator><![CDATA[Sarah Wynn]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/crypto-ecosystems"><![CDATA[Crypto Ecosystems]]></category>
+		<category domain="https://www.theblock.co/category/defi"><![CDATA[DeFi]]></category>
+		<category domain="https://www.theblock.co/category/policy"><![CDATA[Policy]]></category>
+		<category domain="https://www.theblock.co/category/regulation"><![CDATA[Regulation]]></category>
+		<category domain="tag"><![CDATA[Prediction Markets]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Stablecoin supply drops $14.2 billion in largest contraction since 2022 bear market]]></title>
+        <link>https://www.theblock.co/news/ecosystems/2026-11-11-stablecoin-supply-drops-14-2-billion-largest-contraction-since-2022-bear-market-437907</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/06/20250602_Stablecoins_News.jpg" type="image/*" medium="image"/>        <guid isPermaLink="false">75ffd2ce-8aa3-56ff-95b9-ec15673f69ac</guid>
+        <pubDate>Wed, 11 Nov 2026 17:23:10 +0000</pubDate>
+            <description><![CDATA[USDT and USDC supply fell nearly $11 billion over the past month, while gold-backed tokens held steady.]]></description>            <dc:creator><![CDATA[Kyle Baird]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/crypto-ecosystems"><![CDATA[Crypto Ecosystems]]></category>
+		<category domain="https://www.theblock.co/category/defi"><![CDATA[DeFi]]></category>
+		<category domain="https://www.theblock.co/category/markets"><![CDATA[Markets]]></category>
+		<category domain="https://www.theblock.co/category/stablecoins"><![CDATA[Stablecoins]]></category>
+		<category domain="https://www.theblock.co/category/token-projects"><![CDATA[Token Projects]]></category>
+		<category domain="tag"><![CDATA[Tether]]></category>
+		<category domain="tag"><![CDATA[USDC]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Apex Group joins Hedera Council to explore tokenization and settlement]]></title>
+        <link>https://www.theblock.co/news/deals/2026-11-11-apex-group-joins-hedera-council-tokenization-437917</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2019/09/20190917_Hedera-Hashgraph-Coins-Genesis.jpg" type="image/*" medium="image"/>        <guid isPermaLink="false">c022dbd9-2c87-54fa-92bc-508cdb4bbf28</guid>
+        <pubDate>Wed, 11 Nov 2026 17:07:22 +0000</pubDate>
+            <description><![CDATA[Apex Group, overseeing $3.5 trillion in assets, joins the Hedera Council and will explore Hedera for tokenization, compliance and settlement.]]></description>            <dc:creator><![CDATA[Jason Shubnell]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/crypto-ecosystems"><![CDATA[Crypto Ecosystems]]></category>
+		<category domain="https://www.theblock.co/category/deals"><![CDATA[Deals]]></category>
+		<category domain="https://www.theblock.co/category/web3"><![CDATA[Web3]]></category>
+		<category domain="tag"><![CDATA[Tokenization]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Pyth Network adds NYSE stock and ETF data to its marketplace]]></title>
+        <link>https://www.theblock.co/news/web3/2026-11-11-pyth-network-nyse-data-437928</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2019/02/nyse.jpg" type="image/*" medium="image"/>        <guid isPermaLink="false">3f8527d6-a40d-5015-9506-cd8fe1a0c41a</guid>
+        <pubDate>Wed, 11 Nov 2026 16:56:54 +0000</pubDate>
+            <description><![CDATA[Pyth Network has added real-time stock and ETF data from the New York Stock Exchange to its data marketplace.]]></description>            <dc:creator><![CDATA[Yogita Khatri]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/companies"><![CDATA[Companies]]></category>
+		<category domain="https://www.theblock.co/category/crypto-ecosystems"><![CDATA[Crypto Ecosystems]]></category>
+		<category domain="https://www.theblock.co/category/deals"><![CDATA[Deals]]></category>
+		<category domain="https://www.theblock.co/category/web3"><![CDATA[Web3]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[StoneX sees 111% upside for Securitize shares as tokenization revenue rebounds]]></title>
+        <link>https://www.theblock.co/news/markets/2026-11-11-stonex-sees-111-upside-for-securitize-shares-as-tokenization-revenue-rebounds-437910</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/10/20251028_Secrutize_News.jpg" type="image/*" medium="image"/>        <guid isPermaLink="false">9087e868-790b-58c3-b410-6c370cdb5d03</guid>
+        <pubDate>Wed, 11 Nov 2026 16:22:13 +0000</pubDate>
+            <description><![CDATA[StoneX maintained its Buy rating on Securitize, citing tokenized equities, fund demand, and structured credit as growth drivers.]]></description>            <dc:creator><![CDATA[Brian Danga]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/equities"><![CDATA[Equities]]></category>
+		<category domain="https://www.theblock.co/category/markets"><![CDATA[Markets]]></category>
+		<category domain="tag"><![CDATA[Analyst Reports]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Bitcoin ‘ripe for a squeeze’ as options traders raise odds of sub-$70,000 Christmas]]></title>
+        <link>https://www.theblock.co/news/markets/2026-11-11-bitcoin-ripe-for-squeeze-options-traders-raise-odds-sub-70000-christmas-437897</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Screenshot-2026-11-11-at-14.17.29.png" type="image/*" medium="image"/>        <guid isPermaLink="false">43745a80-50c8-50cf-bb25-cb9808fa1671</guid>
+        <pubDate>Wed, 11 Nov 2026 14:44:31 +0000</pubDate>
+            <description><![CDATA[Bitcoin trades below $74,000 on Wednesday after five weekly losses, with Derive pricing 31% odds of a sub-$70,000 Christmas.]]></description>            <dc:creator><![CDATA[James Hunt]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/crypto-ecosystems"><![CDATA[Crypto Ecosystems]]></category>
+		<category domain="https://www.theblock.co/category/equities"><![CDATA[Equities]]></category>
+		<category domain="https://www.theblock.co/category/layer-1s"><![CDATA[Layer 1s]]></category>
+		<category domain="https://www.theblock.co/category/markets"><![CDATA[Markets]]></category>
+		<category domain="https://www.theblock.co/category/token-projects"><![CDATA[Token Projects]]></category>
+		<category domain="tag"><![CDATA[Analyst Reports]]></category>
+		<category domain="tag"><![CDATA[Bitcoin]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Nomura’s Laser Digital helps launch Saudi SME credit vault targeting $100 million on BNB Chain]]></title>
+        <link>https://www.theblock.co/news/markets/2026-11-11-nomuras-laser-digital-helps-launch-saudi-sme-credit-vault-targeting-100-million-on-bnb-chain-437824</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Screenshot-2026-11-11-at-11.56.55.png" type="image/*" medium="image"/>        <guid isPermaLink="false">a5d5bc62-5e3e-511f-ba03-e1cd85eb017f</guid>
+        <pubDate>Wed, 11 Nov 2026 13:35:02 +0000</pubDate>
+            <description><![CDATA[Nomura's Laser Digital is advising ZIG Finance on a tokenized Saudi SME private credit vault targeting a $100 million raise on BNB Chain.]]></description>            <dc:creator><![CDATA[Brian Danga]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/crypto-ecosystems"><![CDATA[Crypto Ecosystems]]></category>
+		<category domain="https://www.theblock.co/category/layer-1s"><![CDATA[Layer 1s]]></category>
+		<category domain="https://www.theblock.co/category/markets"><![CDATA[Markets]]></category>
+		<category domain="https://www.theblock.co/category/token-projects"><![CDATA[Token Projects]]></category>
+		<category domain="tag"><![CDATA[BNB]]></category>
+		<category domain="tag"><![CDATA[exclusive]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[OKXICE sets Nov. 23 launch for tokenized securities venue under SEC innovation exemption]]></title>
+        <link>https://www.theblock.co/news/regulation/2026-11-11-okxice-sets-nov-23-launch-for-tokenized-securities-venue-under-sec-innovation-exemption-437342</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2022/09/20220928_OKX_Generic.jpg" type="image/*" medium="image"/>        <guid isPermaLink="false">128ff7fe-7309-5a9b-9244-4538f6e567d2</guid>
+        <pubDate>Wed, 11 Nov 2026 13:01:02 +0000</pubDate>
+            <description><![CDATA[OKXICC, plans to launch its tokenized securities venue at the end of the month, the joint venture announced on Wednesday.]]></description>            <dc:creator><![CDATA[Sarah Wynn]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/companies"><![CDATA[Companies]]></category>
+		<category domain="https://www.theblock.co/category/crypto-ecosystems"><![CDATA[Crypto Ecosystems]]></category>
+		<category domain="https://www.theblock.co/category/exchanges"><![CDATA[Exchanges]]></category>
+		<category domain="https://www.theblock.co/category/markets"><![CDATA[Markets]]></category>
+		<category domain="https://www.theblock.co/category/policy-people"><![CDATA[People]]></category>
+		<category domain="https://www.theblock.co/category/policy"><![CDATA[Policy]]></category>
+		<category domain="https://www.theblock.co/category/regulation"><![CDATA[Regulation]]></category>
+		<category domain="https://www.theblock.co/category/web3"><![CDATA[Web3]]></category>
+		<category domain="tag"><![CDATA[OKX]]></category>
+		<category domain="tag"><![CDATA[SEC]]></category>
+		<category domain="tag"><![CDATA[Tokenization]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Bitcoin Core discloses three patched security flaws, including high-severity mining bug]]></title>
+        <link>https://www.theblock.co/news/ecosystems/2026-11-11-bitcoin-core-discloses-three-patched-security-flaws-including-high-severity-mining-bug-437862</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Screenshot-2026-11-11-at-12.26.57.png" type="image/*" medium="image"/>        <guid isPermaLink="false">3468a3cb-9b4d-5ea3-a5d2-2a6716a0c8ae</guid>
+        <pubDate>Wed, 11 Nov 2026 12:50:08 +0000</pubDate>
+            <description><![CDATA[Bitcoin Core disclosed three previously patched security vulnerabilities, including a high-severity bug affecting block template creation.]]></description>            <dc:creator><![CDATA[James Hunt]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/crypto-ecosystems"><![CDATA[Crypto Ecosystems]]></category>
+		<category domain="https://www.theblock.co/category/layer-1s"><![CDATA[Layer 1s]]></category>
+		<category domain="https://www.theblock.co/category/markets"><![CDATA[Markets]]></category>
+		<category domain="https://www.theblock.co/category/token-projects"><![CDATA[Token Projects]]></category>
+		<category domain="tag"><![CDATA[Bitcoin]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Crypto fraudster jailed for eight years over $2.7 million theft plot directed from prison]]></title>
+        <link>https://www.theblock.co/news/regulation/2026-11-11-crypto-fraudster-jailed-for-eight-years-over-2-7-million-theft-plot-directed-from-prison-437858</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Screenshot-2026-11-11-at-15.22.20.png" type="image/*" medium="image"/>        <guid isPermaLink="false">cc525948-2faf-5094-ba5e-d73fbc1bbcf1</guid>
+        <pubDate>Wed, 11 Nov 2026 12:46:16 +0000</pubDate>
+            <description><![CDATA[Robert Barr was jailed for eight years for orchestrating an attempted £2 million cryptocurrency theft from his prison cell.]]></description>            <dc:creator><![CDATA[Brian Danga]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/legal"><![CDATA[Legal]]></category>
+		<category domain="https://www.theblock.co/category/policy"><![CDATA[Policy]]></category>
+		<category domain="https://www.theblock.co/category/regulation"><![CDATA[Regulation]]></category>
+		<category domain="tag"><![CDATA[Court Hearings]]></category>
+		<category domain="tag"><![CDATA[Crime]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Deutsche Bank goes live with digital asset custody service, signs asset management deal]]></title>
+        <link>https://www.theblock.co/news/business/2026-11-11-deutsche-bank-goes-live-with-digital-asset-custody-service-signs-asset-management-deal-437851</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Screenshot-2026-11-11-at-11.27.09.png" type="image/*" medium="image"/>        <guid isPermaLink="false">cdcce2ef-705d-5e50-97ac-d3b8f5c72eee</guid>
+        <pubDate>Wed, 11 Nov 2026 11:46:34 +0000</pubDate>
+            <description><![CDATA[Deutsche Bank launched its digital asset custody service and signed an agreement covering tokenized funds, crypto ETCs, and stablecoins.]]></description>            <dc:creator><![CDATA[James Hunt]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/companies"><![CDATA[Companies]]></category>
+		<category domain="https://www.theblock.co/category/finance-firms"><![CDATA[Finance firms]]></category>
+		<category domain="https://www.theblock.co/category/policy"><![CDATA[Policy]]></category>
+		<category domain="https://www.theblock.co/category/regulation"><![CDATA[Regulation]]></category>
+		<category domain="tag"><![CDATA[TradFi banks]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Bitcoin and Blockchain Basics]]></title>
+        <link>https://www.theblock.co/learn/bitcoin/bitcoin-and-blockchain-basics-434447</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/bitcoin201.png" type="image/*" medium="image"/>        <guid isPermaLink="false">4de08de3-4a9f-5657-b84e-e1cf7bc8c2bd</guid>
+        <pubDate>Wed, 11 Nov 2026 11:43:50 +0000</pubDate>
+            <description><![CDATA[Bitcoin is presented as the first cryptocurrency. It is a decentralized digital currency with a fixed supply of 21 million coins, a peer-to-peer network, Proof of Work security, and transparent but pseudonymous transactions.
+The important beginner idea is not only that Bitcoin is digital money. It is that Bitcoin showed how a network could record value transfers without relying on a single company, government, or bank to update the ledger.]]></description>            <dc:creator><![CDATA[The Block Research]]></dc:creator>
+        <content:encoded/>
+        		<category domain="tag"><![CDATA[101]]></category>
+		<category domain="tag"><![CDATA[Bitcoin]]></category>
+		<category domain="tag"><![CDATA[blockchain]]></category>
+		<category domain="tag"><![CDATA[campus]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Crosschain protocol Across restores systems after domain hijack]]></title>
+        <link>https://www.theblock.co/news/defi/2026-11-11-crosschain-protocol-across-restores-systems-after-domain-hijack-437843</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/04/20230411_Hack_Generic_1.jpg" type="image/*" medium="image"/>        <guid isPermaLink="false">6db03db1-463a-561e-b4b7-ffe78c51f31e</guid>
+        <pubDate>Wed, 11 Nov 2026 10:55:24 +0000</pubDate>
+            <description><![CDATA[Attackers gained control of Across's official domain through a social engineering attack on its domain registrar, Namecheap.]]></description>            <dc:creator><![CDATA[Danny Park]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/crypto-ecosystems"><![CDATA[Crypto Ecosystems]]></category>
+		<category domain="https://www.theblock.co/category/defi"><![CDATA[DeFi]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Kraken parent Payward adds 200 tokenized UK and European equities to xStocks offering]]></title>
+        <link>https://www.theblock.co/news/business/2026-11-11-kraken-parent-payward-adds-200-tokenized-uk-and-european-equities-to-xstocks-offering-437837</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Screenshot-2026-11-11-at-10.34.24.png" type="image/*" medium="image"/>        <guid isPermaLink="false">a99c22d0-ecac-5a5a-bc48-d65537ea7cdc</guid>
+        <pubDate>Wed, 11 Nov 2026 10:54:02 +0000</pubDate>
+            <description><![CDATA[Kraken parent Payward added more than 200 UK and European equities to xStocks, taking its tokenized offering past 1,500 assets.]]></description>            <dc:creator><![CDATA[James Hunt]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/companies"><![CDATA[Companies]]></category>
+		<category domain="https://www.theblock.co/category/crypto-ecosystems"><![CDATA[Crypto Ecosystems]]></category>
+		<category domain="https://www.theblock.co/category/defi"><![CDATA[DeFi]]></category>
+		<category domain="https://www.theblock.co/category/exchanges"><![CDATA[Exchanges]]></category>
+		<category domain="https://www.theblock.co/category/companies-people"><![CDATA[People]]></category>
+		<category domain="https://www.theblock.co/category/web3"><![CDATA[Web3]]></category>
+		<category domain="tag"><![CDATA[Kraken]]></category>
+		<category domain="tag"><![CDATA[Tokenization]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[New York federal judge denies Novig’s injunction bid, rules its sports event contracts are not swaps]]></title>
+        <link>https://www.theblock.co/news/regulation/2026-11-11-new-york-judge-denies-novig-injunction-bid-437828</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/novig-ny-smaller.png" type="image/*" medium="image"/>        <guid isPermaLink="false">14975715-0e6c-5023-ac0b-49ad33ea9474</guid>
+        <pubDate>Wed, 11 Nov 2026 09:40:46 +0000</pubDate>
+            <description><![CDATA[A federal judge ruled New York can enforce gambling laws against Novig after finding its sports contracts are not swaps.]]></description>            <dc:creator><![CDATA[Danny Park]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/policy"><![CDATA[Policy]]></category>
+		<category domain="https://www.theblock.co/category/regulation"><![CDATA[Regulation]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Bitmine reports $6.3 billion net loss in latest fiscal year, driven by 44% ether decline]]></title>
+        <link>https://www.theblock.co/news/business/2026-11-11-bitmine-6-3-billion-net-loss-437812</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/tom-lee-1920-1080.png" type="image/*" medium="image"/>        <guid isPermaLink="false">30ba937d-cb2c-5626-8ad1-0cc03e469dad</guid>
+        <pubDate>Wed, 11 Nov 2026 06:22:32 +0000</pubDate>
+            <description><![CDATA[According to its SEC filing, nearly $6.23 billion of the net losses came from unrealized fair value losses on digital asset holdings.]]></description>            <dc:creator><![CDATA[Danny Park]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/companies"><![CDATA[Companies]]></category>
+		<category domain="https://www.theblock.co/category/equities"><![CDATA[Equities]]></category>
+		<category domain="https://www.theblock.co/category/markets"><![CDATA[Markets]]></category>
+		<category domain="tag"><![CDATA[Earnings]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+    </channel>
+</rss>
