@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    >
+
+<channel>
+    <title>The Block</title>
+    <link>https://www.theblock.co</link>
+    <atom:link href="https://www.theblock.co/rss.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.theblock.co/rss.xml?paged=2" rel="next" type="application/rss+xml" />
+    <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
+    <description>The Block features breaking Crypto news about Bitcoin, Blockchain, Web3, and DeFi from the web&#039;s most reliable source.</description>
+    <lastBuildDate>Tue, 17 Nov 2026 22:23:29 +0000</lastBuildDate>
+    <language>en-US</language>
+    <copyright>© 2026 THE BLOCK</copyright>
+    <generator>TheBlock</generator>
+    <ttl>5</ttl>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    <image>
+        <url>https://www.tbstat.com/wp/uploads/2024/03/the-block-logo-wordmark-black.png</url>
+        <title>The Block</title>
+        <link>https://www.theblock.co</link>
+    </image>
+        <item>
+        <title><![CDATA[Robinhood shrugs off Kalshi equities threat as Mizuho sees 86% HOOD upside]]></title>
+        <link>https://www.theblock.co/news/business/2026-11-17-robinhoods-non-sports-prediction-market-share-doubles-mizuho-442904</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Screenshot-2026-11-09-at-10.08.56.png" type="image/*" medium="image"/>        <guid isPermaLink="false">d04c9fe1-a5e7-5c00-b7e5-8b11e7257e6a</guid>
+        <pubDate>Tue, 17 Nov 2026 22:23:29 +0000</pubDate>
+            <description><![CDATA[Robinhood brushes off Kalshi’s potential equities push as Mizuho maintains its bullish outlook on HOOD.]]></description>            <dc:creator><![CDATA[Kyle Baird]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/companies"><![CDATA[Companies]]></category>
+		<category domain="https://www.theblock.co/category/crypto-ecosystems"><![CDATA[Crypto Ecosystems]]></category>
+		<category domain="https://www.theblock.co/category/defi"><![CDATA[DeFi]]></category>
+		<category domain="https://www.theblock.co/category/equities"><![CDATA[Equities]]></category>
+		<category domain="https://www.theblock.co/category/exchanges"><![CDATA[Exchanges]]></category>
+		<category domain="https://www.theblock.co/category/markets"><![CDATA[Markets]]></category>
+		<category domain="https://www.theblock.co/category/public-equities"><![CDATA[Public Equities]]></category>
+		<category domain="tag"><![CDATA[Analyst Reports]]></category>
+		<category domain="tag"><![CDATA[Kalshi]]></category>
+		<category domain="tag"><![CDATA[Prediction Markets]]></category>
+		<category domain="tag"><![CDATA[Robinhood]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Jito’s Lucas Bruder says crypto builders need to ‘slow down’ and fix security weaknesses]]></title>
+        <link>https://www.theblock.co/news/ecosystems/2026-11-17-jito-lucas-bruder-crypto-builders-need-slow-down-fix-security-weaknesses-442850</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/02/20240221_AccountAbstraction_News.jpg" type="image/*" medium="image"/>        <guid isPermaLink="false">cd20791e-50a7-5fe2-b88b-5cb3327aad04</guid>
+        <pubDate>Tue, 17 Nov 2026 19:29:15 +0000</pubDate>
+            <description><![CDATA[Jito’s Lucas Bruder warns of patient attackers and urges crypto teams to address technical debt.]]></description>            <dc:creator><![CDATA[Kyle Baird]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/crypto-ecosystems"><![CDATA[Crypto Ecosystems]]></category>
+		<category domain="https://www.theblock.co/category/web3"><![CDATA[Web3]]></category>
+		<category domain="tag"><![CDATA[AI]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Coinbase expands onchain crypto loans to New York via Morpho]]></title>
+        <link>https://www.theblock.co/news/business/2026-11-17-coinbase-borrow-new-york-morpho-442842</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/06/20260612_Coinbase_News_2.jpg" type="image/*" medium="image"/>        <guid isPermaLink="false">6dde4d26-9be3-5cce-8ccc-d4c45e2d7a6f</guid>
+        <pubDate>Tue, 17 Nov 2026 18:00:02 +0000</pubDate>
+            <description><![CDATA[Coinbase has expanded its onchain crypto loan product to New York residents, with BTC, ETH and SOL as the supported collateral.]]></description>            <dc:creator><![CDATA[Yogita Khatri]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/companies"><![CDATA[Companies]]></category>
+		<category domain="https://www.theblock.co/category/exchanges"><![CDATA[Exchanges]]></category>
+		<category domain="https://www.theblock.co/category/markets"><![CDATA[Markets]]></category>
+		<category domain="https://www.theblock.co/category/nfts-gaming-and-metaverse"><![CDATA[Metaverse & NFT]]></category>
+		<category domain="https://www.theblock.co/category/nft-marketplaces"><![CDATA[NFT Marketplaces]]></category>
+		<category domain="https://www.theblock.co/category/public-equities"><![CDATA[Public Equities]]></category>
+		<category domain="tag"><![CDATA[Coinbase]]></category>
+		<category domain="tag"><![CDATA[exclusive]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Fomo pays creators $30 million, sharing ‘lion’s share’ of revenue, Se Yong Park says]]></title>
+        <link>https://www.theblock.co/news/business/2026-11-17-fomo-pays-creators-30-million-sharing-lions-share-revenue-park-says-442332</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/06/20240624_Tokenization_News_2.jpg" type="image/*" medium="image"/>        <guid isPermaLink="false">8b17f06f-9964-532d-b7d5-d7baada87cb6</guid>
+        <pubDate>Tue, 17 Nov 2026 17:41:02 +0000</pubDate>
+            <description><![CDATA[Fomo rewards traders who hold the assets they discuss and share the reasoning behind their investments.]]></description>            <dc:creator><![CDATA[Kyle Baird]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/companies"><![CDATA[Companies]]></category>
+		<category domain="https://www.theblock.co/category/crypto-ecosystems"><![CDATA[Crypto Ecosystems]]></category>
+		<category domain="https://www.theblock.co/category/market-updates"><![CDATA[Market Updates]]></category>
+		<category domain="https://www.theblock.co/category/markets"><![CDATA[Markets]]></category>
+		<category domain="https://www.theblock.co/category/web3"><![CDATA[Web3]]></category>
+		<category domain="tag"><![CDATA[Memecoins]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Everyone is Trading Tokenized Nvidia Derivatives]]></title>
+        <link>https://www.theblock.co/newsletters/data-and-insights/2026-11-17-everyone-is-trading-tokenized-nvidia-derivatives-442818</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/data-insights-1920x1080-3.jpg" type="image/*" medium="image"/>        <guid isPermaLink="false">70731111-f8f3-5c01-bd50-34b4fa5ebfd0</guid>
+        <pubDate>Tue, 17 Nov 2026 17:15:23 +0000</pubDate>
+            <description><![CDATA[NVDA Speculatooors onchain On the off chance you haven’t heard, Nvidia CEO and co-founder Jensen Huang resigned from his post after admitting he was unfaithful to his wife. Needless to say, markets have reacted violently. Onchain perpetuals traded $8.7 billion on Nov. 12, the day Jensen Huang resigned as CEO, roughly 20x the daily average […]]]></description>            <dc:creator><![CDATA[Ivan Wu and Bryan Samsoedin]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Alpaca says tokenization network tops $10 billion in minting and redemption volume]]></title>
+        <link>https://www.theblock.co/news/business/2026-11-17-alpaca-says-tokenization-network-tops-10-billion-minting-redemption-volume-442667</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/06/20240624_Tokenization_News_3.jpg" type="image/*" medium="image"/>        <guid isPermaLink="false">0705bba3-8521-59cb-bc45-138d38fea6cf</guid>
+        <pubDate>Tue, 17 Nov 2026 16:35:07 +0000</pubDate>
+            <description><![CDATA[Alpaca co-founder Hitoshi Harada said its Instant Tokenization Network has surpassed $10 billion in cumulative minting and redemption volume.]]></description>            <dc:creator><![CDATA[James Hunt]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/companies"><![CDATA[Companies]]></category>
+		<category domain="https://www.theblock.co/category/crypto-ecosystems"><![CDATA[Crypto Ecosystems]]></category>
+		<category domain="https://www.theblock.co/category/web3"><![CDATA[Web3]]></category>
+		<category domain="tag"><![CDATA[Tokenization]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Anchorage, Kalshi Prime let institutions use custodied bitcoin as margin]]></title>
+        <link>https://www.theblock.co/news/business/2026-11-17-anchorage-digital-kalshi-prime-hodl-margining-bitcoin-collateral-442568</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/05/20240513_Bitcoin_News_10.jpg" type="image/*" medium="image"/>        <guid isPermaLink="false">b9cf16e4-5389-56d1-970c-6fcd051cc868</guid>
+        <pubDate>Tue, 17 Nov 2026 15:53:25 +0000</pubDate>
+            <description><![CDATA[Anchorage clients can pledge bitcoin and stablecoins held at its federally chartered bank as margin on Kalshi Prime's CFTC-regulated venue.]]></description>            <dc:creator><![CDATA[Jason Shubnell]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/companies"><![CDATA[Companies]]></category>
+		<category domain="https://www.theblock.co/category/crypto-ecosystems"><![CDATA[Crypto Ecosystems]]></category>
+		<category domain="https://www.theblock.co/category/defi"><![CDATA[DeFi]]></category>
+		<category domain="https://www.theblock.co/category/layer-1s"><![CDATA[Layer 1s]]></category>
+		<category domain="https://www.theblock.co/category/markets"><![CDATA[Markets]]></category>
+		<category domain="https://www.theblock.co/category/stablecoins"><![CDATA[Stablecoins]]></category>
+		<category domain="https://www.theblock.co/category/token-projects"><![CDATA[Token Projects]]></category>
+		<category domain="tag"><![CDATA[Bitcoin]]></category>
+		<category domain="tag"><![CDATA[Kalshi]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Solana’s Trump memecoin launch tested infrastructure ahead of institutional push, Lily Liu says]]></title>
+        <link>https://www.theblock.co/news/ecosystems/2026-11-17-solana-trump-memecoin-launch-tested-infrastructure-institutional-push-lily-liu-says-442132</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2022/08/20220804_Solana-3.jpg" type="image/*" medium="image"/>        <guid isPermaLink="false">d5cfc4d0-34eb-5288-8275-8fa1e1580a5a</guid>
+        <pubDate>Tue, 17 Nov 2026 14:27:35 +0000</pubDate>
+            <description><![CDATA[Liu recapped two periods of trading as evidence Solana's network can withstand pressure from unpredictable crypto markets.]]></description>            <dc:creator><![CDATA[Brian Danga]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/crypto-ecosystems"><![CDATA[Crypto Ecosystems]]></category>
+		<category domain="https://www.theblock.co/category/layer-1s"><![CDATA[Layer 1s]]></category>
+		<category domain="https://www.theblock.co/category/market-updates"><![CDATA[Market Updates]]></category>
+		<category domain="https://www.theblock.co/category/markets"><![CDATA[Markets]]></category>
+		<category domain="https://www.theblock.co/category/token-projects"><![CDATA[Token Projects]]></category>
+		<category domain="https://www.theblock.co/category/web3"><![CDATA[Web3]]></category>
+		<category domain="tag"><![CDATA[Memecoins]]></category>
+		<category domain="tag"><![CDATA[Solana]]></category>
+		<category domain="tag"><![CDATA[Tokenization]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Bitwise launches ZDAY, its first non-crypto ETF, to bet on AI cyber defense]]></title>
+        <link>https://www.theblock.co/news/markets/2026-11-17-bitwise-zday-ai-cyber-defense-etf-442062</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/09/bitwise.png" type="image/*" medium="image"/>        <guid isPermaLink="false">97d314f8-40e1-55dc-beb7-fe697f5f2f17</guid>
+        <pubDate>Tue, 17 Nov 2026 14:00:00 +0000</pubDate>
+            <description><![CDATA[Bitwise's first non-crypto ETF, ZDAY, trades on the NYSE with a 0.75% fee, holding 10–30 AI security stocks like CrowdStrike and Palo Alto.]]></description>            <dc:creator><![CDATA[Jason Shubnell]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/companies"><![CDATA[Companies]]></category>
+		<category domain="https://www.theblock.co/category/crypto-ecosystems"><![CDATA[Crypto Ecosystems]]></category>
+		<category domain="https://www.theblock.co/category/funds"><![CDATA[Funds]]></category>
+		<category domain="https://www.theblock.co/category/markets"><![CDATA[Markets]]></category>
+		<category domain="https://www.theblock.co/category/web3"><![CDATA[Web3]]></category>
+		<category domain="tag"><![CDATA[AI]]></category>
+		<category domain="tag"><![CDATA[Bitcoin ETF]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Bernstein sees upside for bitcoin miners Riot and TeraWulf, citing discounts to implied AI data center values]]></title>
+        <link>https://www.theblock.co/news/markets/2026-11-17-bernstein-sees-upside-for-bitcoin-miners-riot-and-terawulf-citing-discounts-to-implied-ai-data-center-values-442125</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/04/20260428_Bitcoin-Mining_News_2.jpg" type="image/*" medium="image"/>        <guid isPermaLink="false">0d3d9852-1b87-5b54-b25a-d879bcbd96bc</guid>
+        <pubDate>Tue, 17 Nov 2026 13:56:18 +0000</pubDate>
+            <description><![CDATA[Riot's AI leases imply twice its adjusted enterprise value, Bernstein estimates, with TeraWulf also trading at a discount.]]></description>            <dc:creator><![CDATA[James Hunt]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/companies"><![CDATA[Companies]]></category>
+		<category domain="https://www.theblock.co/category/crypto-ecosystems"><![CDATA[Crypto Ecosystems]]></category>
+		<category domain="https://www.theblock.co/category/crypto-infrastructure"><![CDATA[Crypto Infrastructure]]></category>
+		<category domain="https://www.theblock.co/category/infrastructure"><![CDATA[Infrastructure]]></category>
+		<category domain="https://www.theblock.co/category/layer-1s"><![CDATA[Layer 1s]]></category>
+		<category domain="https://www.theblock.co/category/markets"><![CDATA[Markets]]></category>
+		<category domain="https://www.theblock.co/category/token-projects"><![CDATA[Token Projects]]></category>
+		<category domain="https://www.theblock.co/category/web3"><![CDATA[Web3]]></category>
+		<category domain="tag"><![CDATA[AI]]></category>
+		<category domain="tag"><![CDATA[Bitcoin]]></category>
+		<category domain="tag"><![CDATA[Mining]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Stablecoin infrastructure firm Avenia raises $25 million in Series A extension]]></title>
+        <link>https://www.theblock.co/news/deals/2026-11-17-avenia-funding-stablecoin-crypto-infrastructure-442119</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/04/20250411_Funding_News.jpg" type="image/*" medium="image"/>        <guid isPermaLink="false">0839358f-11a3-5bef-8cbd-e09579c6562e</guid>
+        <pubDate>Tue, 17 Nov 2026 13:08:34 +0000</pubDate>
+            <description><![CDATA[Lightspeed Faction led the equity round, bringing Avenia's total funding to $44.6 million as it plans new products and acquisitions.]]></description>            <dc:creator><![CDATA[Yogita Khatri]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/companies"><![CDATA[Companies]]></category>
+		<category domain="https://www.theblock.co/category/deals"><![CDATA[Deals]]></category>
+		<category domain="https://www.theblock.co/category/lobbying"><![CDATA[Lobbying]]></category>
+		<category domain="https://www.theblock.co/category/policy"><![CDATA[Policy]]></category>
+		<category domain="tag"><![CDATA[exclusive]]></category>
+		<category domain="tag"><![CDATA[Fundraising]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Grvt launches RWA perpetuals with funding tied to traditional markets]]></title>
+        <link>https://www.theblock.co/news/ecosystems/2026-11-17-grvt-launches-rwa-perpetuals-with-funding-tied-to-traditional-markets-442089</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/05/20260513_RWAs_Learn-1.jpg" type="image/*" medium="image"/>        <guid isPermaLink="false">5ec65c3e-5845-5574-856a-0c3f71ded1c2</guid>
+        <pubDate>Tue, 17 Nov 2026 13:00:00 +0000</pubDate>
+            <description><![CDATA[Grvt’s Stable Funding Perps debut across seven commodity markets, with funding rates linked to market makers’ financing costs.]]></description>            <dc:creator><![CDATA[Brian Danga]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/crypto-ecosystems"><![CDATA[Crypto Ecosystems]]></category>
+		<category domain="https://www.theblock.co/category/defi"><![CDATA[DeFi]]></category>
+		<category domain="tag"><![CDATA[Perpetuals]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Lighter reopens withdrawals after trader’s API key leak, returns about $5 million in USDC]]></title>
+        <link>https://www.theblock.co/news/defi/2026-11-17-lighter-reopens-withdrawals-after-traders-api-key-leak-returns-about-5-million-in-usdc-442113</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/01/lighter.jpg" type="image/*" medium="image"/>        <guid isPermaLink="false">2893a52a-5990-5142-a532-417f6d3640a5</guid>
+        <pubDate>Tue, 17 Nov 2026 12:00:41 +0000</pubDate>
+            <description><![CDATA[Lighter reopened deposits and withdrawals and said it returned about $5 million in USDC to the affected trader.]]></description>            <dc:creator><![CDATA[James Hunt]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/crypto-ecosystems"><![CDATA[Crypto Ecosystems]]></category>
+		<category domain="https://www.theblock.co/category/defi"><![CDATA[DeFi]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Former Robinhood engineer pleads guilty to wire fraud over trades ahead of crypto listing announcements]]></title>
+        <link>https://www.theblock.co/news/regulation/2026-11-17-former-robinhood-engineer-pleads-guilty-to-wire-fraud-over-trades-ahead-of-crypto-listing-announcements-442106</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2019/06/court-columns.jpg" type="image/*" medium="image"/>        <guid isPermaLink="false">4505424b-b1f2-5764-b90e-2f8e3f47866c</guid>
+        <pubDate>Tue, 17 Nov 2026 10:49:40 +0000</pubDate>
+            <description><![CDATA[A former Robinhood engineer faces up to 20 years after admitting to profiting from Hyperliquid trades ahead of crypto listing announcements.]]></description>            <dc:creator><![CDATA[Brian Danga]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/legal"><![CDATA[Legal]]></category>
+		<category domain="https://www.theblock.co/category/policy"><![CDATA[Policy]]></category>
+		<category domain="https://www.theblock.co/category/regulation"><![CDATA[Regulation]]></category>
+		<category domain="tag"><![CDATA[Court Hearings]]></category>
+		<category domain="tag"><![CDATA[Crime]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Tether Capital invests $15 million in Nomad, eyes wider access to USDT and XAUT in Brazil]]></title>
+        <link>https://www.theblock.co/news/business/2026-11-17-tether-nomad-brazil-investment-442097</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/06/20260612_Tether_News.jpg" type="image/*" medium="image"/>        <guid isPermaLink="false">e4599475-c4ce-5ade-bd56-e4c3d825fdc0</guid>
+        <pubDate>Tue, 17 Nov 2026 10:20:37 +0000</pubDate>
+            <description><![CDATA[Tether said the deal could ease international payments in Brazil and open the door to USDT and Tether Gold integrations.]]></description>            <dc:creator><![CDATA[Danny Park]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/companies"><![CDATA[Companies]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Grayscale says crypto pullback offers ‘compelling entry points’ as bitcoin falls to $64,000]]></title>
+        <link>https://www.theblock.co/news/markets/2026-11-17-grayscale-compelling-entry-points-bitcoin-442083</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/09/20250919_Greyscale_News_2.jpg" type="image/*" medium="image"/>        <guid isPermaLink="false">d75c4a95-d761-55ca-af9c-4b2eebe3df6d</guid>
+        <pubDate>Tue, 17 Nov 2026 07:39:17 +0000</pubDate>
+            <description><![CDATA[Grayscale Head of Research Zach Pandl said crypto still has strong fundamental demand, such as institutional adoption of stablecoins.]]></description>            <dc:creator><![CDATA[Danny Park]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/markets"><![CDATA[Markets]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Cathie Wood’s Ark Invest loads up on crypto stocks while selling $85 million in Nvidia]]></title>
+        <link>https://www.theblock.co/news/business/2026-11-17-ark-invest-buys-crypto-stocks-sells-nvidia-442080</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/GettyImages-1239809188-scaled-e1794894343475.jpg" type="image/*" medium="image"/>        <guid isPermaLink="false">b2f5291f-2973-5b4c-ab0c-304aef645428</guid>
+        <pubDate>Tue, 17 Nov 2026 06:35:02 +0000</pubDate>
+            <description><![CDATA[Cathie Wood's Ark Invest bought additional shares in Block Inc., Circle, and Coinbase as the stocks traded lower on Monday.]]></description>            <dc:creator><![CDATA[Danny Park]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/companies"><![CDATA[Companies]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[CZ denies Binance sold crypto, Bitwise sees Solana at $1,100 by 2031, and more]]></title>
+        <link>https://www.theblock.co/newsletters/the-daily/2026-11-17-cz-binance-bitwise-solana-more-crypto-news-441584</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/04/20230419_CZ_Generic.jpg" type="image/*" medium="image"/>        <guid isPermaLink="false">0a78ab23-6de8-5d51-9ace-2085bd6dd5f4</guid>
+        <pubDate>Tue, 17 Nov 2026 05:45:00 +0000</pubDate>
+            <description><![CDATA[In today's newsletter, CZ denies Binance sold crypto as bitcoin rebounds from four-month low; Bitwise sees Solana reaching $1,100 by 2031 in bull case; and more.]]></description>            <dc:creator><![CDATA[Yogita Khatri]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[CFTC backs blockchain-based derivatives infrastructure as Backpack, tZERO win approvals]]></title>
+        <link>https://www.theblock.co/news/regulation/2026-11-16-cftc-blockchain-derivatives-exchange-approval-backpack-tzero-441591</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2020/04/CFTC.jpg" type="image/*" medium="image"/>        <guid isPermaLink="false">99fb1750-57e5-5548-9479-d2cf8ec21ab3</guid>
+        <pubDate>Mon, 16 Nov 2026 23:27:15 +0000</pubDate>
+            <description><![CDATA[The CFTC has approved the first set of applications to establish regulated derivatives and exchange clearing operations that use blockchain.]]></description>            <dc:creator><![CDATA[Sarah Wynn]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/crypto-ecosystems"><![CDATA[Crypto Ecosystems]]></category>
+		<category domain="https://www.theblock.co/category/defi"><![CDATA[DeFi]]></category>
+		<category domain="https://www.theblock.co/category/policy"><![CDATA[Policy]]></category>
+		<category domain="https://www.theblock.co/category/regulation"><![CDATA[Regulation]]></category>
+		<category domain="tag"><![CDATA[CFTC]]></category>
+		<category domain="tag"><![CDATA[Derivatives]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Trezor hit by another shipping partner data leak, affecting 27,000 Skladon orders]]></title>
+        <link>https://www.theblock.co/news/business/2026-11-16-trezor-hit-another-shipping-partner-data-leak-affecting-27000-skladon-orders-441524</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/02/20230222_Trezor.jpg" type="image/*" medium="image"/>        <guid isPermaLink="false">a3a02fb4-c973-54b4-b5f3-1e4c7a15a71a</guid>
+        <pubDate>Mon, 16 Nov 2026 21:44:25 +0000</pubDate>
+            <description><![CDATA[Trezor warns of scam calls and physical security risks after customer addresses leak at shipping partner.]]></description>            <dc:creator><![CDATA[Kyle Baird]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/companies"><![CDATA[Companies]]></category>
+		<category domain="https://www.theblock.co/category/crypto-ecosystems"><![CDATA[Crypto Ecosystems]]></category>
+		<category domain="https://www.theblock.co/category/crypto-infrastructure"><![CDATA[Crypto Infrastructure]]></category>
+		<category domain="https://www.theblock.co/category/infrastructure"><![CDATA[Infrastructure]]></category>
+		<category domain="https://www.theblock.co/category/security"><![CDATA[Security]]></category>
+		<category domain="tag"><![CDATA[Exploits]]></category>
+		<category domain="tag"><![CDATA[Wallets]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+    </channel>
+</rss>
