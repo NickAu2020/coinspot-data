@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
+    <link>https://www.coindesk.com/</link>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
+    <atom:link rel="hub" href="true"/>
+    <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
+    <lastBuildDate>Thu, 19 Nov 2026 10:56:25 +0000</lastBuildDate>
+    <language>en-US</language>
+    <copyright>© 2026 CoinDesk, Inc.</copyright>
+    <generator>CoinDesk</generator>
+    <ttl>5</ttl>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    <image>
+      <url>https://downloads.coindesk.com/arc/failsafe/feeds/coindesk-feed-logo.png</url>
+      <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
+      <link>https://www.coindesk.com/</link>
+    </image>
+    <item>
+      <title><![CDATA[ ‘Highly advanced’ quantum computers could crack financial encryption in five years]]></title>
+      <link>https://www.coindesk.com/tech/2026/11/19/banks-and-blockchains-lag-on-quantum-defense-as-encryption-risks-loom-watchdog-warns</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/e87c2d1c3401c9d716f30b95b8ccef99c06082d2-2276x1707.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">27ed551b-9de0-4695-b7ff-cae60c11d1da</guid>
+      <pubDate>Thu, 19 Nov 2026 10:55:29 +0000</pubDate>
+      <description><![CDATA[No quantum computer can yet break widely used cryptography, but the securities watchdog says banks and blockchains face a yearslong security overhaul that many have barely begun.]]></description>
+      <dc:creator>Olivier Acuna</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/tech"><![CDATA[Tech]]></category>
+      <category domain="tag"><![CDATA[quantum computing]]></category>
+      <category domain="tag"><![CDATA[Bitcoin News]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[Live updates: Bitcoin nears $64,000 as Anthropic’s record IPO lifts tech]]></title>
+      <link>https://www.coindesk.com/markets/2026/11/19/live-updates-bitcoin-nears-usd64-000-as-anthropic-s-record-ipo-lifts-tech</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/78ddba1fdf70d875d5aa32a91e2feba988b0741f-1496x846.png?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">71d78148-a674-480c-b6be-d89cae654274</guid>
+      <pubDate>Thu, 19 Nov 2026 10:48:26 +0000</pubDate>
+      <description><![CDATA[Nasdaq futures jumped nearly 2% with Anthropic shares indicated as much as 24% higher, and one analyst said IPO money could flow back into crypto.]]></description>
+      <dc:creator>Shaurya Malwa</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
+      <category domain="tag"><![CDATA[Live News]]></category>
+      <category domain="https://www.coindesk.com/">live_news</category>
+    </item>
+    <item>
+      <title><![CDATA[Singapore settles $77.5 million tokenized bill sale in local CBDC]]></title>
+      <link>https://www.coindesk.com/business/2026/11/19/singapore-settles-usd77-5-million-tokenized-bill-sale-in-local-cbdc</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/b8d846e2133aa83a7cc8c40a8d6391ac0c3050bc-6192x4128.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">f2c328b3-d283-49b7-bd14-4ed08765d155</guid>
+      <pubDate>Thu, 19 Nov 2026 10:39:36 +0000</pubDate>
+      <description><![CDATA[The central bank aims to expand this digital settlement network and test wider collateral use in 2027.]]></description>
+      <dc:creator>Francisco Rodrigues</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
+      <category domain="tag"><![CDATA[CBDC]]></category>
+      <category domain="tag"><![CDATA[Singapore]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[Roundhill scraps Solana and XRP income ETFs as rival funds indicate low demand]]></title>
+      <link>https://www.coindesk.com/markets/2026/11/19/roundhill-scraps-solana-and-xrp-income-etfs-as-rival-funds-attract-just-usd12-million</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/7082c0bc8a09a5527ac657aa14cf9beac27d71a7-4096x2304.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">9b9eb29f-3e1d-4f0b-bab1-ae040233b335</guid>
+      <pubDate>Thu, 19 Nov 2026 10:22:12 +0000</pubDate>
+      <description><![CDATA[Roundhill withdrew plans for two funds designed to generate income from SOL and XRP, highlighting the gap between billions invested in spot crypto ETFs and limited demand for more specialized strategies.]]></description>
+      <dc:creator>Shaurya Malwa</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[Fed's rate hike push may be a mistake. Here's why]]></title>
+      <link>https://www.coindesk.com/markets/2026/11/19/fed-s-push-for-more-rate-hikes-leans-on-backward-looking-data-as-gas-prices-slide-analysts-argue</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/2eab4808b63892b3e12963406ff38d375ac45e9e-5760x3840.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">eff9b4e9-81e2-4006-b41f-9e0e9dffb08d</guid>
+      <pubDate>Thu, 19 Nov 2026 06:23:19 +0000</pubDate>
+      <description><![CDATA[Experts argue that the Fed is looking at the wrong data as it pushes for more interest-rate hikes, with falling gasoline and energy prices suggesting inflation pressures are already easing.]]></description>
+      <dc:creator>Omkar Godbole</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
+      <category domain="tag"><![CDATA[Federal Reserve]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[Ethereum block builders received the most in a $3.4 million vault hack, data shows]]></title>
+      <link>https://www.coindesk.com/tech/2026/11/19/ethereum-block-builders-received-the-most-in-a-usd3-4-million-vault-hack-data-shows</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/49077f3ae23a34060a80b384790794ebb4c25687-2560x1707.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">bb4f693b-e685-42b2-92f6-af790739d27b</guid>
+      <pubDate>Thu, 19 Nov 2026 05:39:06 +0000</pubDate>
+      <description><![CDATA[An automated trading bot copied the attack on K3 Capital's sBOLD vault, taking more than half the funds and paying most of its proceeds to get its transactions processed first.]]></description>
+      <dc:creator>Shaurya Malwa</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/tech"><![CDATA[Tech]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[Bitcoin miner that sold its last BTC warns it may run short of cash for $1.2 billion AI deal]]></title>
+      <link>https://www.coindesk.com/markets/2026/11/19/bitcoin-miner-that-sold-its-last-btc-warns-it-may-run-short-of-cash-for-usd1-2-billion-ai-deal</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/0fc1192501a915d72c5180473c7488ac63038946-1900x1268.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">f662035a-9b2d-403f-a065-da4f9de729ad</guid>
+      <pubDate>Thu, 19 Nov 2026 04:46:10 +0000</pubDate>
+      <description><![CDATA[Hyperscale Data needs another $74.8 million to complete its Michigan data center project, even after selling its remaining bitcoin and raising fresh debt.]]></description>
+      <dc:creator>Shaurya Malwa</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[CZ says tokenized Anthropic is coming to BNB Chain on IPO day]]></title>
+      <link>https://www.coindesk.com/markets/2026/11/19/cz-says-tokenized-anthropic-is-coming-to-bnb-chain-on-ipo-day</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/d3b0012ee91ace25714d9cd726e345705bb5bdd1-3000x1688.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">c0feb6b7-69a4-4538-951b-c12a5241fca0</guid>
+      <pubDate>Thu, 19 Nov 2026 03:40:48 +0000</pubDate>
+      <description><![CDATA[Changpeng Zhao says Anthropic-linked tokens from bStocks, Ondo and xStocks will hit BNB Chain on day one of the AI giant’s Nasdaq debut. This follows a $500 million pre-IPO rush that comes with notable fine print.]]></description>
+      <dc:creator>Omkar Godbole</dc:creator>
+      <dc:creator>AI Boost</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
+      <category domain="tag"><![CDATA[Binance]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[Another U.S. appellate court goes against Kalshi, building the industry's legal headwinds]]></title>
+      <link>https://www.coindesk.com/policy/2026/11/18/another-u-s-appellate-court-goes-against-kalshi-building-the-industry-s-legal-headwinds</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/46965db61ee4916aada25defc894a9708c8072c8-4256x2832.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">6e854afc-088b-41a4-b3d1-aa366beba94b</guid>
+      <pubDate>Thu, 19 Nov 2026 00:33:46 +0000</pubDate>
+      <description><![CDATA[Despite a Commodity Futures Trading Commission demand that prediction markets return to operating in all 50 states, federal courts continue to get in the way.]]></description>
+      <dc:creator>Jesse Hamilton</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/policy"><![CDATA[Policy]]></category>
+      <category domain="tag"><![CDATA[Kalshi]]></category>
+      <category domain="tag"><![CDATA[Prediction Markets]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[Payward, the owner of crypto exchange Kraken, is buying its CEO’s venture capital business, Tribe]]></title>
+      <link>https://www.coindesk.com/business/2026/11/18/payward-the-owner-of-crypto-exchange-kraken-is-buying-its-ceo-s-venture-capital-business-tribe</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/60eaa4392d735a85d254d5ac89ec08baf0b7a62e-2048x1152.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">99c00df0-c8d3-4a7f-839e-433b856d6844</guid>
+      <pubDate>Wed, 18 Nov 2026 22:30:00 +0000</pubDate>
+      <description><![CDATA[Sethi, who was appointed co-CEO of Kraken in October 2024, is also the chairman of Tribe Capital. ]]></description>
+      <dc:creator>Ian Allison</dc:creator>
+      <dc:creator>Will Canny</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
+      <category domain="tag"><![CDATA[Exclusive]]></category>
+      <category domain="tag"><![CDATA[Kraken]]></category>
+      <category domain="tag"><![CDATA[Payward]]></category>
+      <category domain="tag"><![CDATA[mergers and acquisitions]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[A $1.5 billion crypto startup is taking on Hyperliquid with a Wall Street playbook]]></title>
+      <link>https://www.coindesk.com/business/2026/11/18/a-usd1-5-billion-crypto-startup-is-taking-on-hyperliquid-with-a-wall-street-playbook</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/2180f062d339af02b2052281b305e8f75b13fdef-1920x1281.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">725e99d7-f277-4403-9013-a652fb24901f</guid>
+      <pubDate>Wed, 18 Nov 2026 17:22:03 +0000</pubDate>
+      <description><![CDATA[Variational and its investors are betting that the future of onchain trading will look more like a traditional brokerage than a crypto exchange.]]></description>
+      <dc:creator>Olivier Acuna</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
+      <category domain="tag"><![CDATA[Hyperliquid]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[Crypto Long & Short: Crypto exchanges shouldn’t double as the vault]]></title>
+      <link>https://www.coindesk.com/coindesk-indices/2026/11/18/crypto-long-and-short-crypto-exchanges-shouldn-t-double-as-the-vault</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/021e4767a55fc676ed4e72b281efec92af84015a-1024x683.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">adc7efbf-c665-4160-bdef-2808cff37242</guid>
+      <pubDate>Wed, 18 Nov 2026 16:02:54 +0000</pubDate>
+      <description><![CDATA[A single breach moved billions out of Binance in minutes, exposing how much client money sits with the venue that trades it. Darren Jordan of Komainu argues institutions should keep trading and custody separate, as traditional markets have for decades, and sets out the questions to ask about where assets are held.]]></description>
+      <dc:creator>Darren Jordan</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/coindesk-indices"><![CDATA[CoinDesk Indices]]></category>
+      <category domain="tag"><![CDATA[Crypto Long & Short]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[German judge proposes dropping Movie2k case if operator hands over $2.56 billion in bitcoin]]></title>
+      <link>https://www.coindesk.com/business/2026/11/18/german-judge-proposes-dropping-movie2k-case-if-operator-hands-over-usd2-56-billion-in-bitcoin</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/c18c9af8ef94bcbc9a17fac89a01b83bfc76fd8f-5472x3648.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">cb188464-170e-464a-b42c-fab107817069</guid>
+      <pubDate>Wed, 18 Nov 2026 15:38:38 +0000</pubDate>
+      <description><![CDATA[Prosecutors estimate the defendant still holds 56,000 BTC, meaning the proposed deal would leave him with roughly $1 billion.]]></description>
+      <dc:creator>Francisco Rodrigues</dc:creator>
+      <dc:creator>AI Boost</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
+      <category domain="tag"><![CDATA[Germany]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[Hong Kong wants banks to use AI to catch crypto crime before money disappears]]></title>
+      <link>https://www.coindesk.com/business/2026/11/18/hong-kong-wants-banks-to-use-ai-to-catch-crypto-crime-before-money-disappears</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/f96187856f3474dbbb316e0769389671addb2f9c-2288x1712.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">5f6c976d-b5b2-4b36-80f1-097134f685fb</guid>
+      <pubDate>Wed, 18 Nov 2026 15:23:18 +0000</pubDate>
+      <description><![CDATA[As Hong Kong pushes banks to use AI to combat crypto crime, experts say the technology must detect suspicious transfers without putting customer funds at risk.]]></description>
+      <dc:creator>Olivier Acuna</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
+      <category domain="tag"><![CDATA[Artificial Intelligence]]></category>
+      <category domain="tag"><![CDATA[banks]]></category>
+      <category domain="tag"><![CDATA[Hong Kong]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[Bitcoin miner MARA raises $185 million in debt after selling $1 billion BTC to repay loans]]></title>
+      <link>https://www.coindesk.com/markets/2026/11/18/bitcoin-miner-mara-raises-usd185-million-in-debt-after-selling-usd1-billion-btc-to-repay-loans</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/ca66b3dc87ea8726aae8c39431318f25701396b3-4000x2667.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">6b4cd988-e90c-45e3-a8b6-a7335327545b</guid>
+      <pubDate>Wed, 18 Nov 2026 12:53:34 +0000</pubDate>
+      <description><![CDATA[The bitcoin miner is taking on borrowing tied to an Ohio power plant as it shifts more of its business toward AI infrastructure.]]></description>
+      <dc:creator>Shaurya Malwa</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[Bullish beats revenue estimates as institutional services offset sluggish spot crypto volumes]]></title>
+      <link>https://www.coindesk.com/markets/2026/11/18/bullish-beats-revenue-estimates-as-institutional-services-offset-sluggish-spot-crypto-volumes</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/6d8345ab102c51714055bd408fc49095d52d1019-4000x1868.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">6cc4768b-f8ed-486b-9e52-88b613e2a599</guid>
+      <pubDate>Wed, 18 Nov 2026 12:41:09 +0000</pubDate>
+      <description><![CDATA[Bullish’s institutional focus may have shielded the company from the decline in activity experienced by rivals catering to retail traders and offers some insight to its revenue beat.]]></description>
+      <dc:creator>Helene Braun</dc:creator>
+      <dc:creator>Jamie Crawley</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
+      <category domain="tag"><![CDATA[Bullish]]></category>
+      <category domain="tag"><![CDATA[Earnings]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[Circle turns to DBS as banks build rival digital payment systems across Asia]]></title>
+      <link>https://www.coindesk.com/business/2026/11/18/circle-turns-to-dbs-as-banks-build-rival-digital-payment-systems-across-asia</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/8dc46bac5f277758d292950edb833b01adc10b1f-1134x638.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">32af0004-ef8e-48ac-a9ee-99b2366cdaec</guid>
+      <pubDate>Wed, 18 Nov 2026 12:25:14 +0000</pubDate>
+      <description><![CDATA[The Singapore bank will let institutional clients buy and redeem USDC directly as banks across Asia develop their own blockchain payment systems.]]></description>
+      <dc:creator>Olivier Acuna</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
+      <category domain="tag"><![CDATA[tokenized deposits]]></category>
+      <category domain="tag"><![CDATA[Circle]]></category>
+      <category domain="tag"><![CDATA[Stablecoins]]></category>
+      <category domain="tag"><![CDATA[Singapore]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[Blaming Anthropic’s IPO for bitcoin’s slide is 'easy to believe,' but flawed, analysts say]]></title>
+      <link>https://www.coindesk.com/daybook-us/2026/11/18/blaming-anthropic-s-ipo-for-bitcoin-s-slide-is-easy-to-believe-but-flawed-analysts-say</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/e1c6b75a8b74bc87b66e15947b85122a0ef80c34-960x640.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">52436547-9fe9-40aa-85e4-30a77d1a8e71</guid>
+      <pubDate>Wed, 18 Nov 2026 12:15:00 +0000</pubDate>
+      <description><![CDATA[Your day-ahead look for Nov. 18, 2026]]></description>
+      <dc:creator>Omkar Godbole</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/daybook-us"><![CDATA[Crypto Daybook Americas]]></category>
+      <category domain="tag"><![CDATA[Crypto Daybook Americas]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[Bitcoin drops as Nvidia earnings report drives stock index futures higher]]></title>
+      <link>https://www.coindesk.com/markets/2026/11/18/bitcoin-drops-as-nvidia-earnings-report-drives-stock-index-futures-higher</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/cd595e023b8db164a0c2455a789f2cd38081e01d-1920x1080.png?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">9418cc07-df0e-4dfa-960c-03c046649ea6</guid>
+      <pubDate>Wed, 18 Nov 2026 11:42:52 +0000</pubDate>
+      <description><![CDATA[Bitcoin (BTC) is down 1.1% since midnight UTC at around $64,100, failing to keep pace with rising stock index futures after Nvidia beat earnings.]]></description>
+      <dc:creator>Oliver Knight</dc:creator>
+      <dc:creator>Omkar Godbole</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
+      <category domain="tag"><![CDATA[Crypto Markets Today]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[Bitcoin outpaces gold even as both assets tumble ahead of a likely Fed rate hike]]></title>
+      <link>https://www.coindesk.com/markets/2026/11/18/bitcoin-outpaces-gold-even-as-both-assets-tumble-ahead-of-a-likely-fed-rate-hike</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/41eb4ef317b90c6af95d9f40fd469d1a72c6fece-1542x969.png?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">e72bc8fb-cc46-4ef3-a80c-4689113852e7</guid>
+      <pubDate>Wed, 18 Nov 2026 10:58:36 +0000</pubDate>
+      <description><![CDATA[Bitcoin held near $64,000 as gold fell 2%, lifting the ratio between the two above its 200-day moving average and extending a series of higher lows since March.]]></description>
+      <dc:creator>James Van Straten</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
+      <category domain="tag"><![CDATA[Bitcoin News]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[Strategy stock could plunge 76% to $23, chart analyst warns]]></title>
+      <link>https://www.coindesk.com/markets/2026/11/18/strategy-stock-could-crash-76-to-usd23-chart-analyst-warns</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/7b63b5e1efc97e601271d42bd7599050e6015e6c-1920x1281.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">e9751672-bd80-473e-8102-7a267c915e3e</guid>
+      <pubDate>Wed, 18 Nov 2026 09:31:41 +0000</pubDate>
+      <description><![CDATA[Aksel Kibar, who has tracked Bitcoin’s price action since at least 2018, made the bearish call, citing a still-active head-and-shoulders pattern on MicroStrategy’s (MSTR) daily chart.]]></description>
+      <dc:creator>Omkar Godbole</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
+      <category domain="tag"><![CDATA[MicroStrategy]]></category>
+      <category domain="tag"><![CDATA[Bitcoin News]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[Hyundai tests AI agent commerce on JPMorgan’s Kinexys blockchain]]></title>
+      <link>https://www.coindesk.com/business/2026/11/18/hyundai-tests-ai-agent-commerce-on-jpmorgan-s-kinexys-blockchain</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/bfe29fd94edbdf4664f3082c0e99e10ccf1842a9-1280x720.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">3d5cedab-66d5-4b00-9462-a8340db366b1</guid>
+      <pubDate>Wed, 18 Nov 2026 09:14:15 +0000</pubDate>
+      <description><![CDATA[The exploration of AI agents with JPMorgan builds on Hyundai’s recent stablecoin-based cross-border remittance pilot.
+]]></description>
+      <dc:creator>Ian Allison</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
+      <category domain="tag"><![CDATA[Artificial Intelligence]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[Google finds self-running AI hacking tool with Russian comments in its files]]></title>
+      <link>https://www.coindesk.com/tech/2026/11/18/google-finds-self-running-ai-hacking-tool-with-russian-comments-in-its-files</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/1b60f0ad8fb01131abb6c4eae334bffffef79cc4-5760x3840.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">59d2567b-cacc-4a9c-a604-4846c48c7a23</guid>
+      <pubDate>Wed, 18 Nov 2026 07:37:59 +0000</pubDate>
+      <description><![CDATA[Google spots an AI that can find and exploit software flaws on its own, no human needed.
+
+]]></description>
+      <dc:creator>Omkar Godbole</dc:creator>
+      <dc:creator>AI Boost</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/tech"><![CDATA[Tech]]></category>
+      <category domain="tag"><![CDATA[Google]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[Bitcoin falls below $63,000 as Anthropic prices IPO at $83, raising nearly $100 billion]]></title>
+      <link>https://www.coindesk.com/business/2026/11/18/live-updates-bitcoin-stuck-near-usd65-000-as-popular-basis-trade-returns-dry-up</link>
+      <guid isPermaLink="false">725a5c97-80bd-470f-b232-e5586974fd62</guid>
+      <pubDate>Wed, 18 Nov 2026 07:27:48 +0000</pubDate>
+      <description><![CDATA[The Fed's Chris Waller, for a second time, called for the central bank to consider raising its benchmark interest rate by 50 basis points at its upcoming meeting in December.]]></description>
+      <dc:creator>Shaurya Malwa</dc:creator>
+      <dc:creator>Omkar Godbole</dc:creator>
+      <dc:creator>James Van Straten</dc:creator>
+      <dc:creator>Stephen Alpher</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
+      <category domain="tag"><![CDATA[Live News]]></category>
+      <category domain="https://www.coindesk.com/">live_news</category>
+    </item>
+    <item>
+      <title><![CDATA[U.S. judge says Ethereum has ‘no terms of use,’ clears MIT brothers of $25 million fraud]]></title>
+      <link>https://www.coindesk.com/policy/2026/11/18/u-s-judge-says-ethereum-has-no-terms-of-use-clears-mit-brothers-of-usd25-million-fraud</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/4ff54342affad4b8b70857ff46850518ef027461-1500x1125.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">584935b1-7985-4f28-b0bf-a024b3f170d9</guid>
+      <pubDate>Wed, 18 Nov 2026 05:30:10 +0000</pubDate>
+      <description><![CDATA[A federal judge acquitted Anton and James Peraire-Bueno, ruling that their 2023 trade against Ethereum trading bots involved no lie that anyone relied on, and closing the U.S. government’s first criminal case over the practice known as MEV.]]></description>
+      <dc:creator>Shaurya Malwa</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/policy"><![CDATA[Policy]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+  </channel>
+</rss>
