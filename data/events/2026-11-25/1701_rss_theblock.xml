@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    >
+
+<channel>
+    <title>The Block</title>
+    <link>https://www.theblock.co</link>
+    <atom:link href="https://www.theblock.co/rss.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.theblock.co/rss.xml?paged=2" rel="next" type="application/rss+xml" />
+    <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
+    <description>The Block features breaking Crypto news about Bitcoin, Blockchain, Web3, and DeFi from the web&#039;s most reliable source.</description>
+    <lastBuildDate>Wed, 25 Nov 2026 16:54:51 +0000</lastBuildDate>
+    <language>en-US</language>
+    <copyright>© 2026 THE BLOCK</copyright>
+    <generator>TheBlock</generator>
+    <ttl>5</ttl>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    <image>
+        <url>https://www.tbstat.com/wp/uploads/2024/03/the-block-logo-wordmark-black.png</url>
+        <title>The Block</title>
+        <link>https://www.theblock.co</link>
+    </image>
+        <item>
+        <title><![CDATA[Hyperliquid’s HYPE will join bitcoin, ether and more in Franklin Templeton’s crypto ETF]]></title>
+        <link>https://www.theblock.co/news/markets/2026-11-25-franklin-templeton-ezpz-etf-adds-hyperliquid-hype-446686</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/GettyImages-1152518454-scaled.jpg" type="image/*" medium="image"/>        <guid isPermaLink="false">ca3c5569-ef1d-55ae-b410-16d7adfc7a97</guid>
+        <pubDate>Wed, 25 Nov 2026 16:54:15 +0000</pubDate>
+            <description><![CDATA[Franklin Templeton's Crypto Index ETF (EZPZ) will add Hyperliquid's HYPE token effective Dec. 1, according to an SEC prospectus supplement.]]></description>            <dc:creator><![CDATA[Jason Shubnell]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/companies"><![CDATA[Companies]]></category>
+		<category domain="https://www.theblock.co/category/crypto-ecosystems"><![CDATA[Crypto Ecosystems]]></category>
+		<category domain="https://www.theblock.co/category/deals"><![CDATA[Deals]]></category>
+		<category domain="https://www.theblock.co/category/defi"><![CDATA[DeFi]]></category>
+		<category domain="https://www.theblock.co/category/finance-firms"><![CDATA[Finance firms]]></category>
+		<category domain="https://www.theblock.co/category/funds"><![CDATA[Funds]]></category>
+		<category domain="https://www.theblock.co/category/institutional-investing"><![CDATA[Institutional Investors]]></category>
+		<category domain="https://www.theblock.co/category/markets"><![CDATA[Markets]]></category>
+		<category domain="https://www.theblock.co/category/deals-organizations"><![CDATA[Organizations]]></category>
+		<category domain="https://www.theblock.co/category/policy"><![CDATA[Policy]]></category>
+		<category domain="https://www.theblock.co/category/private-equity"><![CDATA[Private equity]]></category>
+		<category domain="https://www.theblock.co/category/regulation"><![CDATA[Regulation]]></category>
+		<category domain="tag"><![CDATA[Bitcoin ETF]]></category>
+		<category domain="tag"><![CDATA[Hyperliquid]]></category>
+		<category domain="tag"><![CDATA[Investment Firms]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Aave Labs publicly launches savings app as balances top $63 million]]></title>
+        <link>https://www.theblock.co/news/defi/2026-11-25-aave-labs-publicly-launches-savings-app-as-balances-top-63-million-446674</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/GettyImages-2245228922-scaled-e1795620299516.jpg" type="image/*" medium="image"/>        <guid isPermaLink="false">d8819af1-e9c5-53fe-b588-de92d82d5599</guid>
+        <pubDate>Wed, 25 Nov 2026 16:00:00 +0000</pubDate>
+            <description><![CDATA[Aave App supports bank transfers in the U.S., UK, and EEA, plus stablecoin deposits across eight networks.]]></description>            <dc:creator><![CDATA[James Hunt]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/crypto-ecosystems"><![CDATA[Crypto Ecosystems]]></category>
+		<category domain="https://www.theblock.co/category/defi"><![CDATA[DeFi]]></category>
+		<category domain="tag"><![CDATA[Aave]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[NovaTech founders ordered to pay $1.3 billion over crypto Ponzi scheme targeting Haitian investors]]></title>
+        <link>https://www.theblock.co/news/regulation/2026-11-25-novatech-founders-ordered-pay-1-3-million-crypto-ponzi-scheme-haitian-investors-446643</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/gettyimages-2295251687-594x594-1.jpg" type="image/*" medium="image"/>        <guid isPermaLink="false">9aa8d266-c6b9-571a-8fd7-a3d5d3be2a6f</guid>
+        <pubDate>Wed, 25 Nov 2026 15:02:10 +0000</pubDate>
+            <description><![CDATA[NovaTech founders Cynthia and Eddy Petion have been ordered to pay over $1.3 billion for their role in defrauding thousands.]]></description>            <dc:creator><![CDATA[Sarah Wynn]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/legal"><![CDATA[Legal]]></category>
+		<category domain="https://www.theblock.co/category/policy"><![CDATA[Policy]]></category>
+		<category domain="https://www.theblock.co/category/regulation"><![CDATA[Regulation]]></category>
+		<category domain="tag"><![CDATA[Crime]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Ukraine passes crypto market law, with $332 million revenue target]]></title>
+        <link>https://www.theblock.co/news/regulation/2026-11-25-ukraine-passes-crypto-market-law-with-332-million-revenue-target-446182</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/image-7.png" type="image/*" medium="image"/>        <guid isPermaLink="false">985b7802-4698-5045-bd78-922aee3acb74</guid>
+        <pubDate>Wed, 25 Nov 2026 14:35:20 +0000</pubDate>
+            <description><![CDATA[Ukraine’s parliament passed a bill establishing a regulatory and tax framework projected to generate $332 million in state budget revenue.]]></description>            <dc:creator><![CDATA[Brian Danga]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/policy-people"><![CDATA[People]]></category>
+		<category domain="https://www.theblock.co/category/policy"><![CDATA[Policy]]></category>
+		<category domain="https://www.theblock.co/category/regulation"><![CDATA[Regulation]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Bit Digital repays $50 million to Galaxy after selling 29,825 ETH]]></title>
+        <link>https://www.theblock.co/news/business/2026-11-25-bit-digital-repays-50-million-to-galaxy-after-selling-29825-eth-446164</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/GettyImages-1073598654-scaled.jpg" type="image/*" medium="image"/>        <guid isPermaLink="false">c2f9ff2c-4f7d-5521-9091-b64ffda2ac2f</guid>
+        <pubDate>Wed, 25 Nov 2026 14:15:44 +0000</pubDate>
+            <description><![CDATA[Bit Digital sold 29,825 ETH and used the proceeds to reduce its secured borrowing with Galaxy to $50 million.]]></description>            <dc:creator><![CDATA[James Hunt]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/companies"><![CDATA[Companies]]></category>
+		<category domain="https://www.theblock.co/category/crypto-ecosystems"><![CDATA[Crypto Ecosystems]]></category>
+		<category domain="https://www.theblock.co/category/deals"><![CDATA[Deals]]></category>
+		<category domain="https://www.theblock.co/category/equities"><![CDATA[Equities]]></category>
+		<category domain="https://www.theblock.co/category/layer-1s"><![CDATA[Layer 1s]]></category>
+		<category domain="https://www.theblock.co/category/market-updates"><![CDATA[Market Updates]]></category>
+		<category domain="https://www.theblock.co/category/markets"><![CDATA[Markets]]></category>
+		<category domain="https://www.theblock.co/category/nfts-gaming-and-metaverse"><![CDATA[Metaverse & NFT]]></category>
+		<category domain="https://www.theblock.co/category/crypto-ecosystems-people"><![CDATA[People]]></category>
+		<category domain="https://www.theblock.co/category/companies-people"><![CDATA[People]]></category>
+		<category domain="https://www.theblock.co/category/markets-people"><![CDATA[People]]></category>
+		<category domain="https://www.theblock.co/category/policy-people"><![CDATA[People]]></category>
+		<category domain="https://www.theblock.co/category/deals-people"><![CDATA[People]]></category>
+		<category domain="https://www.theblock.co/category/metaverse-and-nft-people"><![CDATA[People]]></category>
+		<category domain="https://www.theblock.co/category/policy"><![CDATA[Policy]]></category>
+		<category domain="https://www.theblock.co/category/token-projects"><![CDATA[Token Projects]]></category>
+		<category domain="tag"><![CDATA[Equity Movers]]></category>
+		<category domain="tag"><![CDATA[Ethereum]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[UniCredit offers bitcoin exposure to Italian retail clients with capital protection at maturity]]></title>
+        <link>https://www.theblock.co/news/business/2026-11-25-unicredit-offers-bitcoin-exposure-to-italian-retail-clients-with-capital-protection-at-maturity-446150</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/image-6.png" type="image/*" medium="image"/>        <guid isPermaLink="false">83eb7ac3-5532-58ff-9eed-1eb54ab14bba</guid>
+        <pubDate>Wed, 25 Nov 2026 12:24:32 +0000</pubDate>
+            <description><![CDATA[UniCredit is giving retail clients access to bitcoin performance through a six-year investment with protected principal and capped gains.]]></description>            <dc:creator><![CDATA[Brian Danga]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/companies"><![CDATA[Companies]]></category>
+		<category domain="https://www.theblock.co/category/crypto-ecosystems"><![CDATA[Crypto Ecosystems]]></category>
+		<category domain="https://www.theblock.co/category/finance-firms"><![CDATA[Finance firms]]></category>
+		<category domain="https://www.theblock.co/category/layer-1s"><![CDATA[Layer 1s]]></category>
+		<category domain="https://www.theblock.co/category/markets"><![CDATA[Markets]]></category>
+		<category domain="https://www.theblock.co/category/policy"><![CDATA[Policy]]></category>
+		<category domain="https://www.theblock.co/category/public-equities"><![CDATA[Public Equities]]></category>
+		<category domain="https://www.theblock.co/category/regulation"><![CDATA[Regulation]]></category>
+		<category domain="https://www.theblock.co/category/token-projects"><![CDATA[Token Projects]]></category>
+		<category domain="tag"><![CDATA[Bitcoin]]></category>
+		<category domain="tag"><![CDATA[BlackRock]]></category>
+		<category domain="tag"><![CDATA[TradFi banks]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[‘Don’t mess with X,’ Elon Musk says after platform secures default judgment in alleged bitcoin content-farm case]]></title>
+        <link>https://www.theblock.co/news/regulation/2026-11-25-dont-mess-with-x-elon-musk-says-after-platform-secures-default-judgment-in-alleged-bitcoin-content-farm-case-446151</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/GettyImages-2297775036-scaled.jpg" type="image/*" medium="image"/>        <guid isPermaLink="false">cc1c9708-bc85-5dea-ad5c-5ca768785e47</guid>
+        <pubDate>Wed, 25 Nov 2026 12:14:27 +0000</pubDate>
+            <description><![CDATA[X secured a default judgment against two defendants in its lawsuit over an alleged $271,000 creator-payout scheme.]]></description>            <dc:creator><![CDATA[James Hunt]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/companies"><![CDATA[Companies]]></category>
+		<category domain="https://www.theblock.co/category/crypto-ecosystems"><![CDATA[Crypto Ecosystems]]></category>
+		<category domain="https://www.theblock.co/category/layer-1s"><![CDATA[Layer 1s]]></category>
+		<category domain="https://www.theblock.co/category/markets"><![CDATA[Markets]]></category>
+		<category domain="https://www.theblock.co/category/nfts-gaming-and-metaverse"><![CDATA[Metaverse & NFT]]></category>
+		<category domain="https://www.theblock.co/category/companies-people"><![CDATA[People]]></category>
+		<category domain="https://www.theblock.co/category/policy-people"><![CDATA[People]]></category>
+		<category domain="https://www.theblock.co/category/metaverse-and-nft-people"><![CDATA[People]]></category>
+		<category domain="https://www.theblock.co/category/policy"><![CDATA[Policy]]></category>
+		<category domain="https://www.theblock.co/category/regulation"><![CDATA[Regulation]]></category>
+		<category domain="https://www.theblock.co/category/token-projects"><![CDATA[Token Projects]]></category>
+		<category domain="tag"><![CDATA[Bitcoin]]></category>
+		<category domain="tag"><![CDATA[Elon Musk]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Japan’s SBI, SMFG launch Solana joint venture for stablecoin payments and tokenization]]></title>
+        <link>https://www.theblock.co/news/business/2026-11-25-japans-sbi-smfg-tap-solana-stablecoin-tokenization-joint-venture-446131</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/gettyimages-2269158222-170667a-e1795600393424.jpg" type="image/*" medium="image"/>        <guid isPermaLink="false">e3a5c00d-f852-5c0f-9fe9-ebff9ac009b2</guid>
+        <pubDate>Wed, 25 Nov 2026 10:23:10 +0000</pubDate>
+            <description><![CDATA[The entity will pursue initiatives in stablecoin-based payments, financial and real-world asset tokenization, and onchain asset management.]]></description>            <dc:creator><![CDATA[Danny Park]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/companies"><![CDATA[Companies]]></category>
+		<category domain="https://www.theblock.co/category/crypto-ecosystems"><![CDATA[Crypto Ecosystems]]></category>
+		<category domain="https://www.theblock.co/category/layer-1s"><![CDATA[Layer 1s]]></category>
+		<category domain="https://www.theblock.co/category/markets"><![CDATA[Markets]]></category>
+		<category domain="https://www.theblock.co/category/token-projects"><![CDATA[Token Projects]]></category>
+		<category domain="tag"><![CDATA[Solana]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Hong Kong Monetary Authority launches digital asset platform for tokenized debt securities]]></title>
+        <link>https://www.theblock.co/news/regulation/2026-11-25-hong-kong-debt-securities-tokenization-446132</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/hong-kong-unsplash-crop-scaled.jpg" type="image/*" medium="image"/>        <guid isPermaLink="false">b613ebb9-ce14-56e8-9766-77a255bf1cfd</guid>
+        <pubDate>Wed, 25 Nov 2026 10:05:40 +0000</pubDate>
+            <description><![CDATA[HSBC, Standard Chartered, Bank of China (Hong Kong), DBS, and six other banks are the platform’s first direct participants.]]></description>            <dc:creator><![CDATA[Timmy Shen]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/crypto-ecosystems"><![CDATA[Crypto Ecosystems]]></category>
+		<category domain="https://www.theblock.co/category/policy"><![CDATA[Policy]]></category>
+		<category domain="https://www.theblock.co/category/regulation"><![CDATA[Regulation]]></category>
+		<category domain="https://www.theblock.co/category/web3"><![CDATA[Web3]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Ethereum Foundation researchers pick one hash ‘to rule them all’ for post-quantum upgrade]]></title>
+        <link>https://www.theblock.co/news/ecosystems/2026-11-25-ethereum-foundation-researchers-pick-one-hash-to-rule-them-all-for-post-quantum-upgrade-446125</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/image-5.png" type="image/*" medium="image"/>        <guid isPermaLink="false">d370e45a-3552-59d8-8b39-20d229e9993e</guid>
+        <pubDate>Wed, 25 Nov 2026 09:49:45 +0000</pubDate>
+            <description><![CDATA[Keccak-256 was favored for its long cryptanalysis record and existing role across Ethereum, despite slower proving than BLAKE3.]]></description>            <dc:creator><![CDATA[Brian Danga]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/companies"><![CDATA[Companies]]></category>
+		<category domain="https://www.theblock.co/category/crypto-ecosystems"><![CDATA[Crypto Ecosystems]]></category>
+		<category domain="https://www.theblock.co/category/deals"><![CDATA[Deals]]></category>
+		<category domain="https://www.theblock.co/category/layer-1s"><![CDATA[Layer 1s]]></category>
+		<category domain="https://www.theblock.co/category/markets"><![CDATA[Markets]]></category>
+		<category domain="https://www.theblock.co/category/nfts-gaming-and-metaverse"><![CDATA[Metaverse & NFT]]></category>
+		<category domain="https://www.theblock.co/category/crypto-ecosystems-people"><![CDATA[People]]></category>
+		<category domain="https://www.theblock.co/category/companies-people"><![CDATA[People]]></category>
+		<category domain="https://www.theblock.co/category/markets-people"><![CDATA[People]]></category>
+		<category domain="https://www.theblock.co/category/policy-people"><![CDATA[People]]></category>
+		<category domain="https://www.theblock.co/category/deals-people"><![CDATA[People]]></category>
+		<category domain="https://www.theblock.co/category/metaverse-and-nft-people"><![CDATA[People]]></category>
+		<category domain="https://www.theblock.co/category/policy"><![CDATA[Policy]]></category>
+		<category domain="https://www.theblock.co/category/token-projects"><![CDATA[Token Projects]]></category>
+		<category domain="tag"><![CDATA[Ethereum]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Ark sells $6.8 million in its own bitcoin ETF as BTC dips below $59,000]]></title>
+        <link>https://www.theblock.co/news/business/2026-11-25-ark-sells-own-bitcoin-btc-dips-446109</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/cathy-wood-getty-1crop-scaled.jpg" type="image/*" medium="image"/>        <guid isPermaLink="false">19e7e8b0-122a-5713-9861-8454d5151974</guid>
+        <pubDate>Wed, 25 Nov 2026 07:26:57 +0000</pubDate>
+            <description><![CDATA[Cathie Wood's Ark Invest sold its own Ark 21Shares bitcoin ETF on Tuesday amid a broader crypto market downturn.]]></description>            <dc:creator><![CDATA[Timmy Shen]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/companies"><![CDATA[Companies]]></category>
+		<category domain="https://www.theblock.co/category/markets"><![CDATA[Markets]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Bitcoin, ether get CFTC staff nod for expense requirements, Ethereum Foundation doubles security team, and more]]></title>
+        <link>https://www.theblock.co/newsletters/the-daily/2026-11-25-bitcoin-ether-cftc-staff-nod-ethereum-foundation-doubles-security-team-more-crypto-news-446074</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/GettyImages-1407982664.jpg" type="image/*" medium="image"/>        <guid isPermaLink="false">2fbca36e-560f-5b08-acd8-c861eff46f30</guid>
+        <pubDate>Wed, 25 Nov 2026 05:15:00 +0000</pubDate>
+            <description><![CDATA[In today's newsletter, bitcoin, ether gain recognition under CFTC financial requirements; Ethereum Foundation doubles security team as AI risks grow; and more.]]></description>            <dc:creator><![CDATA[Yogita Khatri]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Utah moves to drop criminal charges against Kalshi after platform halts operations]]></title>
+        <link>https://www.theblock.co/news/regulation/2026-11-24-utah-moves-to-drop-criminal-charges-kalshi-446090</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/GettyImages-2302253429-1crop-scaled.jpg" type="image/*" medium="image"/>        <guid isPermaLink="false">76138deb-209e-5fa7-b859-d52fa89ee09d</guid>
+        <pubDate>Wed, 25 Nov 2026 03:59:52 +0000</pubDate>
+            <description><![CDATA[AG Derek Brown's office filed a motion Monday to drop the charges without prejudice, meaning it can refile if Kalshi returns.]]></description>            <dc:creator><![CDATA[Timmy Shen]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/companies"><![CDATA[Companies]]></category>
+		<category domain="https://www.theblock.co/category/crypto-ecosystems"><![CDATA[Crypto Ecosystems]]></category>
+		<category domain="https://www.theblock.co/category/policy"><![CDATA[Policy]]></category>
+		<category domain="https://www.theblock.co/category/regulation"><![CDATA[Regulation]]></category>
+		<category domain="https://www.theblock.co/category/web3"><![CDATA[Web3]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[New York senator proposes 10% tax on prediction market fees to fund universal pre-K]]></title>
+        <link>https://www.theblock.co/news/regulation/2026-11-24-new-york-proposal-prediction-market-tax-446082</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/new-york-scaled-e1795572643523.jpg" type="image/*" medium="image"/>        <guid isPermaLink="false">92ed425f-2f0e-5c16-a8cc-e84b8801e7a5</guid>
+        <pubDate>Wed, 25 Nov 2026 02:46:14 +0000</pubDate>
+            <description><![CDATA[Proceeds from the 10% tax would be channeled to a new fund for universal pre-kindergarten for children ages 2 to 4. ]]></description>            <dc:creator><![CDATA[Danny Park]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/policy"><![CDATA[Policy]]></category>
+		<category domain="https://www.theblock.co/category/regulation"><![CDATA[Regulation]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Bitcoin miner CleanSpark swings to $987 million annual loss as BTC production declines]]></title>
+        <link>https://www.theblock.co/news/business/2026-11-24-bitcoin-miner-cleanspark-swings-987-million-annual-loss-btc-production-declines-446061</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/GettyImages-1371159075-scaled.jpg" type="image/*" medium="image"/>        <guid isPermaLink="false">e4c30568-daaa-50da-8591-839e2680c622</guid>
+        <pubDate>Tue, 24 Nov 2026 22:10:45 +0000</pubDate>
+            <description><![CDATA[CleanSpark's annual revenue fell 25% as the bitcoin miner continues to shift toward AI infrastructure.]]></description>            <dc:creator><![CDATA[Kyle Baird]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/companies"><![CDATA[Companies]]></category>
+		<category domain="https://www.theblock.co/category/crypto-ecosystems"><![CDATA[Crypto Ecosystems]]></category>
+		<category domain="https://www.theblock.co/category/crypto-infrastructure"><![CDATA[Crypto Infrastructure]]></category>
+		<category domain="https://www.theblock.co/category/equities"><![CDATA[Equities]]></category>
+		<category domain="https://www.theblock.co/category/infrastructure"><![CDATA[Infrastructure]]></category>
+		<category domain="https://www.theblock.co/category/layer-1s"><![CDATA[Layer 1s]]></category>
+		<category domain="https://www.theblock.co/category/markets"><![CDATA[Markets]]></category>
+		<category domain="https://www.theblock.co/category/public-equities"><![CDATA[Public Equities]]></category>
+		<category domain="https://www.theblock.co/category/token-projects"><![CDATA[Token Projects]]></category>
+		<category domain="tag"><![CDATA[Bitcoin]]></category>
+		<category domain="tag"><![CDATA[Crypto Treasuries]]></category>
+		<category domain="tag"><![CDATA[Earnings]]></category>
+		<category domain="tag"><![CDATA[Mining]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[SEC staff gives Molecule no-action relief for scientific research tokens]]></title>
+        <link>https://www.theblock.co/news/regulation/2026-11-24-sec-staff-gives-molecule-no-action-relief-scientific-research-tokens-446067</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/gettyimages-2212002201-594x594-1.jpg" type="image/*" medium="image"/>        <guid isPermaLink="false">e0c5764b-8e4c-568f-8f34-86296a645938</guid>
+        <pubDate>Tue, 24 Nov 2026 20:53:14 +0000</pubDate>
+            <description><![CDATA[SEC staff said it would not recommend an enforcement action against Molecule for its utility tokens that allow people to support research. ]]></description>            <dc:creator><![CDATA[Sarah Wynn]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/companies"><![CDATA[Companies]]></category>
+		<category domain="https://www.theblock.co/category/policy-people"><![CDATA[People]]></category>
+		<category domain="https://www.theblock.co/category/policy"><![CDATA[Policy]]></category>
+		<category domain="https://www.theblock.co/category/regulation"><![CDATA[Regulation]]></category>
+		<category domain="tag"><![CDATA[SEC]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Payward’s Krak plans early 2027 launch of US credit cards with bitcoin cashback, including one secured by USDC]]></title>
+        <link>https://www.theblock.co/news/business/2026-11-24-kraken-krak-early-2027-launch-us-credit-cards-bitcoin-cashback-usdc-collateral-445498</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/GettyImages-2291187154-scaled-e1795518401292.jpg" type="image/*" medium="image"/>        <guid isPermaLink="false">d74cc5b3-2786-5d5a-b7b1-75e6fea9c9c8</guid>
+        <pubDate>Tue, 24 Nov 2026 18:35:02 +0000</pubDate>
+            <description><![CDATA[Krak has opened a waitlist for two U.S. credit card products, including a secured card that uses USDC as collateral.]]></description>            <dc:creator><![CDATA[James Hunt]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/companies"><![CDATA[Companies]]></category>
+		<category domain="https://www.theblock.co/category/crypto-ecosystems"><![CDATA[Crypto Ecosystems]]></category>
+		<category domain="https://www.theblock.co/category/exchanges"><![CDATA[Exchanges]]></category>
+		<category domain="https://www.theblock.co/category/layer-1s"><![CDATA[Layer 1s]]></category>
+		<category domain="https://www.theblock.co/category/markets"><![CDATA[Markets]]></category>
+		<category domain="https://www.theblock.co/category/companies-people"><![CDATA[People]]></category>
+		<category domain="https://www.theblock.co/category/stablecoins"><![CDATA[Stablecoins]]></category>
+		<category domain="https://www.theblock.co/category/token-projects"><![CDATA[Token Projects]]></category>
+		<category domain="tag"><![CDATA[Bitcoin]]></category>
+		<category domain="tag"><![CDATA[exclusive]]></category>
+		<category domain="tag"><![CDATA[Kraken]]></category>
+		<category domain="tag"><![CDATA[USDC]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Rep. Raskin probes Trump Jr.’s firm’s investments into Polymarket and Juul over ‘suspiciously well-timed government favors’]]></title>
+        <link>https://www.theblock.co/news/regulation/2026-11-24-rep-raskin-probes-trump-jr-s-firms-investments-polymarket-juul-suspiciously-well-timed-government-favors-446052</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/GettyImages-2303145946-scaled.jpg" type="image/*" medium="image"/>        <guid isPermaLink="false">7410ae37-a6a1-5b4f-91e7-6899f821d360</guid>
+        <pubDate>Tue, 24 Nov 2026 18:05:03 +0000</pubDate>
+            <description><![CDATA[Rep. Raskin has expanded his investigation into 1789 Capital, probing potential links between investments in companies such as Polymarket.]]></description>            <dc:creator><![CDATA[Sarah Wynn]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/crypto-ecosystems"><![CDATA[Crypto Ecosystems]]></category>
+		<category domain="https://www.theblock.co/category/defi"><![CDATA[DeFi]]></category>
+		<category domain="https://www.theblock.co/category/policy"><![CDATA[Policy]]></category>
+		<category domain="https://www.theblock.co/category/regulation"><![CDATA[Regulation]]></category>
+		<category domain="tag"><![CDATA[CFTC]]></category>
+		<category domain="tag"><![CDATA[Polymarket]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[We’ve Entered Peak FEAR; SKY Falls]]></title>
+        <link>https://www.theblock.co/newsletters/data-and-insights/2026-11-24-weve-entered-peak-fear-sky-falls-445476</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/bear-cover-red-1920x1080-1.png" type="image/*" medium="image"/>        <guid isPermaLink="false">3f5411f7-38ec-55bb-8c33-b77e4096fdbb</guid>
+        <pubDate>Tue, 24 Nov 2026 17:42:29 +0000</pubDate>
+            <description><![CDATA[Fear no Greed Last week was another down week, with Bitcoin now retracing its entire summer move. The Fear and Greed Index continued its downward trend, nearly dropping to single digits. Bitcoin’s price hit a local high of $87k after rising from its summer lows and has returned to the level of around $59k at […]]]></description>            <dc:creator><![CDATA[Ivan Wu and Bryan Samsoedin]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/">News</category>
+                </item>
+        <item>
+        <title><![CDATA[Robinhood co-leads $5 million seed round for onchain trading platform Rialto]]></title>
+        <link>https://www.theblock.co/news/deals/2026-11-24-robinhood-onchain-trading-platform-rialto-funding-446030</link>
+        <media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/GettyImages-930963058.jpg" type="image/*" medium="image"/>        <guid isPermaLink="false">e1dc8528-180a-5c88-9523-e150a4ee5267</guid>
+        <pubDate>Tue, 24 Nov 2026 17:00:02 +0000</pubDate>
+            <description><![CDATA[Rialto has processed more than $600 million in spot trading volume across its app and Swap API since launching publicly in July, Can said.]]></description>            <dc:creator><![CDATA[Yogita Khatri]]></dc:creator>
+        <content:encoded/>
+        		<category domain="https://www.theblock.co/category/asia"><![CDATA[Asia]]></category>
+		<category domain="https://www.theblock.co/category/companies"><![CDATA[Companies]]></category>
+		<category domain="https://www.theblock.co/category/crypto-ecosystems"><![CDATA[Crypto Ecosystems]]></category>
+		<category domain="https://www.theblock.co/category/deals"><![CDATA[Deals]]></category>
+		<category domain="https://www.theblock.co/category/defi"><![CDATA[DeFi]]></category>
+		<category domain="https://www.theblock.co/category/exchanges"><![CDATA[Exchanges]]></category>
+		<category domain="https://www.theblock.co/category/governance"><![CDATA[Governance]]></category>
+		<category domain="https://www.theblock.co/category/lobbying"><![CDATA[Lobbying]]></category>
+		<category domain="https://www.theblock.co/category/markets"><![CDATA[Markets]]></category>
+		<category domain="https://www.theblock.co/category/policy"><![CDATA[Policy]]></category>
+		<category domain="https://www.theblock.co/category/public-equities"><![CDATA[Public Equities]]></category>
+		<category domain="https://www.theblock.co/category/token-projects"><![CDATA[Token Projects]]></category>
+		<category domain="https://www.theblock.co/category/web3"><![CDATA[Web3]]></category>
+		<category domain="tag"><![CDATA[exclusive]]></category>
+		<category domain="tag"><![CDATA[Fundraising]]></category>
+		<category domain="tag"><![CDATA[Robinhood]]></category>
+		<category domain="tag"><![CDATA[Tokenization]]></category>
+		<category domain="tag"><![CDATA[Tokens]]></category>
+		<category domain="https://www.theblock.co/">News</category>
+                </item>
+    </channel>
+</rss>
